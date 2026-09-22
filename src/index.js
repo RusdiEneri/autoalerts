@@ -4,18 +4,28 @@ import { readState, writeState, readHistory, addToHistory } from "./storage.js";
 import { sendAlertToDiscord } from "./notifier.js";
 import { updateReadme } from "./readme.js";
 
+const setEqual = (a, b) => a.size === b.size && [...a].every((x) => b.has(x));
+
 async function main() {
   console.log("AutoAlerts Monitor started...");
 
   const alerts = await fetchAllActiveAlerts();
+
+  // Guard: RSS kosong / gagal fetch → skip total.
+  // Mencegah "false reset" yang bikin semua alert dianggap baru
+  // (dan webhook duplikat) saat fetch pulih.
+  if (alerts.length === 0) {
+    console.log("⚠️ RSS kosong / gagal fetch → skip run ini.");
+    return;
+  }
+
   const state = readState();
   const previousActiveIds = new Set(state.active || []);
   const currentActiveIds = new Set(alerts.map((a) => a.identifier));
 
-  // Identifikasi alert BARU (tidak ada di state sebelumnya)
+  // Alert BARU = ada di feed sekarang, tidak ada di state sebelumnya
   const newAlerts = alerts.filter((a) => !previousActiveIds.has(a.identifier));
 
-  // Kirim webhook untuk alert baru
   if (newAlerts.length > 0) {
     console.log(`🆕 ${newAlerts.length} alert baru terdeteksi!`);
     for (const alert of newAlerts) {
@@ -23,22 +33,32 @@ async function main() {
       addToHistory(alert);
     }
   } else {
-    console.log("✅ Tidak ada alert baru (semua sudah tercatat di state).");
+    console.log("✅ Tidak ada alert baru.");
   }
 
-  // Update README dengan alert aktif + history terbaru
-  const history = readHistory();
-  updateReadme(alerts, history);
-  console.log("📄 README.md diperbarui.");
+  const activeChanged = !setEqual(previousActiveIds, currentActiveIds);
+  const readmeMissing = !fs.existsSync("README.md");
 
-  // Update state
-  const newState = {
-    active: Array.from(currentActiveIds),
-    lastCheck: new Date().toISOString(),
-    count: alerts.length,
-  };
-  writeState(newState);
-  console.log(`💾 State disimpan: ${alerts.length} alert aktif.`);
+  // HANYA regenerate README + simpan state jika benar-benar ada perubahan
+  if (activeChanged || readmeMissing) {
+    const history = readHistory();
+    updateReadme(alerts, history);
+
+    const newState = {
+      active: [...currentActiveIds].sort(), // deterministik
+      count: alerts.length,
+      // lastCheck dihapus agar file state tidak berubah tiap run
+    };
+    writeState(newState);
+
+    console.log(
+      readmeMissing && !activeChanged
+        ? "📄 README belum ada → dibuat pertama kali."
+        : "📄 Set alert aktif berubah → README + state diperbarui."
+    );
+  } else {
+    console.log("Tidak ada perubahan alert aktif → tidak ada commit.");
+  }
 }
 
 try {
