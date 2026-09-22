@@ -2,12 +2,13 @@ name: BMKG Alerts Monitor
 
 on:
   schedule:
-    # Cek setiap 10 menit (BMKG nowcast diperbarui setiap 10 menit)
+    # Cek setiap 10 menit
     - cron: "*/10 * * * *"
       timezone: "Asia/Jakarta"
 
   workflow_dispatch:
 
+  # Jalankan manual setelah workflow diubah.
   push:
     paths:
       - ".github/workflows/alerts.yml"
@@ -37,14 +38,14 @@ jobs:
 
           git config user.name "RusdiEneri"
           git config user.email "nuruddinrusydiilham@gmail.com"
-          git config pull.rebase true
 
           git remote set-url origin "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git"
 
-          BRANCH=$(git branch --show-current || echo main)
+          BRANCH="${GITHUB_REF_NAME:-main}"
+          echo "Branch: $BRANCH"
+
           git fetch origin "$BRANCH"
-          git checkout "$BRANCH"
-          git reset --hard "origin/$BRANCH"
+          git checkout -B "$BRANCH" "origin/$BRANCH"
 
       - name: Prepare data directory
         run: |
@@ -55,6 +56,7 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 20
+          cache: npm
 
       - name: Install dependencies
         run: |
@@ -75,7 +77,9 @@ jobs:
           set -euo pipefail
 
           git add -A data 2>/dev/null || true
-          if [ -f README.md ]; then git add README.md; fi
+          if [ -f README.md ]; then
+            git add README.md
+          fi
 
           echo "Status perubahan:"
           git status --short
@@ -97,12 +101,12 @@ jobs:
           TIMESTAMP=$(TZ=Asia/Jakarta date +"%Y-%m-%d %H:%M:%S WIB")
           git commit -m "docs: update peringatan dini cuaca - $TIMESTAMP [skip ci]"
 
-          BRANCH=$(git branch --show-current || echo main)
+          BRANCH="${GITHUB_REF_NAME:-main}"
 
           for attempt in 1 2 3 4 5; do
             echo "Push attempt $attempt..."
 
-            if git pull --rebase origin "$BRANCH"; then
+            if git fetch origin "$BRANCH" && git rebase "origin/$BRANCH"; then
               if git push origin "$BRANCH"; then
                 echo "✅ Push berhasil."
                 exit 0
@@ -122,4 +126,4 @@ jobs:
       - name: No changes
         if: steps.changes.outputs.changed == 'false'
         run: |
-          echo "✅ Tidak ada alert baru. Tidak membuat commit."
+          echo "✅ Tidak ada data baru/perubahan nyata. Tidak membuat commit."

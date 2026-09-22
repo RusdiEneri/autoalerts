@@ -1,13 +1,13 @@
 import axios from "axios";
 import { parseStringPromise } from "xml2js";
 import { RSS_URL, PROVINCES_FILTER } from "./config.js";
+import { getAlertKey } from "./storage.js";
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
-// Parse RSS XML → array alert { title, link, description, pubDate }
+// Parse RSS XML -> array alert { title, link, description, pubDate }
 async function fetchRSS() {
   const maxRetries = 3;
-
   for (let attempt = 0; attempt < maxRetries; attempt++) {
     try {
       const res = await axios.get(RSS_URL, {
@@ -17,11 +17,9 @@ async function fetchRSS() {
           Accept: "application/xml, text/xml",
         },
       });
-
       const parsed = await parseStringPromise(res.data, { explicitArray: false });
       const items = parsed?.rss?.channel?.item || [];
       const list = Array.isArray(items) ? items : [items];
-
       return list.map((item) => ({
         title: item.title,
         link: item.link,
@@ -38,7 +36,7 @@ async function fetchRSS() {
   return [];
 }
 
-// Parse CAP XML detail dari URL → object alert lengkap
+// Parse CAP XML detail dari URL -> object alert lengkap
 async function fetchCAPDetail(capUrl) {
   try {
     const res = await axios.get(capUrl, {
@@ -51,7 +49,6 @@ async function fetchCAPDetail(capUrl) {
 
     const parsed = await parseStringPromise(res.data, { explicitArray: false });
     const alert = parsed?.alert;
-
     if (!alert) {
       console.error(`CAP ${capUrl}: struktur tidak valid`);
       return null;
@@ -59,7 +56,6 @@ async function fetchCAPDetail(capUrl) {
 
     const info = Array.isArray(alert.info) ? alert.info[0] : alert.info;
     const area = info?.area || {};
-
     return {
       identifier: alert.identifier,
       sender: alert.sender,
@@ -137,6 +133,34 @@ export async function fetchAllActiveAlerts() {
     }
   }
 
+  // Kalau feed mengandung beberapa versi dari alert yang sama,
+  // simpan hanya versi dengan sent time paling baru.
+  const latestByKey = new Map();
+
+  for (const alert of results) {
+    const key = getAlertKey(alert);
+    const existing = latestByKey.get(key);
+
+    if (!existing) {
+      latestByKey.set(key, alert);
+      continue;
+    }
+
+    const currentSent = Date.parse(alert.sent || "") || 0;
+    const existingSent = Date.parse(existing.sent || "") || 0;
+
+    if (currentSent >= existingSent) {
+      latestByKey.set(key, alert);
+    }
+  }
+
+  const latest = [...latestByKey.values()].sort((a, b) => {
+    const aTime = Date.parse(a.sent || "") || 0;
+    const bTime = Date.parse(b.sent || "") || 0;
+    return bTime - aTime || String(a.headline).localeCompare(String(b.headline));
+  });
+
   console.log(`✅ Berhasil parse ${results.length} CAP detail.`);
-  return results;
+  console.log(`🧹 Setelah dedupe versi alert: ${latest.length} alert unik.`);
+  return latest;
 }
