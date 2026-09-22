@@ -2,9 +2,8 @@ name: BMKG Alerts Monitor
 
 on:
   schedule:
-    # Cek setiap 10 menit
+    # Cek setiap 10 menit (UTC)
     - cron: "*/10 * * * *"
-      timezone: "Asia/Jakarta"
 
   workflow_dispatch:
 

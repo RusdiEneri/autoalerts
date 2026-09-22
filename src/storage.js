@@ -17,14 +17,39 @@ const normalizeDate = (value) => {
   return Number.isNaN(parsed) ? normalize(value) : new Date(parsed).toISOString();
 };
 
-// ID logis alert tidak bergantung pada identifier CAP yang bisa berubah saat BMKG merevisi alert.
+// ID logis alert berbasis wilayah dan jenis peringatan (tidak berubah saat BMKG merevisi jam/identifier).
 export function getAlertKey(alert) {
   return [
     normalize(alert.province),
-    normalize(alert.headline),
     normalize(alert.event),
-    normalizeDate(alert.effective),
   ].join("|");
+}
+
+// Cek apakah dua alert merupakan rentetan peristiwa bencana yang sama (wilayah sama & waktu berdekatan/overlap).
+export function isSameEvent(a, b) {
+  if (!a || !b) return false;
+  if (normalize(a.province) !== normalize(b.province)) return false;
+  if (normalize(a.event) !== normalize(b.event)) return false;
+
+  const aStart = Date.parse(a.effective || "") || 0;
+  const aEnd = Date.parse(a.expires || "") || 0;
+  const bStart = Date.parse(b.effective || "") || 0;
+  const bEnd = Date.parse(b.expires || "") || 0;
+
+  // Jika tanggal tidak valid, anggap sama bila provinsi dan event sama
+  if (!aStart || !bStart) return true;
+
+  // Saling beririsan (overlap) atau bersambung (selisih berakhir < 2 jam)
+  const gracePeriod = 2 * 60 * 60 * 1000;
+  return aStart <= bEnd + gracePeriod && bStart <= aEnd + gracePeriod;
+}
+
+// Cek apakah suatu alert masih dalam masa berlaku
+export function isAlertActive(alert, now = Date.now()) {
+  if (!alert) return false;
+  const expires = Date.parse(alert.expires || "");
+  if (Number.isNaN(expires)) return false;
+  return now < expires;
 }
 
 // Fingerprint hanya berisi data yang benar-benar ditampilkan/digunakan.
@@ -50,11 +75,11 @@ export function getAlertFingerprint(alert) {
 export function readState() {
   try {
     if (!fs.existsSync(STATE_PATH)) {
-      return { schemaVersion: 2, active: {}, count: 0 };
+      return { schemaVersion: 3, active: {}, count: 0 };
     }
     return JSON.parse(fs.readFileSync(STATE_PATH, "utf8"));
   } catch {
-    return { schemaVersion: 2, active: {}, count: 0 };
+    return { schemaVersion: 3, active: {}, count: 0 };
   }
 }
 
@@ -70,21 +95,19 @@ export function readHistory() {
     const data = JSON.parse(fs.readFileSync(HISTORY_PATH, "utf8"));
     if (!Array.isArray(data)) return [];
 
-    // History disusun terbaru -> terlama, jadi versi pertama untuk key yang sama adalah versi terbaru.
-    const seen = new Set();
+    // History disusun terbaru -> terlama, buang revisi duplikat untuk event yang sama
     const unique = [];
 
     for (const alert of data) {
       if (!alert || typeof alert !== "object") continue;
-      const key = getAlertKey(alert);
-      if (seen.has(key)) continue;
-      seen.add(key);
+      const isDuplicate = unique.some((item) => isSameEvent(item, alert));
+      if (isDuplicate) continue;
       unique.push(alert);
     }
 
     const cleaned = unique.slice(0, MAX_HISTORY);
 
-    // Sekalian bersihkan history lama yang berisi versi/duplikat alert yang sama.
+    // Bersihkan file history jika terdapat duplikasi versi revisi
     if (JSON.stringify(cleaned) !== JSON.stringify(data)) {
       writeHistory(cleaned);
     }
@@ -106,8 +129,7 @@ export function writeHistory(history) {
 
 export function upsertHistory(alert) {
   const history = readHistory();
-  const key = getAlertKey(alert);
-  const index = history.findIndex((item) => getAlertKey(item) === key);
+  const index = history.findIndex((item) => isSameEvent(item, alert));
 
   // identifier/sent baru tetapi isi sama -> jangan tulis ulang.
   if (index !== -1 && getAlertFingerprint(history[index]) === getAlertFingerprint(alert)) {

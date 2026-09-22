@@ -1,7 +1,7 @@
 import axios from "axios";
 import { parseStringPromise } from "xml2js";
 import { RSS_URL, PROVINCES_FILTER } from "./config.js";
-import { getAlertKey } from "./storage.js";
+import { getAlertKey, readHistory, isAlertActive } from "./storage.js";
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
@@ -36,49 +36,53 @@ async function fetchRSS() {
   return [];
 }
 
-// Parse CAP XML detail dari URL -> object alert lengkap
+// Parse CAP XML detail dari URL -> object alert lengkap dengan retry
 async function fetchCAPDetail(capUrl) {
-  try {
-    const res = await axios.get(capUrl, {
-      timeout: 20000,
-      headers: {
-        "User-Agent": "Mozilla/5.0 (compatible; AutoAlerts/1.0)",
-        Accept: "application/xml, text/xml",
-      },
-    });
+  const maxRetries = 3;
+  for (let attempt = 0; attempt < maxRetries; attempt++) {
+    try {
+      const res = await axios.get(capUrl, {
+        timeout: 20000,
+        headers: {
+          "User-Agent": "Mozilla/5.0 (compatible; AutoAlerts/1.0)",
+          Accept: "application/xml, text/xml",
+        },
+      });
 
-    const parsed = await parseStringPromise(res.data, { explicitArray: false });
-    const alert = parsed?.alert;
-    if (!alert) {
-      console.error(`CAP ${capUrl}: struktur tidak valid`);
-      return null;
+      const parsed = await parseStringPromise(res.data, { explicitArray: false });
+      const alert = parsed?.alert;
+      if (!alert) {
+        console.error(`CAP ${capUrl}: struktur tidak valid`);
+        return null;
+      }
+
+      const info = Array.isArray(alert.info) ? alert.info[0] : alert.info;
+      const area = info?.area || {};
+      return {
+        identifier: alert.identifier,
+        sender: alert.sender,
+        sent: alert.sent,
+        status: alert.status,
+        event: info?.event || "-",
+        urgency: info?.urgency || "-",
+        severity: info?.severity || "-",
+        certainty: info?.certainty || "-",
+        effective: info?.effective,
+        expires: info?.expires,
+        senderName: info?.senderName || alert.sender,
+        headline: info?.headline || "-",
+        description: info?.description || "-",
+        web: info?.web || null,
+        areaDesc: Array.isArray(area.areaDesc) ? area.areaDesc[0] : area.areaDesc || "-",
+        polygon: area.polygon || null,
+        capUrl,
+      };
+    } catch (err) {
+      console.error(`Gagal fetch CAP ${capUrl} (attempt ${attempt + 1}/${maxRetries}):`, err.message);
+      if (attempt < maxRetries - 1) await sleep(2000);
     }
-
-    const info = Array.isArray(alert.info) ? alert.info[0] : alert.info;
-    const area = info?.area || {};
-    return {
-      identifier: alert.identifier,
-      sender: alert.sender,
-      sent: alert.sent,
-      status: alert.status,
-      event: info?.event || "-",
-      urgency: info?.urgency || "-",
-      severity: info?.severity || "-",
-      certainty: info?.certainty || "-",
-      effective: info?.effective,
-      expires: info?.expires,
-      senderName: info?.senderName || alert.sender,
-      headline: info?.headline || "-",
-      description: info?.description || "-",
-      web: info?.web || null,
-      areaDesc: Array.isArray(area.areaDesc) ? area.areaDesc[0] : area.areaDesc || "-",
-      polygon: area.polygon || null,
-      capUrl,
-    };
-  } catch (err) {
-    console.error(`Gagal fetch CAP ${capUrl}:`, err.message);
-    return null;
   }
+  return null;
 }
 
 // Filter provinsi jika perlu
@@ -115,6 +119,7 @@ export async function fetchAllActiveAlerts() {
   const filtered = filterByProvince(rssItems);
   console.log(`✅ Ditemukan ${filtered.length} peringatan aktif.`);
 
+  const cachedHistory = readHistory();
   const results = [];
   for (const item of filtered) {
     const alertId = extractAlertId(item.link);
@@ -123,7 +128,18 @@ export async function fetchAllActiveAlerts() {
       continue;
     }
 
-    const capDetail = await fetchCAPDetail(item.link);
+    let capDetail = await fetchCAPDetail(item.link);
+    if (!capDetail) {
+      // Fallback: Jika fetch gagal setelah 3x retry, cari data cache di history agar alert aktif tidak ter-drop
+      const cached = cachedHistory.find(
+        (h) => h.capUrl === item.link || (extractProvince(item.title) === h.province && isAlertActive(h))
+      );
+      if (cached) {
+        console.warn(`⚠️ Menggunakan data cache history untuk ${item.link} agar tidak drop dari state.`);
+        capDetail = { ...cached };
+      }
+    }
+
     if (capDetail) {
       results.push({
         ...capDetail,

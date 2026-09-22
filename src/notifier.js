@@ -21,6 +21,8 @@ const formatTime = (isoString) => {
   }
 };
 
+const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+
 export async function sendAlertToDiscord(alert) {
   if (!WEBHOOK_URL) return false;
 
@@ -48,12 +50,22 @@ export async function sendAlertToDiscord(alert) {
     ],
   };
 
-  try {
-    await axios.post(WEBHOOK_URL, payload);
-    console.log(`📨 Webhook terkirim: ${alert.headline}`);
-    return true;
-  } catch (err) {
-    console.error(`Gagal kirim webhook untuk ${alert.identifier}:`, err.message);
-    return false;
+  const maxRetries = 3;
+  for (let attempt = 0; attempt < maxRetries; attempt++) {
+    try {
+      await axios.post(WEBHOOK_URL, payload);
+      console.log(`📨 Webhook terkirim: ${alert.headline}`);
+      return true;
+    } catch (err) {
+      if (err.response?.status === 429 && attempt < maxRetries - 1) {
+        const retryAfter = Number(err.response.headers["retry-after"]) || 2;
+        console.warn(`⏳ Discord rate-limit. Menunggu ${retryAfter} detik...`);
+        await sleep((retryAfter + 0.5) * 1000);
+        continue;
+      }
+      console.error(`Gagal kirim webhook untuk ${alert.identifier}:`, err.message);
+      return false;
+    }
   }
+  return false;
 }
