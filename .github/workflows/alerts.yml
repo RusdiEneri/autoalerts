@@ -1,0 +1,125 @@
+name: BMKG Alerts Monitor
+
+on:
+  schedule:
+    # Cek setiap 10 menit (BMKG nowcast diperbarui setiap 10 menit)
+    - cron: "*/10 * * * *"
+      timezone: "Asia/Jakarta"
+
+  workflow_dispatch:
+
+  push:
+    paths:
+      - ".github/workflows/alerts.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  run-monitor:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Git
+        run: |
+          set -euo pipefail
+
+          git config user.name "RusdiEneri"
+          git config user.email "nuruddinrusydiilham@gmail.com"
+          git config pull.rebase true
+
+          git remote set-url origin "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git"
+
+          BRANCH=$(git branch --show-current || echo main)
+          git fetch origin "$BRANCH"
+          git checkout "$BRANCH"
+          git reset --hard "origin/$BRANCH"
+
+      - name: Prepare data directory
+        run: |
+          mkdir -p data
+          ls -la
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: |
+          if [ -f package-lock.json ]; then
+            npm ci
+          else
+            npm install
+          fi
+
+      - name: Run AutoAlerts Monitor
+        env:
+          WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
+        run: node src/index.js
+
+      - name: Check for changes
+        id: changes
+        run: |
+          set -euo pipefail
+
+          git add -A data 2>/dev/null || true
+          if [ -f README.md ]; then git add README.md; fi
+
+          echo "Status perubahan:"
+          git status --short
+
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "✅ Tidak ada perubahan."
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+            echo "📝 README/data berubah."
+            git diff --cached --stat
+          fi
+
+      - name: Commit and push
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          set -euo pipefail
+
+          TIMESTAMP=$(TZ=Asia/Jakarta date +"%Y-%m-%d %H:%M:%S WIB")
+          git commit -m "docs: update peringatan dini cuaca - $TIMESTAMP [skip ci]"
+
+          BRANCH=$(git branch --show-current || echo main)
+
+          for attempt in 1 2 3 4 5; do
+            echo "Push attempt $attempt..."
+
+            if git pull --rebase origin "$BRANCH"; then
+              if git push origin "$BRANCH"; then
+                echo "✅ Push berhasil."
+                exit 0
+              fi
+            else
+              echo "⚠️ Rebase gagal."
+              git rebase --abort || true
+            fi
+
+            echo "Push gagal, mencoba lagi dalam 10 detik..."
+            sleep 10
+          done
+
+          echo "❌ Push gagal setelah 5 percobaan."
+          exit 1
+
+      - name: No changes
+        if: steps.changes.outputs.changed == 'false'
+        run: |
+          echo "✅ Tidak ada alert baru. Tidak membuat commit."
