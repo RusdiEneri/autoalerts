@@ -8,7 +8,7 @@ on:
 
   workflow_dispatch:
 
-  # Jalankan manual setelah workflow diubah.
+  # Jalankan saat workflow ini diubah.
   push:
     paths:
       - ".github/workflows/alerts.yml"
@@ -27,7 +27,7 @@ jobs:
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           fetch-depth: 0
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -53,17 +53,21 @@ jobs:
           ls -la
 
       - name: Setup Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v7
         with:
-          node-version: 20
-          cache: npm
+          node-version: "24"
+          # Repo tidak memiliki package-lock.json
+          # sehingga caching npm harus dimatikan.
+          package-manager-cache: false
 
       - name: Install dependencies
         run: |
+          set -euo pipefail
+
           if [ -f package-lock.json ]; then
-            npm ci
+            npm ci --no-audit --no-fund
           else
-            npm install
+            npm install --no-audit --no-fund --no-package-lock
           fi
 
       - name: Run AutoAlerts Monitor
@@ -77,6 +81,7 @@ jobs:
           set -euo pipefail
 
           git add -A data 2>/dev/null || true
+
           if [ -f README.md ]; then
             git add README.md
           fi
@@ -99,18 +104,23 @@ jobs:
           set -euo pipefail
 
           TIMESTAMP=$(TZ=Asia/Jakarta date +"%Y-%m-%d %H:%M:%S WIB")
-          git commit -m "docs: update peringatan dini cuaca - $TIMESTAMP [skip ci]"
+
+          git commit \
+            -m "docs: update peringatan dini cuaca - $TIMESTAMP [skip ci]"
 
           BRANCH="${GITHUB_REF_NAME:-main}"
 
           for attempt in 1 2 3 4 5; do
             echo "Push attempt $attempt..."
 
-            if git fetch origin "$BRANCH" && git rebase "origin/$BRANCH"; then
+            if git fetch origin "$BRANCH" &&
+               git rebase "origin/$BRANCH"; then
+
               if git push origin "$BRANCH"; then
                 echo "✅ Push berhasil."
                 exit 0
               fi
+
             else
               echo "⚠️ Rebase gagal."
               git rebase --abort || true
