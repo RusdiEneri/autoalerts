@@ -2,7 +2,7 @@
 
 > Monitor real-time peringatan dini cuaca ekstrem dari **BMKG** (nowcast, 0–6 jam ke depan). Data diambil otomatis setiap 10 menit dari API publik BMKG, ditampilkan langsung di README ini, dan dikirim ke Discord webhook jika ada peringatan baru.
 
-🕒 **Update terakhir:** Selasa, 22 September 2026 pukul 15.58.00
+🕒 **Update terakhir:** Selasa, 22 September 2026 pukul 16.00.51
 📊 **Peringatan aktif saat ini:** 17
 📜 **Riwayat peringatan terakhir:** 20
 
@@ -36,6 +36,16 @@
 
 | Severity | Headline | Provinsi | Periode Berlaku | Terdeteksi |
 | --- | --- | --- | --- | --- |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Utara | Sumatera Utara | Sel, 22 Sep, 13.45 – Sel, 22 Sep, 16.45 | Sel, 22 Sep, 16.00 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Bengkulu | Bengkulu | Sel, 22 Sep, 13.40 – Sel, 22 Sep, 17.00 | Sel, 22 Sep, 16.00 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Sulawesi Tengah | Sulawesi Tengah | Sel, 22 Sep, 14.42 – Sel, 22 Sep, 17.00 | Sel, 22 Sep, 16.00 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Selatan | Sumatera Selatan | Sel, 22 Sep, 15.20 – Sel, 22 Sep, 17.00 | Sel, 22 Sep, 16.00 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Kep. Riau | Kep. Riau | Sel, 22 Sep, 15.15 – Sel, 22 Sep, 17.15 | Sel, 22 Sep, 16.00 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Barat | Kalimantan Barat | Sel, 22 Sep, 15.15 – Sel, 22 Sep, 17.15 | Sel, 22 Sep, 16.00 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Tengah | Kalimantan Tengah | Sel, 22 Sep, 15.29 – Sel, 22 Sep, 17.00 | Sel, 22 Sep, 16.00 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Kep. Bangka Belitung | Kep. Bangka Belitung | Sel, 22 Sep, 15.30 – Sel, 22 Sep, 17.00 | Sel, 22 Sep, 16.00 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Riau | Riau | Sel, 22 Sep, 15.30 – Sel, 22 Sep, 18.00 | Sel, 22 Sep, 16.00 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Jambi | Jambi | Sel, 22 Sep, 15.50 – Sel, 22 Sep, 18.53 | Sel, 22 Sep, 16.00 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Selatan | Sumatera Selatan | Sel, 22 Sep, 13.20 – Sel, 22 Sep, 15.20 | Sel, 22 Sep, 15.58 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Banten | Banten | Sel, 22 Sep, 13.30 – Sel, 22 Sep, 16.00 | Sel, 22 Sep, 15.57 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Kep. Riau | Kep. Riau | Sel, 22 Sep, 13.30 – Sel, 22 Sep, 15.30 | Sel, 22 Sep, 15.57 |
@@ -46,16 +56,6 @@
 | 🟡 Moderate | Hujan Lebat disertai Petir di Sulawesi Tengah | Sulawesi Tengah | Sel, 22 Sep, 14.42 – Sel, 22 Sep, 17.00 | Sel, 22 Sep, 15.57 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Lampung | Lampung | Sel, 22 Sep, 14.40 – Sel, 22 Sep, 16.00 | Sel, 22 Sep, 15.57 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Selatan | Sumatera Selatan | Sel, 22 Sep, 15.20 – Sel, 22 Sep, 17.00 | Sel, 22 Sep, 15.57 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Nusa Tenggara Timur | Nusa Tenggara Timur | Sel, 22 Sep, 15.30 – Sel, 22 Sep, 18.30 | Sel, 22 Sep, 15.57 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Kep. Riau | Kep. Riau | Sel, 22 Sep, 15.15 – Sel, 22 Sep, 17.15 | Sel, 22 Sep, 15.57 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Barat | Kalimantan Barat | Sel, 22 Sep, 15.15 – Sel, 22 Sep, 17.15 | Sel, 22 Sep, 15.57 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Tengah | Kalimantan Tengah | Sel, 22 Sep, 15.29 – Sel, 22 Sep, 17.00 | Sel, 22 Sep, 15.57 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Kep. Bangka Belitung | Kep. Bangka Belitung | Sel, 22 Sep, 15.30 – Sel, 22 Sep, 17.00 | Sel, 22 Sep, 15.57 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Riau | Riau | Sel, 22 Sep, 15.30 – Sel, 22 Sep, 18.00 | Sel, 22 Sep, 15.57 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Jambi | Jambi | Sel, 22 Sep, 15.50 – Sel, 22 Sep, 18.53 | Sel, 22 Sep, 15.57 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Papua | Papua | Sel, 22 Sep, 09.48 – Sel, 22 Sep, 12.48 | Sel, 22 Sep, 12.56 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Jambi | Jambi | Sel, 22 Sep, 10.25 – Sel, 22 Sep, 12.25 | Sel, 22 Sep, 12.56 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Barat | Sumatera Barat | Sel, 22 Sep, 10.40 – Sel, 22 Sep, 12.40 | Sel, 22 Sep, 12.56 |
 
 ---
 
