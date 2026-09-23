@@ -1,19 +1,11 @@
 {
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "active": {
-    "banten|hujan lebat disertai petir di banten|hujan lebat dan petir|2026-09-22T09:20:00.000Z": "005349c856728a4a1504bb7220147c5cf4adaef4",
-    "bengkulu|hujan lebat disertai petir di bengkulu|hujan lebat dan petir|2026-09-22T10:40:00.000Z": "b3e83efa0a93f318b67ba460e104da7eba91963f",
-    "gorontalo|hujan lebat disertai petir di gorontalo|hujan lebat dan petir|2026-09-22T10:05:00.000Z": "b7fed0bf05dd001f6f0d45668419b6811c05d16b",
-    "jakarta|hujan lebat disertai petir di jakarta|hujan lebat dan petir|2026-09-22T10:25:00.000Z": "683818cf9909eb828f0acb8e3c747430a6a452d0",
-    "jambi|hujan lebat disertai petir di jambi|hujan lebat dan petir|2026-09-22T08:50:00.000Z": "e108ff237bb5afe1ab8d1ae3827b60da0a55b8ab",
-    "kalimantan barat|hujan lebat disertai petir di kalimantan barat|hujan lebat dan petir|2026-09-22T10:00:00.000Z": "4445070fcb855aa5f05134a8f0a76313738cfda4",
-    "kalimantan tengah|hujan lebat disertai petir di kalimantan tengah|hujan lebat dan petir|2026-09-22T10:40:00.000Z": "e20cc250dcf01fc689bbdd5045684a7734fae8f6",
-    "kep. riau|hujan lebat disertai petir di kep. riau|hujan lebat dan petir|2026-09-22T10:20:00.000Z": "d78e0aa2c83a0ae3498a412ce90a0d619b2d655c",
-    "nusa tenggara timur|hujan lebat disertai petir di nusa tenggara timur|hujan lebat dan petir|2026-09-22T08:30:00.000Z": "b76ceeaf969db911e0a133fc105954a0ed472e5f",
-    "papua|hujan lebat disertai petir di papua|hujan lebat dan petir|2026-09-22T10:20:00.000Z": "74deb2542c3dc8bac3f1ad0b7c217603a2804532",
-    "sumatera barat|hujan lebat disertai petir di sumatera barat|hujan lebat dan petir|2026-09-22T09:44:00.000Z": "ce1b3d1ad6544a878e69c8ce6836129e3d7c5a13",
-    "sumatera selatan|hujan lebat disertai petir di sumatera selatan|hujan lebat dan petir|2026-09-22T10:10:00.000Z": "15c7963393668588f9db4539ec9fb35ba7a772d5",
-    "sumatera utara|hujan lebat disertai petir di sumatera utara|hujan lebat dan petir|2026-09-22T10:00:00.000Z": "ce7921820ad82f7cefae5f016e70c0e3f6d6fc50"
+    "jambi|hujan lebat dan petir": "33859a059c08ab44d9d2eae28ac708d0d3edabc3",
+    "kep. riau|hujan lebat dan petir": "3572adc0d2872ba83e9f3d5baaebfecc0d87e208",
+    "riau|hujan lebat dan petir": "3ef9c8135b9503257d6b9ce58fc0c9857a6ebdc9",
+    "sulawesi tengah|hujan lebat dan petir": "6d323f49bb92ac42e6eb42c339ea1aa2b7934081",
+    "sumatera barat|hujan lebat dan petir": "f95af8aabc30ec0961c01c94daf51183667f80ce"
   },
-  "count": 13
+  "count": 5
 }
