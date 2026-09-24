@@ -1,12 +1,23 @@
 {
   "schemaVersion": 3,
   "active": {
-    "jambi|hujan lebat dan petir": "05a1ad9c0fc036ee734a14a11d5f30dbc85c036f",
-    "kalimantan utara|hujan lebat dan petir": "b68886acf8ec859c2ddf9aaf6840ea5f06ce9743",
-    "kep. riau|hujan lebat dan petir": "dfea5f3551c651155f83257b000a1ee197148f14",
-    "riau|hujan lebat dan petir": "fb856734fe27dfccf0f8bd93e1d4b3429661ab07",
-    "sulawesi tengah|hujan lebat dan petir": "147b80a9fc56fe6dd9b1f095621509ed4820673a",
-    "sumatera selatan|hujan lebat dan petir": "a9948cee73a00f3f24eb363e76a1972ad18d6a0c"
+    "aceh|hujan lebat dan petir": "3852e7ab377bff33f8c1d1edd0f17357e2efaa1e",
+    "banten|hujan lebat dan petir": "d3943e7ec7bd17e0027d48d02ec581125b9465d2",
+    "bengkulu|hujan lebat dan petir": "da1469ba67b1b37c9c73e61fd1b66fe756ddb71a",
+    "gorontalo|hujan lebat dan petir": "d6ae7c8ea565215317884cde254701e064c23cdb",
+    "jambi|hujan lebat dan petir": "6b7441bcf2778007b2cf888f64ef9b9126eae03f",
+    "jawa barat|hujan lebat dan petir": "663da708b764bd04de4bfb65021ebe2f5679a014",
+    "kalimantan barat|hujan lebat dan petir": "35391974a4800711f091d2451305c7d83b63cca9",
+    "kalimantan selatan|hujan lebat dan petir": "c8a82dfdd761c90d91d9a0712b0b9311de7d7b13",
+    "kalimantan tengah|hujan lebat dan petir": "1ac698c76ef50460041fc622ce9a8fc87c276b5c",
+    "kep. bangka belitung|hujan lebat dan petir": "1d02d6369b6d19a924c0c911a939c956712d4430",
+    "kep. riau|hujan lebat dan petir": "dc8ceb5180d30fbba1e26a7d54dbbf552afdd6ae",
+    "lampung|hujan lebat dan petir": "17d2e2b8d6e66ea78b42442e98b1bd88814921b3",
+    "sulawesi barat|hujan lebat dan petir": "f7c6cd9ec60d587831efbc1db76eaf6df87ae7cb",
+    "sulawesi tengah|hujan lebat dan petir": "2554042985da768c1857088d342db45c5d0e2fdc",
+    "sumatera barat|hujan lebat dan petir": "51da2240e2337378c35f54dbfd23fe0a8890ec58",
+    "sumatera selatan|hujan lebat dan petir": "aa862954be4da273d2af3e9b2958d9a6c15ec907",
+    "sumatera utara|hujan lebat dan petir": "a6972d545b13dda7c73205075ae21bb0ffb57751"
   },
-  "count": 6
+  "count": 17
 }
