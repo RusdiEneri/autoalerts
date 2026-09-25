@@ -2,13 +2,10 @@ name: BMKG Alerts Monitor
 
 on:
   schedule:
-    # Cek setiap 10 menit (UTC)
     - cron: "*/10 * * * *"
-      timezone: "Asia/Jakarta"
 
   workflow_dispatch:
 
-  # Jalankan saat workflow ini diubah.
   push:
     paths:
       - ".github/workflows/alerts.yml"
@@ -56,8 +53,6 @@ jobs:
         uses: actions/setup-node@v7
         with:
           node-version: "24"
-          # Repo tidak memiliki package-lock.json
-          # sehingga caching npm harus dimatikan.
           package-manager-cache: false
 
       - name: Install dependencies
