@@ -2,8 +2,8 @@
 
 > Monitor real-time peringatan dini cuaca ekstrem dari **BMKG** (nowcast, 0–6 jam ke depan). Data diambil otomatis setiap 10 menit dari API publik BMKG, ditampilkan langsung di README ini, dan dikirim ke Discord webhook jika ada peringatan baru.
 
-🕒 **Update terakhir:** Jumat, 25 September 2026 pukul 04.48.09
-📊 **Peringatan aktif saat ini:** 5
+🕒 **Update terakhir:** Jumat, 25 September 2026 pukul 07.05.22
+📊 **Peringatan aktif saat ini:** 2
 📜 **Riwayat peringatan terakhir:** 20
 
 ---
@@ -12,11 +12,8 @@
 
 | Severity | Urgency | Headline & Wilayah | Durasi (WIB) |
 | --- | --- | --- | --- |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kalimantan Tengah**<br>📍 Kalimantan Tengah<br>Hujan lebat disertai petir akan terjadi pada 25 September 2026, 04:45 WIB di sebagian wilayah Kalimantan Tengah, khususnya di MANDAU TALAWANG, MURUNG,... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CKG/2026/09/25/infografis.jpg) | Jum, 25 Sep, 04.45 – Jum, 25 Sep, 06.45 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kalimantan Barat**<br>📍 Kalimantan Barat<br>Hujan lebat disertai petir akan terjadi pada 25 September 2026, 04:00 WIB di sebagian wilayah Kalimantan Barat, khususnya di BELIMBING, BELIMBING HULU... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CKB/2026/09/25/infografis.jpg) | Jum, 25 Sep, 04.00 – Jum, 25 Sep, 06.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sulawesi Tengah**<br>📍 Sulawesi Tengah<br>Hujan lebat disertai petir akan terjadi pada 25 September 2026, 04:30 WITA di sebagian wilayah Sulawesi Tengah, khususnya di BALINGGI, KULAWI, TORIBUL... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CSG/2026/09/25/infografis.jpg) | Jum, 25 Sep, 03.30 – Jum, 25 Sep, 06.30 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kalimantan Timur**<br>📍 Kalimantan Timur<br>Hujan lebat disertai petir akan terjadi pada 25 September 2026, 04:10 WITA di sebagian wilayah Kalimantan Timur, khususnya di BABULU, LONG APARI, LONG... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CKT/2026/09/25/infografis.jpg) | Jum, 25 Sep, 03.10 – Jum, 25 Sep, 05.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kep. Riau**<br>📍 Kep. Riau<br>Hujan lebat disertai petir akan terjadi pada 25 September 2026, 02:50 WIB di sebagian wilayah Kep. Riau, khususnya di PALMATAK, SIANTAN TIMUR. Kondisi... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CKR/2026/09/25/infografis.jpg) | Jum, 25 Sep, 02.50 – Jum, 25 Sep, 05.00 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kalimantan Tengah**<br>📍 Kalimantan Tengah<br>Hujan lebat disertai petir akan terjadi pada 25 September 2026, 06:50 WIB di sebagian wilayah Kalimantan Tengah, khususnya di KAHAYAN HULU UTARA, KAPU... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CKG/2026/09/25/infografis.jpg) | Jum, 25 Sep, 06.50 – Jum, 25 Sep, 09.00 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kalimantan Timur**<br>📍 Kalimantan Timur<br>Hujan lebat disertai petir akan terjadi pada 25 September 2026, 07:30 WITA di sebagian wilayah Kalimantan Timur, khususnya di BALIKPAPAN SELATAN, BALI... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CKT/2026/09/25/infografis.jpg) | Jum, 25 Sep, 06.30 – Jum, 25 Sep, 07.40 |
 
 ---
 
@@ -24,11 +21,11 @@
 
 | Severity | Headline | Provinsi | Periode Berlaku | Terdeteksi |
 | --- | --- | --- | --- | --- |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Timur | Kalimantan Timur | Jum, 25 Sep, 06.30 – Jum, 25 Sep, 07.40 | Jum, 25 Sep, 04.48 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Tengah | Kalimantan Tengah | Jum, 25 Sep, 06.50 – Jum, 25 Sep, 09.00 | Jum, 25 Sep, 01.36 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Sulawesi Tengah | Sulawesi Tengah | Jum, 25 Sep, 03.30 – Jum, 25 Sep, 06.30 | Jum, 25 Sep, 01.36 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Barat | Kalimantan Barat | Jum, 25 Sep, 04.00 – Jum, 25 Sep, 06.00 | Kam, 24 Sep, 21.25 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Tengah | Kalimantan Tengah | Jum, 25 Sep, 04.45 – Jum, 25 Sep, 06.45 | Jum, 25 Sep, 01.36 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Kep. Riau | Kep. Riau | Jum, 25 Sep, 02.50 – Jum, 25 Sep, 05.00 | Jum, 25 Sep, 04.48 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Timur | Kalimantan Timur | Jum, 25 Sep, 03.10 – Jum, 25 Sep, 05.00 | Jum, 25 Sep, 04.48 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Lampung | Lampung | Kam, 24 Sep, 23.00 – Jum, 25 Sep, 02.00 | Kam, 24 Sep, 21.25 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Utara | Sumatera Utara | Kam, 24 Sep, 23.15 – Jum, 25 Sep, 02.15 | Kam, 24 Sep, 21.25 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Papua | Papua | Jum, 25 Sep, 00.50 – Jum, 25 Sep, 02.00 | Jum, 25 Sep, 01.36 |
