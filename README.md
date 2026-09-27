@@ -2,8 +2,8 @@
 
 > Monitor real-time peringatan dini cuaca ekstrem dari **BMKG** (nowcast, 0–6 jam ke depan). Data diambil otomatis setiap 10 menit dari API publik BMKG, ditampilkan langsung di README ini, dan dikirim ke Discord webhook jika ada peringatan baru.
 
-🕒 **Update terakhir:** Minggu, 27 September 2026 pukul 05.58.43
-📊 **Peringatan aktif saat ini:** 6
+🕒 **Update terakhir:** Minggu, 27 September 2026 pukul 08.19.12
+📊 **Peringatan aktif saat ini:** 5
 📜 **Riwayat peringatan terakhir:** 20
 
 ---
@@ -12,12 +12,11 @@
 
 | Severity | Urgency | Headline & Wilayah | Durasi (WIB) |
 | --- | --- | --- | --- |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kep. Riau**<br>📍 Kep. Riau<br>Hujan lebat disertai petir akan terjadi pada 27 September 2026, 08:00 WIB di sebagian wilayah Kep. Riau, khususnya di DURAI, GALANG, GUNUNG KIJANG, MO... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CKR/2026/09/27/infografis.jpg) | Min, 27 Sep, 08.00 – Min, 27 Sep, 10.00 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Riau**<br>📍 Riau<br>Hujan lebat disertai petir akan terjadi pada 27 September 2026, 07:45 WIB di sebagian wilayah Riau, khususnya di BAGAN SINEMBAH, BANGKINANG, BANGKINAN... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CRU/2026/09/27/infografis.jpg) | Min, 27 Sep, 07.45 – Min, 27 Sep, 10.30 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Jambi**<br>📍 Jambi<br>Hujan lebat disertai petir akan terjadi pada 27 September 2026, 07:42 WIB di sebagian wilayah Jambi, khususnya di GERAGAI, MARO SEBO ULU, MENDAHARA, M... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CJI/2026/09/27/infografis.jpg) | Min, 27 Sep, 07.42 – Min, 27 Sep, 10.00 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Bengkulu**<br>📍 Bengkulu<br>Hujan lebat disertai petir akan terjadi pada 27 September 2026, 06:25 WIB di sebagian wilayah Bengkulu, khususnya di AIR MAJUNTO, KOTA MUKOMUKO, LUBUK... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CBK/2026/09/27/infografis.jpg) | Min, 27 Sep, 06.25 – Min, 27 Sep, 08.30 |
 | 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sulawesi Tengah**<br>📍 Sulawesi Tengah<br>Hujan lebat disertai petir akan terjadi pada 27 September 2026, 06:44 WITA di sebagian wilayah Sulawesi Tengah, khususnya di AMPIBABO, KASIMBAR, SINDU... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CSG/2026/09/27/infografis.jpg) | Min, 27 Sep, 05.44 – Min, 27 Sep, 09.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Jambi**<br>📍 Jambi<br>Hujan lebat disertai petir akan terjadi pada 27 September 2026, 05:25 WIB di sebagian wilayah Jambi, khususnya di BAJUBANG, JAMBI LUAR KOTA, MUARA BUL... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CJI/2026/09/27/infografis.jpg) | Min, 27 Sep, 05.25 – Min, 27 Sep, 08.20 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kalimantan Utara**<br>📍 Kalimantan Utara<br>Hujan lebat disertai petir akan terjadi pada 27 September 2026, 05:45 WITA di sebagian wilayah Kalimantan Utara, khususnya di TARAKAN TENGAH. Kondisi ... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CKU/2026/09/27/infografis.jpg) | Min, 27 Sep, 04.45 – Min, 27 Sep, 07.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kep. Riau**<br>📍 Kep. Riau<br>Hujan lebat disertai petir akan terjadi pada 27 September 2026, 04:30 WIB di sebagian wilayah Kep. Riau, khususnya di SERASAN, SERASAN TIMUR, TAMBELAN... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CKR/2026/09/27/infografis.jpg) | Min, 27 Sep, 04.30 – Min, 27 Sep, 06.30 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kalimantan Tengah**<br>📍 Kalimantan Tengah<br>Hujan lebat disertai petir akan terjadi pada 27 September 2026, 03:40 WIB di sebagian wilayah Kalimantan Tengah, khususnya di PERMATA INTAN. Kondisi i... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CKG/2026/09/27/infografis.jpg) | Min, 27 Sep, 03.40 – Min, 27 Sep, 06.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Riau**<br>📍 Riau<br>Hujan lebat disertai petir akan terjadi pada 27 September 2026, 03:25 WIB di sebagian wilayah Riau, khususnya di BANGKINANG KOTA, BANGKO, BANTAN, BENG... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CRU/2026/09/27/infografis.jpg) | Min, 27 Sep, 03.25 – Min, 27 Sep, 06.00 |
 
 ---
 
@@ -25,11 +24,12 @@
 
 | Severity | Headline | Provinsi | Periode Berlaku | Terdeteksi |
 | --- | --- | --- | --- | --- |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Riau | Riau | Min, 27 Sep, 03.25 – Min, 27 Sep, 06.00 | Min, 27 Sep, 00.50 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Jambi | Jambi | Min, 27 Sep, 07.42 – Min, 27 Sep, 10.00 | Min, 27 Sep, 05.58 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Riau | Riau | Min, 27 Sep, 07.45 – Min, 27 Sep, 10.30 | Min, 27 Sep, 00.50 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Kep. Riau | Kep. Riau | Min, 27 Sep, 08.00 – Min, 27 Sep, 10.00 | Min, 27 Sep, 05.58 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Bengkulu | Bengkulu | Min, 27 Sep, 06.25 – Min, 27 Sep, 08.30 | Min, 27 Sep, 08.19 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Tengah | Kalimantan Tengah | Min, 27 Sep, 03.40 – Min, 27 Sep, 06.00 | Min, 27 Sep, 05.58 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Kep. Riau | Kep. Riau | Min, 27 Sep, 04.30 – Min, 27 Sep, 06.30 | Min, 27 Sep, 05.58 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Utara | Kalimantan Utara | Min, 27 Sep, 04.45 – Min, 27 Sep, 07.00 | Min, 27 Sep, 05.58 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Jambi | Jambi | Min, 27 Sep, 05.25 – Min, 27 Sep, 08.20 | Min, 27 Sep, 05.58 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Sulawesi Tengah | Sulawesi Tengah | Min, 27 Sep, 05.44 – Min, 27 Sep, 09.00 | Min, 27 Sep, 05.58 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Aceh | Aceh | Sab, 26 Sep, 21.30 – Min, 27 Sep, 01.40 | Sab, 26 Sep, 16.53 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Utara | Sumatera Utara | Min, 27 Sep, 00.45 – Min, 27 Sep, 03.45 | Sab, 26 Sep, 21.15 |
@@ -44,7 +44,6 @@
 | 🟡 Moderate | Hujan Lebat disertai Petir di Sulawesi Barat | Sulawesi Barat | Sab, 26 Sep, 15.54 – Sab, 26 Sep, 17.45 | Sab, 26 Sep, 16.53 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Barat | Sumatera Barat | Sab, 26 Sep, 16.00 – Sab, 26 Sep, 18.00 | Sab, 26 Sep, 16.53 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Riau | Riau | Sab, 26 Sep, 16.10 – Sab, 26 Sep, 18.30 | Sab, 26 Sep, 16.53 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Papua Barat Daya | Papua Barat Daya | Sab, 26 Sep, 14.30 – Sab, 26 Sep, 17.30 | Sab, 26 Sep, 16.53 |
 
 ---
 
