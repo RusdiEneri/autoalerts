@@ -2,7 +2,7 @@
 
 > Monitor real-time peringatan dini cuaca ekstrem dari **BMKG** (nowcast, 0–6 jam ke depan). Data diambil otomatis setiap 10 menit dari API publik BMKG, ditampilkan langsung di README ini, dan dikirim ke Discord webhook jika ada peringatan baru.
 
-🕒 **Update terakhir:** Senin, 28 September 2026 pukul 14.40.35
+🕒 **Update terakhir:** Senin, 28 September 2026 pukul 23.00.48
 📊 **Peringatan aktif saat ini:** 13
 📜 **Riwayat peringatan terakhir:** 20
 
@@ -12,19 +12,19 @@
 
 | Severity | Urgency | Headline & Wilayah | Durasi (WIB) |
 | --- | --- | --- | --- |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Jakarta**<br>📍 Jakarta<br>Hujan lebat disertai petir akan terjadi pada 28 September 2026, 14:30 WIB di sebagian wilayah Jakarta, khususnya di CARIU, CISARUA, LEUWILIANG, NANGGU... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CJK/2026/09/28/infografis.jpg) | Sen, 28 Sep, 14.30 – Sen, 28 Sep, 16.30 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sumatera Barat**<br>📍 Sumatera Barat<br>Hujan lebat disertai petir akan terjadi pada 28 September 2026, 14:30 WIB di sebagian wilayah Sumatera Barat, khususnya di AMPEK ANGKEK, CANDUNG, DANA... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CSB/2026/09/28/infografis.jpg) | Sen, 28 Sep, 14.30 – Sen, 28 Sep, 16.30 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Jawa Barat**<br>📍 Jawa Barat<br>Hujan lebat disertai petir akan terjadi pada 28 September 2026, 14:20 WIB di sebagian wilayah Jawa Barat, khususnya di ANDIR, ANTAPANI, ARCAMANIK, ARJ... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CJB/2026/09/28/infografis.jpg) | Sen, 28 Sep, 14.20 – Sen, 28 Sep, 16.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sulawesi Tengah**<br>📍 Sulawesi Tengah<br>Hujan lebat disertai petir akan terjadi pada 28 September 2026, 15:22 WITA di sebagian wilayah Sulawesi Tengah, khususnya di GUMBASA, TILOAN. Kondisi ... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CSG/2026/09/28/infografis.jpg) | Sen, 28 Sep, 14.22 – Sen, 28 Sep, 16.30 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kalimantan Timur**<br>📍 Kalimantan Timur<br>Hujan lebat disertai petir akan terjadi pada 28 September 2026, 15:15 WITA di sebagian wilayah Kalimantan Timur, khususnya di BENGALON, BIATAN, KALIOR... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CKT/2026/09/28/infografis.jpg) | Sen, 28 Sep, 14.15 – Sen, 28 Sep, 16.20 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Jambi**<br>📍 Jambi<br>Hujan lebat disertai petir akan terjadi pada 28 September 2026, 14:30 WIB di sebagian wilayah Jambi, khususnya di JANGKAT, LEMBAH MASURAI, LIMBUR LUBU... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CJI/2026/09/28/infografis.jpg) | Sen, 28 Sep, 14.30 – Sen, 28 Sep, 16.30 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Bengkulu**<br>📍 Bengkulu<br>Hujan lebat disertai petir akan terjadi pada 28 September 2026, 13:57 WIB di sebagian wilayah Bengkulu, khususnya di BINGIN KUNING, KAUR UTARA, LEBONG... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CBK/2026/09/28/infografis.jpg) | Sen, 28 Sep, 13.57 – Sen, 28 Sep, 18.30 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kep. Riau**<br>📍 Kep. Riau<br>Hujan lebat disertai petir akan terjadi pada 28 September 2026, 13:56 WIB di sebagian wilayah Kep. Riau, khususnya di SENAYANG. Kondisi ini berpotensi... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CKR/2026/09/28/infografis.jpg) | Sen, 28 Sep, 13.56 – Sen, 28 Sep, 16.10 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Papua Tengah**<br>📍 Papua Tengah<br>Hujan lebat disertai petir akan terjadi pada 28 September 2026, 16:00 WIT di sebagian wilayah Papua Tengah, khususnya di AMAR, IWAKA, KUALA KENCANA, M... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CPT/2026/09/28/infografis.jpg) | Sen, 28 Sep, 14.00 – Sen, 28 Sep, 16.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Lampung**<br>📍 Lampung<br>Hujan lebat disertai petir akan terjadi pada 28 September 2026, 14:00 WIB di sebagian wilayah Lampung, khususnya di AIR HITAM, BALIK BUKIT, BANDAR NEG... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CLG/2026/09/28/infografis.jpg) | Sen, 28 Sep, 14.00 – Sen, 28 Sep, 16.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sumatera Selatan**<br>📍 Sumatera Selatan<br>Hujan lebat disertai petir akan terjadi pada 28 September 2026, 14:00 WIB di sebagian wilayah Sumatera Selatan, khususnya di BUAY PEMATANG RIBU RANAU ... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CSS/2026/09/28/infografis.jpg) | Sen, 28 Sep, 14.00 – Sen, 28 Sep, 16.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Aceh**<br>📍 Aceh<br>Hujan lebat disertai petir akan terjadi pada 28 September 2026, 13:22 WIB di sebagian wilayah Aceh, khususnya di DARUL HASANAH, DARUL HIKMAH, KOTA JAN... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CAH/2026/09/28/infografis.jpg) | Sen, 28 Sep, 13.22 – Sen, 28 Sep, 15.50 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sumatera Utara**<br>📍 Sumatera Utara<br>Hujan lebat disertai petir akan terjadi pada 28 September 2026, 13:30 WIB di sebagian wilayah Sumatera Utara, khususnya di ARSE, BATANG SERANGAN, BAWO... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CSU/2026/09/28/infografis.jpg) | Sen, 28 Sep, 13.30 – Sen, 28 Sep, 16.30 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sumatera Utara**<br>📍 Sumatera Utara<br>Hujan lebat disertai petir akan terjadi pada 28 September 2026, 23:00 WIB di sebagian wilayah Sumatera Utara, khususnya di AEK BILAH, AEK KUO, AEK NAB... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CSU/2026/09/28/infografis.jpg) | Sen, 28 Sep, 23.00 – Sel, 29 Sep, 03.00 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Aceh**<br>📍 Aceh<br>Hujan lebat disertai petir akan terjadi pada 28 September 2026, 22:26 WIB di sebagian wilayah Aceh, khususnya di ARONGAN LAMBALEK, BABUL MAKMUR, BABUL... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CAH/2026/09/28/infografis.jpg) | Sen, 28 Sep, 22.26 – Sel, 29 Sep, 01.47 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Jawa Barat**<br>📍 Jawa Barat<br>Hujan lebat disertai petir akan terjadi pada 28 September 2026, 22:10 WIB di sebagian wilayah Jawa Barat, khususnya di BATUJAJAR, BATUJAYA, BOJONG, CI... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CJB/2026/09/28/infografis.jpg) | Sen, 28 Sep, 22.10 – Sel, 29 Sep, 00.00 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kalimantan Utara**<br>📍 Kalimantan Utara<br>Hujan lebat disertai petir akan terjadi pada 28 September 2026, 23:05 WITA di sebagian wilayah Kalimantan Utara, khususnya di MALINAU BARAT, MALINAU S... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CKU/2026/09/28/infografis.jpg) | Sen, 28 Sep, 22.05 – Sel, 29 Sep, 01.00 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Jakarta**<br>📍 Jakarta<br>Hujan lebat disertai petir akan terjadi pada 28 September 2026, 22:00 WIB di sebagian wilayah Jakarta, khususnya di BABELAN, BOJONGMANGU, CARIU, MUARA... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CJK/2026/09/28/infografis.jpg) | Sen, 28 Sep, 22.00 – Sel, 29 Sep, 00.00 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kalimantan Tengah**<br>📍 Kalimantan Tengah<br>Hujan lebat disertai petir akan terjadi pada 28 September 2026, 21:49 WIB di sebagian wilayah Kalimantan Tengah, khususnya di DUSUN HILIR. Kondisi ini... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CKG/2026/09/28/infografis.jpg) | Sen, 28 Sep, 21.49 – Sen, 28 Sep, 23.00 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sumatera Selatan**<br>📍 Sumatera Selatan<br>Hujan lebat disertai petir akan terjadi pada 28 September 2026, 21:45 WIB di sebagian wilayah Sumatera Selatan, khususnya di BUANA PEMACA, BUAY RAWAN,... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CSS/2026/09/28/infografis.jpg) | Sen, 28 Sep, 21.45 – Sen, 28 Sep, 23.30 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Papua**<br>📍 Papua<br>Hujan lebat disertai petir akan terjadi pada 28 September 2026, 23:20 WIT di sebagian wilayah Papua, khususnya di DEMBA, KAUREH, KIRIHI, MAMBERAMO TEN... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CPU/2026/09/28/infografis.jpg) | Sen, 28 Sep, 21.20 – Sen, 28 Sep, 23.20 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Jambi**<br>📍 Jambi<br>Hujan lebat disertai petir akan terjadi pada 28 September 2026, 21:00 WIB di sebagian wilayah Jambi, khususnya di BATANG ASAI, BATANG MERANGIN, JANGKA... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CJI/2026/09/28/infografis.jpg) | Sen, 28 Sep, 21.00 – Sel, 29 Sep, 00.00 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sumatera Barat**<br>📍 Sumatera Barat<br>Hujan lebat disertai petir akan terjadi pada 28 September 2026, 20:55 WIB di sebagian wilayah Sumatera Barat, khususnya di KAMANG BARU, LENGAYANG, SIJ... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CSB/2026/09/28/infografis.jpg) | Sen, 28 Sep, 20.55 – Sen, 28 Sep, 23.00 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Jawa Tengah**<br>📍 Jawa Tengah<br>Hujan lebat disertai petir akan terjadi pada 28 September 2026, 20:38 WIB di sebagian wilayah Jawa Tengah, khususnya di KARANGMALANG, KEDAWUNG, KERJO,... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CJH/2026/09/28/infografis.jpg) | Sen, 28 Sep, 20.38 – Sen, 28 Sep, 22.30 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sulawesi Tengah**<br>📍 Sulawesi Tengah<br>Hujan lebat disertai petir akan terjadi pada 28 September 2026, 21:40 WITA di sebagian wilayah Sulawesi Tengah, khususnya di BANAWA SELATAN, MARAWOLA ... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CSG/2026/09/28/infografis.jpg) | Sen, 28 Sep, 20.40 – Sen, 28 Sep, 22.40 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Lampung**<br>📍 Lampung<br>Hujan lebat disertai petir akan terjadi pada 28 September 2026, 20:10 WIB di sebagian wilayah Lampung, khususnya di ABUNG PEKURUN, ABUNG TENGAH, ABUNG... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CLG/2026/09/28/infografis.jpg) | Sen, 28 Sep, 20.10 – Sen, 28 Sep, 22.30 |
 
 ---
 
@@ -32,6 +32,19 @@
 
 | Severity | Headline | Provinsi | Periode Berlaku | Terdeteksi |
 | --- | --- | --- | --- | --- |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Lampung | Lampung | Sen, 28 Sep, 20.10 – Sen, 28 Sep, 22.30 | Sen, 28 Sep, 23.00 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Sulawesi Tengah | Sulawesi Tengah | Sen, 28 Sep, 20.40 – Sen, 28 Sep, 22.40 | Sen, 28 Sep, 23.00 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Barat | Sumatera Barat | Sen, 28 Sep, 20.55 – Sen, 28 Sep, 23.00 | Sen, 28 Sep, 23.00 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Jambi | Jambi | Sen, 28 Sep, 21.00 – Sel, 29 Sep, 00.00 | Sen, 28 Sep, 23.00 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Selatan | Sumatera Selatan | Sen, 28 Sep, 21.45 – Sen, 28 Sep, 23.30 | Sen, 28 Sep, 23.00 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Jakarta | Jakarta | Sen, 28 Sep, 22.00 – Sel, 29 Sep, 00.00 | Sen, 28 Sep, 23.00 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Jawa Barat | Jawa Barat | Sen, 28 Sep, 22.10 – Sel, 29 Sep, 00.00 | Sen, 28 Sep, 23.00 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Aceh | Aceh | Sen, 28 Sep, 22.26 – Sel, 29 Sep, 01.47 | Sen, 28 Sep, 23.00 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Utara | Sumatera Utara | Sen, 28 Sep, 23.00 – Sel, 29 Sep, 03.00 | Sen, 28 Sep, 23.00 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Jawa Tengah | Jawa Tengah | Sen, 28 Sep, 20.38 – Sen, 28 Sep, 22.30 | Sen, 28 Sep, 23.00 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Papua | Papua | Sen, 28 Sep, 21.20 – Sen, 28 Sep, 23.20 | Sen, 28 Sep, 23.00 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Tengah | Kalimantan Tengah | Sen, 28 Sep, 21.49 – Sen, 28 Sep, 23.00 | Sen, 28 Sep, 23.00 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Utara | Kalimantan Utara | Sen, 28 Sep, 22.05 – Sel, 29 Sep, 01.00 | Sen, 28 Sep, 23.00 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Aceh | Aceh | Sen, 28 Sep, 13.22 – Sen, 28 Sep, 15.50 | Sen, 28 Sep, 14.40 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Kep. Riau | Kep. Riau | Sen, 28 Sep, 13.56 – Sen, 28 Sep, 16.10 | Sen, 28 Sep, 14.40 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Timur | Kalimantan Timur | Sen, 28 Sep, 14.15 – Sen, 28 Sep, 16.20 | Sen, 28 Sep, 14.40 |
@@ -39,19 +52,6 @@
 | 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Selatan | Sumatera Selatan | Sen, 28 Sep, 14.00 – Sen, 28 Sep, 16.00 | Sen, 28 Sep, 14.40 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Lampung | Lampung | Sen, 28 Sep, 14.00 – Sen, 28 Sep, 16.00 | Sen, 28 Sep, 14.40 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Papua Tengah | Papua Tengah | Sen, 28 Sep, 14.00 – Sen, 28 Sep, 16.00 | Sen, 28 Sep, 14.40 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Bengkulu | Bengkulu | Sen, 28 Sep, 13.57 – Sen, 28 Sep, 18.30 | Sen, 28 Sep, 14.40 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Jambi | Jambi | Sen, 28 Sep, 14.30 – Sen, 28 Sep, 16.30 | Sen, 28 Sep, 14.40 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Sulawesi Tengah | Sulawesi Tengah | Sen, 28 Sep, 14.22 – Sen, 28 Sep, 16.30 | Sen, 28 Sep, 14.40 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Jawa Barat | Jawa Barat | Sen, 28 Sep, 14.20 – Sen, 28 Sep, 16.00 | Sen, 28 Sep, 14.40 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Barat | Sumatera Barat | Sen, 28 Sep, 14.30 – Sen, 28 Sep, 16.30 | Sen, 28 Sep, 14.40 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Jakarta | Jakarta | Sen, 28 Sep, 14.30 – Sen, 28 Sep, 16.30 | Sen, 28 Sep, 14.40 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Utara | Kalimantan Utara | Sen, 28 Sep, 07.00 – Sen, 28 Sep, 09.00 | Sen, 28 Sep, 06.08 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Timur | Kalimantan Timur | Sen, 28 Sep, 08.00 – Sen, 28 Sep, 10.00 | Sen, 28 Sep, 06.08 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Aceh | Aceh | Sen, 28 Sep, 06.50 – Sen, 28 Sep, 09.06 | Sen, 28 Sep, 08.39 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Kep. Riau | Kep. Riau | Sen, 28 Sep, 07.30 – Sen, 28 Sep, 09.30 | Sen, 28 Sep, 08.39 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Tengah | Kalimantan Tengah | Sen, 28 Sep, 08.30 – Sen, 28 Sep, 10.30 | Sen, 28 Sep, 08.39 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Aceh | Aceh | Min, 27 Sep, 23.31 – Sen, 28 Sep, 03.06 | Sen, 28 Sep, 00.16 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Selatan | Sumatera Selatan | Sen, 28 Sep, 00.30 – Sen, 28 Sep, 03.30 | Sen, 28 Sep, 00.16 |
 
 ---
 
