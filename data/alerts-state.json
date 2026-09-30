@@ -1,9 +1,9 @@
 {
   "schemaVersion": 3,
   "active": {
-    "aceh|hujan lebat dan petir": "c3294c3b6eb3ebfb1acefd3d440ff4389df99e17",
-    "sumatera barat|hujan lebat dan petir": "2a0de87089d8468a2aa2b2d6b1e670899b5e75ef",
-    "sumatera utara|hujan lebat dan petir": "53996676bde6415df3571059ac5b700a2ef3ce4c"
+    "aceh|hujan lebat dan petir": "098dc5c53d73294e8217c28c725e77815973e42c",
+    "bengkulu|hujan lebat dan petir": "3320e6d8321e576abf08e6b8dc01d4a953648262",
+    "sumatera utara|hujan lebat dan petir": "2db41d0fcb62ef0440b1e72de7dbb0dddaf46cbe"
   },
   "count": 3
 }

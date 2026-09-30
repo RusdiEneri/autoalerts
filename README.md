@@ -2,7 +2,7 @@
 
 > Monitor real-time peringatan dini cuaca ekstrem dari **BMKG** (nowcast, 0–6 jam ke depan). Data diambil otomatis setiap 10 menit dari API publik BMKG, ditampilkan langsung di README ini, dan dikirim ke Discord webhook jika ada peringatan baru.
 
-🕒 **Update terakhir:** Rabu, 30 September 2026 pukul 06.11.27
+🕒 **Update terakhir:** Rabu, 30 September 2026 pukul 09.11.09
 📊 **Peringatan aktif saat ini:** 3
 📜 **Riwayat peringatan terakhir:** 20
 
@@ -12,9 +12,9 @@
 
 | Severity | Urgency | Headline & Wilayah | Durasi (WIB) |
 | --- | --- | --- | --- |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sumatera Barat**<br>📍 Sumatera Barat<br>Hujan lebat disertai petir akan terjadi pada 30 September 2026, 05:40 WIB di sebagian wilayah Sumatera Barat, khususnya di SIBERUT BARAT, SIBERUT BARA... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CSB/2026/09/30/infografis.jpg) | Rab, 30 Sep, 05.40 – Rab, 30 Sep, 07.30 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sumatera Utara**<br>📍 Sumatera Utara<br>Hujan lebat disertai petir akan terjadi pada 30 September 2026, 05:00 WIB di sebagian wilayah Sumatera Utara, khususnya di BABALAN, BATAHAN, BAWOLATO,... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CSU/2026/09/30/infografis.jpg) | Rab, 30 Sep, 05.00 – Rab, 30 Sep, 08.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Aceh**<br>📍 Aceh<br>Hujan lebat disertai petir akan terjadi pada 30 September 2026, 04:33 WIB di sebagian wilayah Aceh, khususnya di BANDA MULIA, BANDAR PUSAKA, BENDAHARA... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CAH/2026/09/30/infografis.jpg) | Rab, 30 Sep, 04.33 – Rab, 30 Sep, 07.15 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Bengkulu**<br>📍 Bengkulu<br>Hujan lebat disertai petir akan terjadi pada 30 September 2026, 07:30 WIB di sebagian wilayah Bengkulu, khususnya di AIR DIKIT, AIR MAJUNTO, KOTA MUKO... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CBK/2026/09/30/infografis.jpg) | Rab, 30 Sep, 07.30 – Rab, 30 Sep, 10.00 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Aceh**<br>📍 Aceh<br>Hujan lebat disertai petir akan terjadi pada 30 September 2026, 07:23 WIB di sebagian wilayah Aceh, khususnya di BADAR, BANDA ALAM, BANDA MULIA, BANDA... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CAH/2026/09/30/infografis.jpg) | Rab, 30 Sep, 07.23 – Rab, 30 Sep, 10.00 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sumatera Utara**<br>📍 Sumatera Utara<br>Hujan lebat disertai petir akan terjadi pada 30 September 2026, 07:30 WIB di sebagian wilayah Sumatera Utara, khususnya di AEK KUASAN, AEK SONGSONGAN,... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CSU/2026/09/30/infografis.jpg) | Rab, 30 Sep, 07.30 – Rab, 30 Sep, 10.30 |
 
 ---
 
@@ -22,8 +22,9 @@
 
 | Severity | Headline | Provinsi | Periode Berlaku | Terdeteksi |
 | --- | --- | --- | --- | --- |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Aceh | Aceh | Rab, 30 Sep, 04.33 – Rab, 30 Sep, 07.15 | Sel, 29 Sep, 21.20 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Utara | Sumatera Utara | Rab, 30 Sep, 05.00 – Rab, 30 Sep, 08.00 | Sel, 29 Sep, 21.20 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Utara | Sumatera Utara | Rab, 30 Sep, 07.30 – Rab, 30 Sep, 10.30 | Sel, 29 Sep, 21.20 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Aceh | Aceh | Rab, 30 Sep, 07.23 – Rab, 30 Sep, 10.00 | Sel, 29 Sep, 21.20 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Bengkulu | Bengkulu | Rab, 30 Sep, 07.30 – Rab, 30 Sep, 10.00 | Rab, 30 Sep, 09.11 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Barat | Sumatera Barat | Rab, 30 Sep, 05.40 – Rab, 30 Sep, 07.30 | Rab, 30 Sep, 06.11 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Riau | Riau | Rab, 30 Sep, 00.00 – Rab, 30 Sep, 03.00 | Sel, 29 Sep, 21.20 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Tengah | Kalimantan Tengah | Rab, 30 Sep, 01.00 – Rab, 30 Sep, 03.30 | Rab, 30 Sep, 02.34 |
@@ -41,7 +42,6 @@
 | 🟡 Moderate | Hujan Lebat disertai Petir di Jakarta | Jakarta | Sel, 29 Sep, 13.25 – Sel, 29 Sep, 15.00 | Sel, 29 Sep, 14.33 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Kep. Bangka Belitung | Kep. Bangka Belitung | Sel, 29 Sep, 13.35 – Sel, 29 Sep, 15.30 | Sel, 29 Sep, 14.33 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Kep. Riau | Kep. Riau | Sel, 29 Sep, 13.35 – Sel, 29 Sep, 15.00 | Sel, 29 Sep, 14.33 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Banten | Banten | Sel, 29 Sep, 13.50 – Sel, 29 Sep, 15.45 | Sel, 29 Sep, 14.33 |
 
 ---
 
