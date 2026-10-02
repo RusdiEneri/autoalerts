@@ -2,8 +2,8 @@
 
 > Monitor real-time peringatan dini cuaca ekstrem dari **BMKG** (nowcast, 0–6 jam ke depan). Data diambil otomatis setiap 10 menit dari API publik BMKG, ditampilkan langsung di README ini, dan dikirim ke Discord webhook jika ada peringatan baru.
 
-🕒 **Update terakhir:** Jumat, 02 Oktober 2026 pukul 14.32.04
-📊 **Peringatan aktif saat ini:** 8
+🕒 **Update terakhir:** Jumat, 02 Oktober 2026 pukul 21.08.04
+📊 **Peringatan aktif saat ini:** 9
 📜 **Riwayat peringatan terakhir:** 20
 
 ---
@@ -12,14 +12,15 @@
 
 | Severity | Urgency | Headline & Wilayah | Durasi (WIB) |
 | --- | --- | --- | --- |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sumatera Utara**<br>📍 Sumatera Utara<br>Hujan lebat disertai petir akan terjadi pada 02 October 2026, 14:30 WIB di sebagian wilayah Sumatera Utara, khususnya di ADIAN KOTING, AEK BILAH, AEK ... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CSU/2026/10/02/infografis.jpg) | Jum, 2 Okt, 14.30 – Jum, 2 Okt, 17.30 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Lampung**<br>📍 Lampung<br>Hujan lebat disertai petir akan terjadi pada 02 October 2026, 14:00 WIB di sebagian wilayah Lampung, khususnya di BATU BRAK, LIMAU, PESISIR SELATAN, P... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CLG/2026/10/02/infografis.jpg) | Jum, 2 Okt, 14.00 – Jum, 2 Okt, 16.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sumatera Barat**<br>📍 Sumatera Barat<br>Hujan lebat disertai petir akan terjadi pada 02 October 2026, 14:00 WIB di sebagian wilayah Sumatera Barat, khususnya di 2 X 11 ENAM LINGKUANG, AMPEK ... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CSB/2026/10/02/infografis.jpg) | Jum, 2 Okt, 14.00 – Jum, 2 Okt, 16.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Bengkulu**<br>📍 Bengkulu<br>Hujan lebat disertai petir akan terjadi pada 02 October 2026, 13:45 WIB di sebagian wilayah Bengkulu, khususnya di AIR NIPIS, AIR RAMI, ARMA JAYA, CUR... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CBK/2026/10/02/infografis.jpg) | Jum, 2 Okt, 13.45 – Jum, 2 Okt, 17.10 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kep. Riau**<br>📍 Kep. Riau<br>Hujan lebat disertai petir akan terjadi pada 02 October 2026, 13:42 WIB di sebagian wilayah Kep. Riau, khususnya di GALANG, TANJUNG PINANG TIMUR, TELO... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CKR/2026/10/02/infografis.jpg) | Jum, 2 Okt, 13.42 – Jum, 2 Okt, 15.30 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kalimantan Utara**<br>📍 Kalimantan Utara<br>Hujan lebat disertai petir akan terjadi pada 02 October 2026, 14:24 WITA di sebagian wilayah Kalimantan Utara, khususnya di BAHAU HULU, KRAYAN, KRAYAN... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CKU/2026/10/02/infografis.jpg) | Jum, 2 Okt, 13.24 – Jum, 2 Okt, 15.30 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Riau**<br>📍 Riau<br>Hujan lebat disertai petir akan terjadi pada 02 October 2026, 13:00 WIB di sebagian wilayah Riau, khususnya di BANTAN, BATANG CENAKU, BATANG GANGSAL, ... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CRU/2026/10/02/infografis.jpg) | Jum, 2 Okt, 13.00 – Jum, 2 Okt, 16.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Aceh**<br>📍 Aceh<br>Hujan lebat disertai petir akan terjadi pada 02 October 2026, 12:53 WIB di sebagian wilayah Aceh, khususnya di ATU LINTANG, BAKTIYA, BAKTIYA BARAT, BA... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CAH/2026/10/02/infografis.jpg) | Jum, 2 Okt, 12.53 – Jum, 2 Okt, 16.13 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Jawa Barat**<br>📍 Jawa Barat<br>Hujan lebat disertai petir akan terjadi pada 02 October 2026, 21:00 WIB di sebagian wilayah Jawa Barat, khususnya di BATUJAJAR, BUNGBULANG, CAMPAKA, C... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CJB/2026/10/02/infografis.jpg) | Jum, 2 Okt, 21.00 – Jum, 2 Okt, 23.00 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sumatera Utara**<br>📍 Sumatera Utara<br>Hujan lebat disertai petir akan terjadi pada 02 October 2026, 20:45 WIB di sebagian wilayah Sumatera Utara, khususnya di BATANG LUBU SUTAM, SOSA, TAPI... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CSU/2026/10/02/infografis.jpg) | Jum, 2 Okt, 20.45 – Jum, 2 Okt, 23.45 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Banten**<br>📍 Banten<br>Hujan lebat disertai petir akan terjadi pada 02 October 2026, 20:40 WIB di sebagian wilayah Banten, khususnya di BOJONGMANIK, CIBEBER, CIGEMLONG, CIPA... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CBT/2026/10/02/infografis.jpg) | Jum, 2 Okt, 20.40 – Jum, 2 Okt, 23.00 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Jakarta**<br>📍 Jakarta<br>Hujan lebat disertai petir akan terjadi pada 02 October 2026, 19:45 WIB di sebagian wilayah Jakarta, khususnya di CIPUTAT, CISEENG, GUNUNG SINDUR, LEU... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CJK/2026/10/02/infografis.jpg) | Jum, 2 Okt, 19.45 – Jum, 2 Okt, 22.00 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Lampung**<br>📍 Lampung<br>Hujan lebat disertai petir akan terjadi pada 02 October 2026, 19:40 WIB di sebagian wilayah Lampung, khususnya di BALIK BUKIT, BANDAR NEGERI SEMUONG, ... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CLG/2026/10/02/infografis.jpg) | Jum, 2 Okt, 19.40 – Jum, 2 Okt, 22.30 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Papua**<br>📍 Papua<br>Hujan lebat disertai petir akan terjadi pada 02 October 2026, 21:35 WIT di sebagian wilayah Papua, khususnya di ABEPURA, ARSO TIMUR, HERAM, KEMTUK GRE... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CPU/2026/10/02/infografis.jpg) | Jum, 2 Okt, 19.35 – Jum, 2 Okt, 21.35 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Aceh**<br>📍 Aceh<br>Hujan lebat disertai petir akan terjadi pada 02 October 2026, 19:22 WIB di sebagian wilayah Aceh, khususnya di BAKONGAN TIMUR, KOTA BAHARU, KUALA BARU... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CAH/2026/10/02/infografis.jpg) | Jum, 2 Okt, 19.22 – Jum, 2 Okt, 22.43 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Bengkulu**<br>📍 Bengkulu<br>Hujan lebat disertai petir akan terjadi pada 02 October 2026, 19:10 WIB di sebagian wilayah Bengkulu, khususnya di AIR BESI, AIR NAPAL, BANG HAJI, KER... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CBK/2026/10/02/infografis.jpg) | Jum, 2 Okt, 19.10 – Jum, 2 Okt, 22.00 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kalimantan Utara**<br>📍 Kalimantan Utara<br>Hujan lebat disertai petir akan terjadi pada 02 October 2026, 20:08 WITA di sebagian wilayah Kalimantan Utara, khususnya di LUMBIS, LUMBIS OGONG, SEBU... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CKU/2026/10/02/infografis.jpg) | Jum, 2 Okt, 19.08 – Jum, 2 Okt, 22.00 |
 
 ---
 
@@ -27,26 +28,26 @@
 
 | Severity | Headline | Provinsi | Periode Berlaku | Terdeteksi |
 | --- | --- | --- | --- | --- |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Utara | Kalimantan Utara | Jum, 2 Okt, 19.08 – Jum, 2 Okt, 22.00 | Jum, 2 Okt, 21.08 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Bengkulu | Bengkulu | Jum, 2 Okt, 19.10 – Jum, 2 Okt, 22.00 | Jum, 2 Okt, 14.31 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Aceh | Aceh | Jum, 2 Okt, 19.22 – Jum, 2 Okt, 22.43 | Jum, 2 Okt, 21.08 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Lampung | Lampung | Jum, 2 Okt, 19.40 – Jum, 2 Okt, 22.30 | Jum, 2 Okt, 21.08 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Utara | Sumatera Utara | Jum, 2 Okt, 20.45 – Jum, 2 Okt, 23.45 | Jum, 2 Okt, 21.08 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Papua | Papua | Jum, 2 Okt, 19.35 – Jum, 2 Okt, 21.35 | Jum, 2 Okt, 21.08 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Jakarta | Jakarta | Jum, 2 Okt, 19.45 – Jum, 2 Okt, 22.00 | Jum, 2 Okt, 21.08 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Banten | Banten | Jum, 2 Okt, 20.40 – Jum, 2 Okt, 23.00 | Jum, 2 Okt, 21.08 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Jawa Barat | Jawa Barat | Jum, 2 Okt, 21.00 – Jum, 2 Okt, 23.00 | Jum, 2 Okt, 21.07 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Barat | Sumatera Barat | Jum, 2 Okt, 14.00 – Jum, 2 Okt, 16.00 | Jum, 2 Okt, 14.32 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Aceh | Aceh | Jum, 2 Okt, 12.53 – Jum, 2 Okt, 16.13 | Jum, 2 Okt, 14.32 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Riau | Riau | Jum, 2 Okt, 13.00 – Jum, 2 Okt, 16.00 | Jum, 2 Okt, 14.32 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Utara | Kalimantan Utara | Jum, 2 Okt, 13.24 – Jum, 2 Okt, 15.30 | Jum, 2 Okt, 14.32 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Kep. Riau | Kep. Riau | Jum, 2 Okt, 13.42 – Jum, 2 Okt, 15.30 | Jum, 2 Okt, 14.31 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Bengkulu | Bengkulu | Jum, 2 Okt, 13.45 – Jum, 2 Okt, 17.10 | Jum, 2 Okt, 14.31 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Lampung | Lampung | Jum, 2 Okt, 14.00 – Jum, 2 Okt, 16.00 | Jum, 2 Okt, 14.31 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Utara | Sumatera Utara | Jum, 2 Okt, 14.30 – Jum, 2 Okt, 17.30 | Jum, 2 Okt, 14.31 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Papua | Papua | Jum, 2 Okt, 07.45 – Jum, 2 Okt, 09.45 | Jum, 2 Okt, 05.00 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Barat | Sumatera Barat | Jum, 2 Okt, 08.20 – Jum, 2 Okt, 10.00 | Jum, 2 Okt, 08.36 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Jambi | Jambi | Jum, 2 Okt, 07.39 – Jum, 2 Okt, 10.00 | Jum, 2 Okt, 08.36 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Barat | Sumatera Barat | Jum, 2 Okt, 04.10 – Jum, 2 Okt, 06.10 | Jum, 2 Okt, 00.31 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Utara | Kalimantan Utara | Jum, 2 Okt, 04.40 – Jum, 2 Okt, 07.00 | Jum, 2 Okt, 00.31 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Lampung | Lampung | Kam, 1 Okt, 21.30 – Jum, 2 Okt, 00.30 | Jum, 2 Okt, 00.31 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Riau | Riau | Kam, 1 Okt, 21.20 – Jum, 2 Okt, 01.00 | Kam, 1 Okt, 18.48 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Banten | Banten | Kam, 1 Okt, 22.00 – Jum, 2 Okt, 00.30 | Jum, 2 Okt, 00.31 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Utara | Sumatera Utara | Kam, 1 Okt, 22.30 – Jum, 2 Okt, 03.30 | Jum, 2 Okt, 00.31 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Aceh | Aceh | Jum, 2 Okt, 00.09 – Jum, 2 Okt, 04.30 | Jum, 2 Okt, 00.31 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Utara | Sumatera Utara | Kam, 1 Okt, 16.20 – Kam, 1 Okt, 19.20 | Kam, 1 Okt, 18.48 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Jakarta | Jakarta | Kam, 1 Okt, 16.37 – Kam, 1 Okt, 19.00 | Kam, 1 Okt, 18.48 |
 
 ---
 
