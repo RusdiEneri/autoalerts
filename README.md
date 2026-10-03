@@ -2,8 +2,8 @@
 
 > Monitor real-time peringatan dini cuaca ekstrem dari **BMKG** (nowcast, 0–6 jam ke depan). Data diambil otomatis setiap 10 menit dari API publik BMKG, ditampilkan langsung di README ini, dan dikirim ke Discord webhook jika ada peringatan baru.
 
-🕒 **Update terakhir:** Sabtu, 03 Oktober 2026 pukul 23.48.37
-📊 **Peringatan aktif saat ini:** 7
+🕒 **Update terakhir:** Minggu, 04 Oktober 2026 pukul 02.33.19
+📊 **Peringatan aktif saat ini:** 6
 📜 **Riwayat peringatan terakhir:** 20
 
 ---
@@ -12,13 +12,12 @@
 
 | Severity | Urgency | Headline & Wilayah | Durasi (WIB) |
 | --- | --- | --- | --- |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kalimantan Utara**<br>📍 Kalimantan Utara<br>Hujan lebat disertai petir akan terjadi pada 04 October 2026, 00:03 WITA di sebagian wilayah Kalimantan Utara, khususnya di MALINAU SELATAN HULU, NUNU... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CKU/2026/10/03/infografis.jpg) | Sab, 3 Okt, 23.03 – Min, 4 Okt, 02.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sumatera Barat**<br>📍 Sumatera Barat<br>Hujan lebat disertai petir akan terjadi pada 03 October 2026, 22:30 WIB di sebagian wilayah Sumatera Barat, khususnya di BUKIT SUNDI, BUNGUS TELUK KAB... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CSB/2026/10/03/infografis.jpg) | Sab, 3 Okt, 22.30 – Min, 4 Okt, 00.30 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sumatera Selatan**<br>📍 Sumatera Selatan<br>Hujan lebat disertai petir akan terjadi pada 03 October 2026, 22:10 WIB di sebagian wilayah Sumatera Selatan, khususnya di BAYUNG LENCIR, BTS. ULU, JA... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CSS/2026/10/03/infografis.jpg) | Sab, 3 Okt, 22.10 – Min, 4 Okt, 00.30 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Bengkulu**<br>📍 Bengkulu<br>Hujan lebat disertai petir akan terjadi pada 03 October 2026, 21:05 WIB di sebagian wilayah Bengkulu, khususnya di KAUR SELATAN, KOTA MUKOMUKO, MAJE, ... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CBK/2026/10/03/infografis.jpg) | Sab, 3 Okt, 21.05 – Min, 4 Okt, 01.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Riau**<br>📍 Riau<br>Hujan lebat disertai petir akan terjadi pada 03 October 2026, 21:00 WIB di sebagian wilayah Riau, khususnya di BUKIT RAYA, BUNUT, DAYUN, KABUN, KAMPAR... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CRU/2026/10/03/infografis.jpg) | Sab, 3 Okt, 21.00 – Min, 4 Okt, 00.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Aceh**<br>📍 Aceh<br>Hujan lebat disertai petir akan terjadi pada 03 October 2026, 20:10 WIB di sebagian wilayah Aceh, khususnya di ARONGAN LAMBALEK, ATU LINTANG, BAKONGAN... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CAH/2026/10/03/infografis.jpg) | Sab, 3 Okt, 20.10 – Min, 4 Okt, 00.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sumatera Utara**<br>📍 Sumatera Utara<br>Hujan lebat disertai petir akan terjadi pada 03 October 2026, 20:30 WIB di sebagian wilayah Sumatera Utara, khususnya di ADIAN KOTING, AEK NATAS, ANDA... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CSU/2026/10/03/infografis.jpg) | Sab, 3 Okt, 20.30 – Sab, 3 Okt, 23.30 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kalimantan Utara**<br>📍 Kalimantan Utara<br>Hujan lebat disertai petir akan terjadi pada 04 October 2026, 02:45 WITA di sebagian wilayah Kalimantan Utara, khususnya di BAHAU HULU, PESO, PESO HIL... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CKU/2026/10/04/infografis.jpg) | Min, 4 Okt, 01.45 – Min, 4 Okt, 04.34 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Bengkulu**<br>📍 Bengkulu<br>Hujan lebat disertai petir akan terjadi pada 04 October 2026, 01:15 WIB di sebagian wilayah Bengkulu, khususnya di BERMANI ULU RAYA, BINDURIANG, CURUP... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CBK/2026/10/04/infografis.jpg) | Min, 4 Okt, 01.15 – Min, 4 Okt, 05.00 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sulawesi Tengah**<br>📍 Sulawesi Tengah<br>Hujan lebat disertai petir akan terjadi pada 04 October 2026, 01:50 WITA di sebagian wilayah Sulawesi Tengah, khususnya di PARIGI SELATAN. Kondisi ini... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CSG/2026/10/04/infografis.jpg) | Min, 4 Okt, 00.50 – Min, 4 Okt, 03.00 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sumatera Selatan**<br>📍 Sumatera Selatan<br>Hujan lebat disertai petir akan terjadi pada 04 October 2026, 00:30 WIB di sebagian wilayah Sumatera Selatan, khususnya di LUBUK LINGGAU BARAT I, LUBU... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CSS/2026/10/04/infografis.jpg) | Min, 4 Okt, 00.30 – Min, 4 Okt, 03.00 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Aceh**<br>📍 Aceh<br>Hujan lebat disertai petir akan terjadi pada 04 October 2026, 00:00 WIB di sebagian wilayah Aceh, khususnya di BANDA ALAM, BIREM BAYEUN, BLANGKEJEREN,... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CAH/2026/10/03/infografis.jpg) | Min, 4 Okt, 00.00 – Min, 4 Okt, 04.00 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Riau**<br>📍 Riau<br>Hujan lebat disertai petir akan terjadi pada 04 October 2026, 00:00 WIB di sebagian wilayah Riau, khususnya di BANDAR SEI KIJANG, BANGKINANG, BONAI DA... | [Infografik](https://nowcasting.bmkg.go.id/infografis/CRU/2026/10/03/infografis.jpg) | Min, 4 Okt, 00.00 – Min, 4 Okt, 03.00 |
 
 ---
 
@@ -26,13 +25,14 @@
 
 | Severity | Headline | Provinsi | Periode Berlaku | Terdeteksi |
 | --- | --- | --- | --- | --- |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Riau | Riau | Min, 4 Okt, 00.00 – Min, 4 Okt, 03.00 | Sab, 3 Okt, 14.49 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Aceh | Aceh | Min, 4 Okt, 00.00 – Min, 4 Okt, 04.00 | Sab, 3 Okt, 19.47 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Selatan | Sumatera Selatan | Min, 4 Okt, 00.30 – Min, 4 Okt, 03.00 | Sab, 3 Okt, 19.47 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Bengkulu | Bengkulu | Min, 4 Okt, 01.15 – Min, 4 Okt, 05.00 | Sab, 3 Okt, 19.47 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Utara | Kalimantan Utara | Min, 4 Okt, 01.45 – Min, 4 Okt, 04.34 | Sab, 3 Okt, 23.48 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Sulawesi Tengah | Sulawesi Tengah | Min, 4 Okt, 00.50 – Min, 4 Okt, 03.00 | Min, 4 Okt, 02.33 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Utara | Sumatera Utara | Sab, 3 Okt, 20.30 – Sab, 3 Okt, 23.30 | Sab, 3 Okt, 14.49 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Aceh | Aceh | Sab, 3 Okt, 20.10 – Min, 4 Okt, 00.00 | Sab, 3 Okt, 19.47 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Riau | Riau | Sab, 3 Okt, 21.00 – Min, 4 Okt, 00.00 | Sab, 3 Okt, 14.49 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Bengkulu | Bengkulu | Sab, 3 Okt, 21.05 – Min, 4 Okt, 01.00 | Sab, 3 Okt, 19.47 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Selatan | Sumatera Selatan | Sab, 3 Okt, 22.10 – Min, 4 Okt, 00.30 | Sab, 3 Okt, 19.47 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Barat | Sumatera Barat | Sab, 3 Okt, 22.30 – Min, 4 Okt, 00.30 | Sab, 3 Okt, 14.49 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Utara | Kalimantan Utara | Sab, 3 Okt, 23.03 – Min, 4 Okt, 02.00 | Sab, 3 Okt, 23.48 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Barat | Kalimantan Barat | Sab, 3 Okt, 17.00 – Sab, 3 Okt, 20.00 | Sab, 3 Okt, 19.47 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Jawa Barat | Jawa Barat | Sab, 3 Okt, 17.34 – Sab, 3 Okt, 19.30 | Sab, 3 Okt, 19.47 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Lampung | Lampung | Sab, 3 Okt, 18.00 – Sab, 3 Okt, 21.00 | Sab, 3 Okt, 19.47 |
@@ -45,7 +45,6 @@
 | 🟡 Moderate | Hujan Lebat disertai Petir di Sulawesi Tengah | Sulawesi Tengah | Sab, 3 Okt, 12.27 – Sab, 3 Okt, 16.00 | Sab, 3 Okt, 14.49 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Banten | Banten | Sab, 3 Okt, 13.20 – Sab, 3 Okt, 15.30 | Sab, 3 Okt, 14.49 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Selatan | Sumatera Selatan | Sab, 3 Okt, 14.00 – Sab, 3 Okt, 16.00 | Sab, 3 Okt, 14.49 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Jakarta | Jakarta | Sab, 3 Okt, 13.55 – Sab, 3 Okt, 16.00 | Sab, 3 Okt, 14.49 |
 
 ---
 
