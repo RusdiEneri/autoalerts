@@ -48,7 +48,7 @@ export function buildReadme(activeAlerts, history, nowWib) {
           const duration = a.effective && a.expires
             ? `${formatTime(a.effective)} – ${formatTime(a.expires)}`
             : "-";
-          const webLink = a.web ? ` | [Infografik](${a.web})` : "";
+          const webLink = a.web ? `<br>🗺️ [Lihat Infografik](${a.web})` : "";
 
           return `| ${sevIcon} ${a.severity} | ${urgIcon} ${a.urgency} | **${a.headline}**<br>📍 ${a.areaDesc}<br>${truncateDesc(a.description, 150)}${webLink} | ${duration} |`;
         })
@@ -92,13 +92,15 @@ ${historyRows}
 
 ## 🛠️ Cara Kerja Repository Ini
 
-- Workflow \`.github/workflows/alerts.yml\` berjalan otomatis setiap **10 menit**.
-- \`src/index.js\` mengambil RSS feed dari \`https://www.bmkg.go.id/alerts/nowcast/id/rss.xml\`.
-- Untuk tiap alert baru (berdasarkan \`identifier\`):
-  - Detail CAP XML diambil dari server BMKG,
-  - \`README.md\` di-generate ulang dengan peringatan aktif + riwayat,
-  - notifikasi **Discord webhook** dikirim (jika dikonfigurasi),
-  - state disimpan di \`data/alerts-state.json\` agar tidak spam.
+- Workflow \`.github/workflows/alerts.yml\` berjalan otomatis setiap **10 menit** (serta via manual dispatch / push).
+- \`src/fetchAlerts.js\` mengunduh RSS feed dan mengambil detail dokumen CAP XML dari server BMKG.
+- Sistem memfilter dan memvalidasi peringatan cuaca:
+  - Menggunakan kunci logis (\`provinsi|event\`) dan **fingerprint hash SHA-1** (bukan sekadar \`identifier\`) agar revisi jam/area tidak memicu notifikasi berulang.
+  - Notifikasi **Discord webhook** dikirim hanya untuk peringatan yang benar-benar baru.
+  - Alert yang diperpanjang/direvisi diperbarui datanya ke riwayat tanpa mengirim notifikasi ganda.
+- Di akhir eksekusi, jika terdapat perubahan (alert baru, revisi, atau alert kedaluwarsa):
+  - \`README.md\` diperbarui otomatis dengan daftar peringatan aktif dan riwayat 20 peringatan terakhir.
+  - State snapshot disimpan di \`data/alerts-state.json\` dan rekam jejak di \`data/alerts-history.json\`.
 
 ### 📊 Arti Severity & Urgency (CAP Protocol)
 
