@@ -2,8 +2,8 @@
 
 > Monitor real-time peringatan dini cuaca ekstrem dari **BMKG** (nowcast, 0–6 jam ke depan). Data diambil otomatis setiap 10 menit dari API publik BMKG, ditampilkan langsung di README ini, dan dikirim ke Discord webhook jika ada peringatan baru.
 
-🕒 **Update terakhir:** Kamis, 08 Oktober 2026 pukul 01.55.12
-📊 **Peringatan aktif saat ini:** 5
+🕒 **Update terakhir:** Kamis, 08 Oktober 2026 pukul 06.30.39
+📊 **Peringatan aktif saat ini:** 4
 📜 **Riwayat peringatan terakhir:** 20
 
 ---
@@ -12,11 +12,10 @@
 
 | Severity | Urgency | Headline & Wilayah | Durasi (WIB) |
 | --- | --- | --- | --- |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sumatera Barat**<br>📍 Sumatera Barat<br>Hujan lebat disertai petir akan terjadi pada 08 October 2026, 00:40 WIB di sebagian wilayah Sumatera Barat, khususnya di 2 X 11 KAYU TANAM, LUBUK ALUN...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CSB/2026/10/08/infografis.jpg) | Kam, 8 Okt, 00.40 – Kam, 8 Okt, 02.40 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sumatera Utara**<br>📍 Sumatera Utara<br>Hujan lebat disertai petir akan terjadi pada 08 October 2026, 00:30 WIB di sebagian wilayah Sumatera Utara, khususnya di AJIBATA, ANGKOLA BARAT, ANGKO...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CSU/2026/10/08/infografis.jpg) | Kam, 8 Okt, 00.30 – Kam, 8 Okt, 03.30 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kalimantan Utara**<br>📍 Kalimantan Utara<br>Hujan lebat disertai petir akan terjadi pada 08 October 2026, 01:00 WITA di sebagian wilayah Kalimantan Utara, khususnya di PESO, PESO HILIR, TANJUNG ...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CKU/2026/10/08/infografis.jpg) | Kam, 8 Okt, 00.00 – Kam, 8 Okt, 03.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kalimantan Timur**<br>📍 Kalimantan Timur<br>Hujan lebat disertai petir akan terjadi pada 08 October 2026, 00:45 WITA di sebagian wilayah Kalimantan Timur, khususnya di SAMBALIUNG, SEGAH. Kondisi...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CKT/2026/10/08/infografis.jpg) | Rab, 7 Okt, 23.45 – Kam, 8 Okt, 02.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Aceh**<br>📍 Aceh<br>Hujan lebat disertai petir akan terjadi pada 07 October 2026, 21:01 WIB di sebagian wilayah Aceh, khususnya di BABUL MAKMUR, BABUL RAHMAH, BADAR, DANA...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CAH/2026/10/07/infografis.jpg) | Rab, 7 Okt, 21.01 – Kam, 8 Okt, 01.22 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kep. Riau**<br>📍 Kep. Riau<br>Hujan lebat disertai petir akan terjadi pada 08 October 2026, 05:55 WIB di sebagian wilayah Kep. Riau, khususnya di SERASAN TIMUR. Kondisi ini berpote...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CKR/2026/10/08/infografis.jpg) | Kam, 8 Okt, 05.55 – Kam, 8 Okt, 08.00 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kalimantan Utara**<br>📍 Kalimantan Utara<br>Hujan lebat disertai petir akan terjadi pada 08 October 2026, 06:10 WITA di sebagian wilayah Kalimantan Utara, khususnya di PESO, PESO HILIR, TANJUNG ...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CKU/2026/10/08/infografis.jpg) | Kam, 8 Okt, 05.10 – Kam, 8 Okt, 07.30 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Jambi**<br>📍 Jambi<br>Hujan lebat disertai petir akan terjadi pada 08 October 2026, 05:15 WIB di sebagian wilayah Jambi, khususnya di BANGKO BARAT, RENAH PEMBARAP, TIANG PU...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CJI/2026/10/08/infografis.jpg) | Kam, 8 Okt, 05.15 – Kam, 8 Okt, 07.15 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kalimantan Timur**<br>📍 Kalimantan Timur<br>Hujan lebat disertai petir akan terjadi pada 08 October 2026, 05:45 WITA di sebagian wilayah Kalimantan Timur, khususnya di GUNUNG TABUR, SEGAH. Kondi...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CKT/2026/10/08/infografis.jpg) | Kam, 8 Okt, 04.45 – Kam, 8 Okt, 07.15 |
 
 ---
 
@@ -24,6 +23,10 @@
 
 | Severity | Headline | Provinsi | Periode Berlaku | Terdeteksi |
 | --- | --- | --- | --- | --- |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Timur | Kalimantan Timur | Kam, 8 Okt, 04.45 – Kam, 8 Okt, 07.15 | Kam, 8 Okt, 06.30 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Utara | Kalimantan Utara | Kam, 8 Okt, 05.10 – Kam, 8 Okt, 07.30 | Kam, 8 Okt, 06.30 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Jambi | Jambi | Kam, 8 Okt, 05.15 – Kam, 8 Okt, 07.15 | Kam, 8 Okt, 06.30 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Kep. Riau | Kep. Riau | Kam, 8 Okt, 05.55 – Kam, 8 Okt, 08.00 | Kam, 8 Okt, 06.30 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Aceh | Aceh | Rab, 7 Okt, 21.01 – Kam, 8 Okt, 01.22 | Rab, 7 Okt, 12.45 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Timur | Kalimantan Timur | Rab, 7 Okt, 23.45 – Kam, 8 Okt, 02.00 | Kam, 8 Okt, 01.55 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Utara | Sumatera Utara | Kam, 8 Okt, 00.30 – Kam, 8 Okt, 03.30 | Kam, 8 Okt, 01.55 |
@@ -40,10 +43,6 @@
 | 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Barat | Sumatera Barat | Rab, 7 Okt, 12.35 – Rab, 7 Okt, 14.30 | Rab, 7 Okt, 12.45 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Kep. Riau | Kep. Riau | Rab, 7 Okt, 05.06 – Rab, 7 Okt, 07.00 | Rab, 7 Okt, 06.59 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Sulawesi Tengah | Sulawesi Tengah | Rab, 7 Okt, 05.45 – Rab, 7 Okt, 08.45 | Rab, 7 Okt, 06.59 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Lampung | Lampung | Rab, 7 Okt, 00.00 – Rab, 7 Okt, 03.00 | Sel, 6 Okt, 22.09 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Kep. Riau | Kep. Riau | Rab, 7 Okt, 01.00 – Rab, 7 Okt, 03.00 | Rab, 7 Okt, 03.20 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Utara | Sumatera Utara | Sel, 6 Okt, 19.10 – Sel, 6 Okt, 22.10 | Sel, 6 Okt, 22.09 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Barat | Kalimantan Barat | Sel, 6 Okt, 20.40 – Sel, 6 Okt, 22.40 | Sel, 6 Okt, 22.09 |
 
 ---
 
