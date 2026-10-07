@@ -1,8 +1,10 @@
 {
   "schemaVersion": 3,
   "active": {
-    "kep. riau|hujan lebat dan petir": "4d15a97a13b4ef4b1a5460b1adb56ad1172acd09",
-    "sulawesi tengah|hujan lebat dan petir": "2815755fe0c4715ff49f205388e15c56b451d578"
+    "aceh|hujan lebat dan petir": "5ed236c14fa4dc58b993e59a6d30775c96ecd814",
+    "papua|hujan lebat dan petir": "55c7dfaebdc66b6975a184e7949043004778c581",
+    "sumatera barat|hujan lebat dan petir": "f76837de28f98ed3cac89a3dc611001f3e59cd75",
+    "sumatera utara|hujan lebat dan petir": "822d0c93989245461b85c80f356ce8f0c48109fc"
   },
-  "count": 2
+  "count": 4
 }
