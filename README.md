@@ -2,8 +2,8 @@
 
 > Monitor real-time peringatan dini cuaca ekstrem dari **BMKG** (nowcast, 0–6 jam ke depan). Data diambil otomatis setiap 10 menit dari API publik BMKG, ditampilkan langsung di README ini, dan dikirim ke Discord webhook jika ada peringatan baru.
 
-🕒 **Update terakhir:** Jumat, 09 Oktober 2026 pukul 00.26.30
-📊 **Peringatan aktif saat ini:** 5
+🕒 **Update terakhir:** Jumat, 09 Oktober 2026 pukul 05.20.48
+📊 **Peringatan aktif saat ini:** 6
 📜 **Riwayat peringatan terakhir:** 20
 
 ---
@@ -12,11 +12,12 @@
 
 | Severity | Urgency | Headline & Wilayah | Durasi (WIB) |
 | --- | --- | --- | --- |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kalimantan Utara**<br>📍 Kalimantan Utara<br>Hujan lebat disertai petir akan terjadi pada 09 October 2026, 01:18 WITA di sebagian wilayah Kalimantan Utara, khususnya di BETAYAU, LUMBIS OGONG, MAL...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CKU/2026/10/09/infografis.jpg) | Jum, 9 Okt, 00.18 – Jum, 9 Okt, 03.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Papua**<br>📍 Papua<br>Hujan lebat disertai petir akan terjadi pada 09 October 2026, 01:35 WIT di sebagian wilayah Papua, khususnya di ABEPURA, AIRU, ARSO, BONGGO, JAYAPURA ...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CPU/2026/10/09/infografis.jpg) | Kam, 8 Okt, 23.35 – Jum, 9 Okt, 01.35 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Jawa Tengah**<br>📍 Jawa Tengah<br>Hujan lebat disertai petir akan terjadi pada 08 October 2026, 23:20 WIB di sebagian wilayah Jawa Tengah, khususnya di BATANG, KANDEMAN, NGALIYAN, PEKA...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CJH/2026/10/08/infografis.jpg) | Kam, 8 Okt, 23.20 – Jum, 9 Okt, 02.30 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Riau**<br>📍 Riau<br>Hujan lebat disertai petir akan terjadi pada 08 October 2026, 23:10 WIB di sebagian wilayah Riau, khususnya di KEPENUHAN, KEPENUHAN HULU, KOTO KAMPAR ...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CRU/2026/10/08/infografis.jpg) | Kam, 8 Okt, 23.10 – Jum, 9 Okt, 03.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sumatera Barat**<br>📍 Sumatera Barat<br>Hujan lebat disertai petir akan terjadi pada 08 October 2026, 23:00 WIB di sebagian wilayah Sumatera Barat, khususnya di 2 X 11 KAYU TANAM, BATANG GAS...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CSB/2026/10/08/infografis.jpg) | Kam, 8 Okt, 23.00 – Jum, 9 Okt, 01.00 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kalimantan Timur**<br>📍 Kalimantan Timur<br>Hujan lebat disertai petir akan terjadi pada 09 October 2026, 06:10 WITA di sebagian wilayah Kalimantan Timur, khususnya di BALIKPAPAN KOTA, BALIKPAPA...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CKT/2026/10/09/infografis.jpg) | Jum, 9 Okt, 05.10 – Jum, 9 Okt, 06.00 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kalimantan Utara**<br>📍 Kalimantan Utara<br>Hujan lebat disertai petir akan terjadi pada 09 October 2026, 06:11 WITA di sebagian wilayah Kalimantan Utara, khususnya di PESO HILIR, TANJUNG PALAS,...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CKU/2026/10/09/infografis.jpg) | Jum, 9 Okt, 05.11 – Jum, 9 Okt, 07.00 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sulawesi Utara**<br>📍 Sulawesi Utara<br>Hujan lebat disertai petir akan terjadi pada 09 October 2026, 05:50 WITA di sebagian wilayah Sulawesi Utara, khususnya di AMURANG BARAT, KEPULAUAN MAR...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CSR/2026/10/09/infografis.jpg) | Jum, 9 Okt, 04.50 – Jum, 9 Okt, 07.00 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Riau**<br>📍 Riau<br>Hujan lebat disertai petir akan terjadi pada 09 October 2026, 04:10 WIB di sebagian wilayah Riau, khususnya di BANGKINANG, BANGKINANG KOTA, KAMPAR, KA...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CRU/2026/10/09/infografis.jpg) | Jum, 9 Okt, 04.10 – Jum, 9 Okt, 07.30 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Papua**<br>📍 Papua<br>Hujan lebat disertai petir akan terjadi pada 09 October 2026, 05:45 WIT di sebagian wilayah Papua, khususnya di ABEPURA, ARSO, ARSO TIMUR, BONGGO, BON...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CPU/2026/10/09/infografis.jpg) | Jum, 9 Okt, 03.45 – Jum, 9 Okt, 05.45 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Lampung**<br>📍 Lampung<br>Hujan lebat disertai petir akan terjadi pada 09 October 2026, 03:45 WIB di sebagian wilayah Lampung, khususnya di KOTA AGUNG, KOTA AGUNG BARAT, KOTA A...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CLG/2026/10/09/infografis.jpg) | Jum, 9 Okt, 03.45 – Jum, 9 Okt, 06.00 |
 
 ---
 
@@ -24,9 +25,14 @@
 
 | Severity | Headline | Provinsi | Periode Berlaku | Terdeteksi |
 | --- | --- | --- | --- | --- |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Papua | Papua | Jum, 9 Okt, 03.45 – Jum, 9 Okt, 05.45 | Jum, 9 Okt, 05.20 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Riau | Riau | Jum, 9 Okt, 04.10 – Jum, 9 Okt, 07.30 | Jum, 9 Okt, 00.26 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Utara | Kalimantan Utara | Jum, 9 Okt, 05.11 – Jum, 9 Okt, 07.00 | Jum, 9 Okt, 05.20 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Lampung | Lampung | Jum, 9 Okt, 03.45 – Jum, 9 Okt, 06.00 | Jum, 9 Okt, 05.20 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Sulawesi Utara | Sulawesi Utara | Jum, 9 Okt, 04.50 – Jum, 9 Okt, 07.00 | Jum, 9 Okt, 05.20 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Timur | Kalimantan Timur | Jum, 9 Okt, 05.10 – Jum, 9 Okt, 06.00 | Jum, 9 Okt, 05.20 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Papua | Papua | Kam, 8 Okt, 23.35 – Jum, 9 Okt, 01.35 | Jum, 9 Okt, 00.26 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Barat | Sumatera Barat | Kam, 8 Okt, 23.00 – Jum, 9 Okt, 01.00 | Jum, 9 Okt, 00.26 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Riau | Riau | Kam, 8 Okt, 23.10 – Jum, 9 Okt, 03.00 | Jum, 9 Okt, 00.26 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Jawa Tengah | Jawa Tengah | Kam, 8 Okt, 23.20 – Jum, 9 Okt, 02.30 | Jum, 9 Okt, 00.26 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Utara | Kalimantan Utara | Jum, 9 Okt, 00.18 – Jum, 9 Okt, 03.00 | Jum, 9 Okt, 00.26 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Utara | Sumatera Utara | Kam, 8 Okt, 14.30 – Kam, 8 Okt, 17.30 | Kam, 8 Okt, 17.14 |
@@ -39,11 +45,6 @@
 | 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Utara | Sumatera Utara | Kam, 8 Okt, 08.00 – Kam, 8 Okt, 11.00 | Kam, 8 Okt, 09.54 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Timur | Kalimantan Timur | Kam, 8 Okt, 04.45 – Kam, 8 Okt, 07.15 | Kam, 8 Okt, 06.30 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Utara | Kalimantan Utara | Kam, 8 Okt, 05.10 – Kam, 8 Okt, 07.30 | Kam, 8 Okt, 06.30 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Jambi | Jambi | Kam, 8 Okt, 05.15 – Kam, 8 Okt, 07.15 | Kam, 8 Okt, 06.30 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Kep. Riau | Kep. Riau | Kam, 8 Okt, 05.55 – Kam, 8 Okt, 08.00 | Kam, 8 Okt, 06.30 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Aceh | Aceh | Rab, 7 Okt, 21.01 – Kam, 8 Okt, 01.22 | Rab, 7 Okt, 12.45 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Timur | Kalimantan Timur | Rab, 7 Okt, 23.45 – Kam, 8 Okt, 02.00 | Kam, 8 Okt, 01.55 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Utara | Sumatera Utara | Kam, 8 Okt, 00.30 – Kam, 8 Okt, 03.30 | Kam, 8 Okt, 01.55 |
 
 ---
 
