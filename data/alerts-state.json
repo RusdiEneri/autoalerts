@@ -1,10 +1,7 @@
 {
   "schemaVersion": 3,
   "active": {
-    "jambi|hujan lebat dan petir": "ad6a864ca0caa1947d032c2d10b6f26625d65b3c",
-    "kalimantan timur|hujan lebat dan petir": "936af15cde97fae47e7eaa840ac7fc3a8b7c4d6a",
-    "kalimantan utara|hujan lebat dan petir": "0b4fd28c1197ecf2b1204e84f9cc210fec9bca91",
-    "kep. riau|hujan lebat dan petir": "c689f310866742b4e4edfeaa19225da4e5439ce9"
+    "sumatera utara|hujan lebat dan petir": "443b896cb43f2568cffba6d95a312008196bc2cf"
   },
-  "count": 4
+  "count": 1
 }
