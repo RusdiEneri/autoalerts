@@ -1,17 +1,20 @@
 {
   "schemaVersion": 3,
   "active": {
-    "aceh|hujan lebat dan petir": "d736a2906d7974b64da326ffb5fa4cfbbb1d18ec",
-    "bali|hujan lebat dan petir": "adc6827c25a8e8d166a440ea69e80a404164d8b8",
-    "kalimantan tengah|hujan lebat dan petir": "bcea3987f320305ad50d617d0e53193c1f2ce9c6",
-    "kalimantan timur|hujan lebat dan petir": "2bec4aab2b91747a9dd6480f3b372fe716620203",
-    "kalimantan utara|hujan lebat dan petir": "e18da495c42cd39a9cf5b1900ec09611c2a4b0e8",
-    "kep. riau|hujan lebat dan petir": "19785335da38485290161135387e3dd605eceecb",
-    "papua|hujan lebat dan petir": "a48057991720c86fe2b520c3f38dbdcf0b7fb2d3",
-    "riau|hujan lebat dan petir": "681912442f80f134b29c656c869c7889ee44df54",
-    "sulawesi utara|hujan lebat dan petir": "190d79df5d7daac5689a8c40573876a3598e52c4",
-    "sumatera barat|hujan lebat dan petir": "85d31e0dbbb3a1213281472c5aca67f542f052bd",
-    "sumatera utara|hujan lebat dan petir": "33cb7d43789145c1f225e72ce904edf14618bd95"
+    "aceh|hujan lebat dan petir": "ae9c6c9c7772f1315349ca4f24d548f048a3d7da",
+    "bengkulu|hujan lebat dan petir": "57ec0292dce5d68a7a0e33ce4def7e4d28199e2e",
+    "gorontalo|hujan lebat dan petir": "4aabb160fcdd63119b304c1ae4105717325d57ce",
+    "jambi|hujan lebat dan petir": "84881d641c1e2226a9537166750137e253e9244a",
+    "jawa barat|hujan lebat dan petir": "ed8b68d09a770562de5b2324b40b1dd33fcb27b1",
+    "jawa timur|hujan lebat dan petir": "1bb6e4c7baecb68ba9c4057bd25a70d4bce64e5e",
+    "kalimantan selatan|hujan lebat dan petir": "2a7f48c2f96a4c13057159bc9b7b47d1803d7604",
+    "kalimantan tengah|hujan lebat dan petir": "0979cf88384af3d0b84756f31cd2923c410a8194",
+    "kalimantan utara|hujan lebat dan petir": "09987368183e4819695e33b6d2b5958958ffa8c3",
+    "papua pegunungan|hujan lebat dan petir": "885eca8424e465511f26476d58f213b2143c82f3",
+    "papua|hujan lebat dan petir": "07c084540db368cbbe9eb6522b00f371a562cfec",
+    "riau|hujan lebat dan petir": "28c9d2db13812c98666827a075ba5fcc9816aa0e",
+    "sumatera barat|hujan lebat dan petir": "18116d2c42516208cffb2ec64186cb2458407bff",
+    "sumatera utara|hujan lebat dan petir": "0399e105e12457cbee1834fcc5eb5044e9a269ab"
   },
-  "count": 11
+  "count": 14
 }
