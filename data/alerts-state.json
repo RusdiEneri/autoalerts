@@ -1,20 +1,15 @@
 {
   "schemaVersion": 3,
   "active": {
-    "aceh|hujan lebat dan petir": "ae9c6c9c7772f1315349ca4f24d548f048a3d7da",
-    "bengkulu|hujan lebat dan petir": "57ec0292dce5d68a7a0e33ce4def7e4d28199e2e",
-    "gorontalo|hujan lebat dan petir": "4aabb160fcdd63119b304c1ae4105717325d57ce",
-    "jambi|hujan lebat dan petir": "84881d641c1e2226a9537166750137e253e9244a",
-    "jawa barat|hujan lebat dan petir": "ed8b68d09a770562de5b2324b40b1dd33fcb27b1",
-    "jawa timur|hujan lebat dan petir": "1bb6e4c7baecb68ba9c4057bd25a70d4bce64e5e",
-    "kalimantan selatan|hujan lebat dan petir": "2a7f48c2f96a4c13057159bc9b7b47d1803d7604",
-    "kalimantan tengah|hujan lebat dan petir": "0979cf88384af3d0b84756f31cd2923c410a8194",
-    "kalimantan utara|hujan lebat dan petir": "09987368183e4819695e33b6d2b5958958ffa8c3",
-    "papua pegunungan|hujan lebat dan petir": "885eca8424e465511f26476d58f213b2143c82f3",
-    "papua|hujan lebat dan petir": "07c084540db368cbbe9eb6522b00f371a562cfec",
-    "riau|hujan lebat dan petir": "28c9d2db13812c98666827a075ba5fcc9816aa0e",
-    "sumatera barat|hujan lebat dan petir": "18116d2c42516208cffb2ec64186cb2458407bff",
-    "sumatera utara|hujan lebat dan petir": "0399e105e12457cbee1834fcc5eb5044e9a269ab"
+    "aceh|hujan lebat dan petir": "967754b361588d5fe6bd2f2561a80df57deb4fc8",
+    "bengkulu|hujan lebat dan petir": "8924dac07886f87e6b077b44f36b496274620334",
+    "jambi|hujan lebat dan petir": "38ca1b80ad47bff872e0e8c1a1048fba50f95e58",
+    "jawa timur|hujan lebat dan petir": "5e39e856936779fa3f0f60950929a43d55d4b0cf",
+    "kalimantan tengah|hujan lebat dan petir": "b1b48a1317694c02591ff4835fedb6a760d20f60",
+    "kep. riau|hujan lebat dan petir": "6c26ad7c897638179a4fa72651ffdce1a8ca1cc5",
+    "papua|hujan lebat dan petir": "2e72a1bdc4b128113dd8263b794ed1454bf187b3",
+    "sumatera selatan|hujan lebat dan petir": "ebe1fd9650e11eeddd021aca660743e1980fb970",
+    "sumatera utara|hujan lebat dan petir": "752d3196e753d58b798f4d764dd1aaacb5983712"
   },
-  "count": 14
+  "count": 9
 }
