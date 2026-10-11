@@ -2,8 +2,8 @@
 
 > Monitor real-time peringatan dini cuaca ekstrem dari **BMKG** (nowcast, 0–6 jam ke depan). Data diambil otomatis setiap 10 menit dari API publik BMKG, ditampilkan langsung di README ini, dan dikirim ke Discord webhook jika ada peringatan baru.
 
-🕒 **Update terakhir:** Minggu, 11 Oktober 2026 pukul 20.10.45
-📊 **Peringatan aktif saat ini:** 12
+🕒 **Update terakhir:** Senin, 12 Oktober 2026 pukul 01.10.14
+📊 **Peringatan aktif saat ini:** 10
 📜 **Riwayat peringatan terakhir:** 20
 
 ---
@@ -12,18 +12,16 @@
 
 | Severity | Urgency | Headline & Wilayah | Durasi (WIB) |
 | --- | --- | --- | --- |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Jawa Tengah**<br>📍 Jawa Tengah<br>Hujan lebat disertai petir akan terjadi pada 11 October 2026, 19:50 WIB di sebagian wilayah Jawa Tengah, khususnya di JENAR, KRADENAN. Kondisi ini ber...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CJH/2026/10/11/infografis.jpg) | Min, 11 Okt, 19.50 – Min, 11 Okt, 21.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Aceh**<br>📍 Aceh<br>Hujan lebat disertai petir akan terjadi pada 11 October 2026, 19:35 WIB di sebagian wilayah Aceh, khususnya di ARONGAN LAMBALEK, ATU LINTANG, BABAH RO...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CAH/2026/10/11/infografis.jpg) | Min, 11 Okt, 19.35 – Min, 11 Okt, 22.35 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Jakarta**<br>📍 Jakarta<br>Hujan lebat disertai petir akan terjadi pada 11 October 2026, 19:20 WIB di sebagian wilayah Jakarta, khususnya di CIGUDEG, CISEENG, JASINGA, PARUNG, P...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CJK/2026/10/11/infografis.jpg) | Min, 11 Okt, 19.20 – Min, 11 Okt, 21.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Bengkulu**<br>📍 Bengkulu<br>Hujan lebat disertai petir akan terjadi pada 11 October 2026, 19:05 WIB di sebagian wilayah Bengkulu, khususnya di AIR DIKIT, AIR MAJUNTO, AIR NIPIS, ...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CBK/2026/10/11/infografis.jpg) | Min, 11 Okt, 19.05 – Min, 11 Okt, 23.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Lampung**<br>📍 Lampung<br>Hujan lebat disertai petir akan terjadi pada 11 October 2026, 19:05 WIB di sebagian wilayah Lampung, khususnya di ABUNG PEKURUN, AIR NANINGAN, AMBARAW...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CLG/2026/10/11/infografis.jpg) | Min, 11 Okt, 19.05 – Min, 11 Okt, 21.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kalimantan Utara**<br>📍 Kalimantan Utara<br>Hujan lebat disertai petir akan terjadi pada 11 October 2026, 20:05 WITA di sebagian wilayah Kalimantan Utara, khususnya di BAHAU HULU, KRAYAN, KRAYAN...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CKU/2026/10/11/infografis.jpg) | Min, 11 Okt, 19.05 – Min, 11 Okt, 21.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sumatera Barat**<br>📍 Sumatera Barat<br>Hujan lebat disertai petir akan terjadi pada 11 October 2026, 19:00 WIB di sebagian wilayah Sumatera Barat, khususnya di HILIRAN GUMANTI, KOTO PARIK G...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CSB/2026/10/11/infografis.jpg) | Min, 11 Okt, 19.00 – Min, 11 Okt, 21.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Banten**<br>📍 Banten<br>Hujan lebat disertai petir akan terjadi pada 11 October 2026, 18:30 WIB di sebagian wilayah Banten, khususnya di ANYAR, BAROS, CADASARI, CIBADAK, CIBE...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CBT/2026/10/11/infografis.jpg) | Min, 11 Okt, 18.30 – Min, 11 Okt, 20.30 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Jambi**<br>📍 Jambi<br>Hujan lebat disertai petir akan terjadi pada 11 October 2026, 18:29 WIB di sebagian wilayah Jambi, khususnya di BAJUBANG, BATANG ASAM, BETARA, BUKITKE...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CJI/2026/10/11/infografis.jpg) | Min, 11 Okt, 18.29 – Min, 11 Okt, 20.30 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Jawa Barat**<br>📍 Jawa Barat<br>Hujan lebat disertai petir akan terjadi pada 11 October 2026, 17:50 WIB di sebagian wilayah Jawa Barat, khususnya di ASTANA ANYAR, BABAKAN CIPARAY, BA...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CJB/2026/10/11/infografis.jpg) | Min, 11 Okt, 17.50 – Min, 11 Okt, 20.30 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sumatera Utara**<br>📍 Sumatera Utara<br>Hujan lebat disertai petir akan terjadi pada 11 October 2026, 17:50 WIB di sebagian wilayah Sumatera Utara, khususnya di ADIAN KOTING, BAHOROK, BANDAR...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CSU/2026/10/11/infografis.jpg) | Min, 11 Okt, 17.50 – Min, 11 Okt, 20.50 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Riau**<br>📍 Riau<br>Hujan lebat disertai petir akan terjadi pada 11 October 2026, 17:30 WIB di sebagian wilayah Riau, khususnya di BANDAR PETALANGAN, BANGUN PURBA, BUNUT,...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CRU/2026/10/11/infografis.jpg) | Min, 11 Okt, 17.30 – Min, 11 Okt, 20.30 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sumatera Selatan**<br>📍 Sumatera Selatan<br>Hujan lebat disertai petir akan terjadi pada 12 October 2026, 00:45 WIB di sebagian wilayah Sumatera Selatan, khususnya di SALING, SIKAP DALAM, TEBING...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CSS/2026/10/12/infografis.jpg) | Sen, 12 Okt, 00.45 – Sen, 12 Okt, 02.45 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Jambi**<br>📍 Jambi<br>Hujan lebat disertai petir akan terjadi pada 12 October 2026, 00:36 WIB di sebagian wilayah Jambi, khususnya di SUMAY. Kondisi ini berpotensi menimbul...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CJI/2026/10/12/infografis.jpg) | Sen, 12 Okt, 00.36 – Sen, 12 Okt, 03.00 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sumatera Barat**<br>📍 Sumatera Barat<br>Hujan lebat disertai petir akan terjadi pada 12 October 2026, 00:05 WIB di sebagian wilayah Sumatera Barat, khususnya di BARANGIN, HARAU, IX KOTO SUNG...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CSB/2026/10/11/infografis.jpg) | Sen, 12 Okt, 00.05 – Sen, 12 Okt, 02.00 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Riau**<br>📍 Riau<br>Hujan lebat disertai petir akan terjadi pada 12 October 2026, 00:00 WIB di sebagian wilayah Riau, khususnya di BANGKO PUSAKO, BANTAN, BENGKALIS, KAMPA...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CRU/2026/10/11/infografis.jpg) | Sen, 12 Okt, 00.00 – Sen, 12 Okt, 03.00 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sulawesi Selatan**<br>📍 Sulawesi Selatan<br>Hujan lebat disertai petir akan terjadi pada 12 October 2026, 01:20 WITA di sebagian wilayah Sulawesi Selatan, khususnya di BURAU, TANA LILI, TOMONI. ...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CSL/2026/10/12/infografis.jpg) | Sen, 12 Okt, 00.20 – Sen, 12 Okt, 02.20 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sumatera Utara**<br>📍 Sumatera Utara<br>Hujan lebat disertai petir akan terjadi pada 12 October 2026, 00:00 WIB di sebagian wilayah Sumatera Utara, khususnya di AIR JOMAN, ANGKOLA SANGKUNUR,...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CSU/2026/10/11/infografis.jpg) | Sen, 12 Okt, 00.00 – Sen, 12 Okt, 03.00 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Aceh**<br>📍 Aceh<br>Hujan lebat disertai petir akan terjadi pada 11 October 2026, 23:39 WIB di sebagian wilayah Aceh, khususnya di BANDA MULIA, BANDAR PUSAKA, BENDAHARA, ...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CAH/2026/10/11/infografis.jpg) | Min, 11 Okt, 23.39 – Sen, 12 Okt, 03.00 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Lampung**<br>📍 Lampung<br>Hujan lebat disertai petir akan terjadi pada 11 October 2026, 23:30 WIB di sebagian wilayah Lampung, khususnya di BAKAUHENI, PEMATANG SAWA, PENENGAHAN...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CLG/2026/10/11/infografis.jpg) | Min, 11 Okt, 23.30 – Sen, 12 Okt, 01.30 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Bengkulu**<br>📍 Bengkulu<br>Hujan lebat disertai petir akan terjadi pada 11 October 2026, 23:10 WIB di sebagian wilayah Bengkulu, khususnya di AIR MAJUNTO, BINDURIANG, IPUH, KOTA...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CBK/2026/10/11/infografis.jpg) | Min, 11 Okt, 23.10 – Sen, 12 Okt, 03.00 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Jakarta**<br>📍 Jakarta<br>Hujan lebat disertai petir akan terjadi pada 11 October 2026, 22:35 WIB di sebagian wilayah Jakarta, khususnya di BATUCEPER, BEJI, BENDA, BOJONGSARI, ...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CJK/2026/10/11/infografis.jpg) | Min, 11 Okt, 22.35 – Sen, 12 Okt, 01.30 |
 
 ---
 
@@ -31,6 +29,16 @@
 
 | Severity | Headline | Provinsi | Periode Berlaku | Terdeteksi |
 | --- | --- | --- | --- | --- |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Jakarta | Jakarta | Min, 11 Okt, 22.35 – Sen, 12 Okt, 01.30 | Min, 11 Okt, 20.10 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Bengkulu | Bengkulu | Min, 11 Okt, 23.10 – Sen, 12 Okt, 03.00 | Min, 11 Okt, 20.10 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Lampung | Lampung | Min, 11 Okt, 23.30 – Sen, 12 Okt, 01.30 | Sen, 12 Okt, 01.10 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Aceh | Aceh | Min, 11 Okt, 23.39 – Sen, 12 Okt, 03.00 | Min, 11 Okt, 20.10 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Utara | Sumatera Utara | Sen, 12 Okt, 00.00 – Sen, 12 Okt, 03.00 | Sen, 12 Okt, 01.10 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Riau | Riau | Sen, 12 Okt, 00.00 – Sen, 12 Okt, 03.00 | Sen, 12 Okt, 01.10 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Barat | Sumatera Barat | Sen, 12 Okt, 00.05 – Sen, 12 Okt, 02.00 | Sen, 12 Okt, 01.10 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Jambi | Jambi | Sen, 12 Okt, 00.36 – Sen, 12 Okt, 03.00 | Sen, 12 Okt, 01.10 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Sulawesi Selatan | Sulawesi Selatan | Sen, 12 Okt, 00.20 – Sen, 12 Okt, 02.20 | Sen, 12 Okt, 01.10 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Selatan | Sumatera Selatan | Sen, 12 Okt, 00.45 – Sen, 12 Okt, 02.45 | Sen, 12 Okt, 01.10 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Riau | Riau | Min, 11 Okt, 17.30 – Min, 11 Okt, 20.30 | Min, 11 Okt, 13.20 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Jambi | Jambi | Min, 11 Okt, 18.29 – Min, 11 Okt, 20.30 | Min, 11 Okt, 20.10 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Barat | Sumatera Barat | Min, 11 Okt, 19.00 – Min, 11 Okt, 21.00 | Min, 11 Okt, 20.10 |
@@ -39,18 +47,8 @@
 | 🟡 Moderate | Hujan Lebat disertai Petir di Jawa Barat | Jawa Barat | Min, 11 Okt, 17.50 – Min, 11 Okt, 20.30 | Min, 11 Okt, 20.10 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Banten | Banten | Min, 11 Okt, 18.30 – Min, 11 Okt, 20.30 | Min, 11 Okt, 20.10 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Lampung | Lampung | Min, 11 Okt, 19.05 – Min, 11 Okt, 21.00 | Min, 11 Okt, 20.10 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Bengkulu | Bengkulu | Min, 11 Okt, 19.05 – Min, 11 Okt, 23.00 | Min, 11 Okt, 20.10 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Jakarta | Jakarta | Min, 11 Okt, 19.20 – Min, 11 Okt, 21.00 | Min, 11 Okt, 20.10 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Aceh | Aceh | Min, 11 Okt, 19.35 – Min, 11 Okt, 22.35 | Min, 11 Okt, 20.10 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Jawa Tengah | Jawa Tengah | Min, 11 Okt, 19.50 – Min, 11 Okt, 21.00 | Min, 11 Okt, 20.10 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Kep. Riau | Kep. Riau | Min, 11 Okt, 12.10 – Min, 11 Okt, 14.10 | Min, 11 Okt, 13.20 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Tengah | Kalimantan Tengah | Min, 11 Okt, 12.30 – Min, 11 Okt, 14.30 | Min, 11 Okt, 13.20 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Jambi | Jambi | Min, 11 Okt, 13.30 – Min, 11 Okt, 15.30 | Min, 11 Okt, 13.20 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Utara | Kalimantan Utara | Min, 11 Okt, 13.10 – Min, 11 Okt, 15.30 | Min, 11 Okt, 13.20 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Barat | Sumatera Barat | Min, 11 Okt, 13.00 – Min, 11 Okt, 15.00 | Min, 11 Okt, 13.20 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Tengah | Kalimantan Tengah | Min, 11 Okt, 06.20 – Min, 11 Okt, 08.30 | Min, 11 Okt, 01.00 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Sulawesi Tengah | Sulawesi Tengah | Min, 11 Okt, 06.50 – Min, 11 Okt, 09.30 | Min, 11 Okt, 04.34 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Jambi | Jambi | Min, 11 Okt, 05.15 – Min, 11 Okt, 07.15 | Min, 11 Okt, 07.28 |
 
 ---
 
