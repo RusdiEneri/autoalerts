@@ -1,14 +1,14 @@
 {
   "schemaVersion": 3,
   "active": {
-    "aceh|hujan lebat dan petir": "e9e206adcbfc09dd7b0e1b8738f4a594007790a5",
-    "kalimantan timur|hujan lebat dan petir": "dc3fa0f724b16b1f9172965e1315e70da57a2611",
-    "kep. riau|hujan lebat dan petir": "0bb064c34d8b64f8c1f7863b594aaa916ea59a78",
-    "nusa tenggara timur|hujan lebat dan petir": "a264b0274ac53236217ed37f95b581ee8c06bca4",
-    "papua|hujan lebat dan petir": "7482325ae05c0fad4ecd094820f4eebc1fb0eb98",
-    "riau|hujan lebat dan petir": "33c9ecd595b935ad1233f0e9248f6b25e634caa7",
-    "sulawesi utara|hujan lebat dan petir": "cb985d09b42b3947d4f39c00f659aa9e9d43aba6",
-    "sumatera utara|hujan lebat dan petir": "11c0280461bef94c25a2adf27e61a255fab70411"
+    "aceh|hujan lebat dan petir": "5dc832ba097b8d1d4c3b3b616d9f10b420796972",
+    "banten|hujan lebat dan petir": "19045835d4927f0bc3e719d685ff204d1feb1b2b",
+    "maluku utara|hujan lebat dan petir": "80e2691fb020ef559aeb4d419fdca09473b6bc13",
+    "papua barat|hujan lebat dan petir": "fa62d5aca6a65f79fa2a0f981df346083619378f",
+    "riau|hujan lebat dan petir": "214ac201d91d28f476a8c64ea74e13e0e5a31d57",
+    "sulawesi utara|hujan lebat dan petir": "2ff7158029d1ae513f3a837162ceaa77957bed52",
+    "sumatera barat|hujan lebat dan petir": "7aa5d28f64d90e67b21132ca1e15b5c111f6cbdf",
+    "sumatera utara|hujan lebat dan petir": "648cd5ade0164237d0260a7942fe028830920b9a"
   },
   "count": 8
 }
