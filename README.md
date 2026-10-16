@@ -2,8 +2,8 @@
 
 > Monitor real-time peringatan dini cuaca ekstrem dari **BMKG** (nowcast, 0–6 jam ke depan). Data diambil otomatis setiap 10 menit dari API publik BMKG, ditampilkan langsung di README ini, dan dikirim ke Discord webhook jika ada peringatan baru.
 
-🕒 **Update terakhir:** Sabtu, 17 Oktober 2026 pukul 00.53.11
-📊 **Peringatan aktif saat ini:** 7
+🕒 **Update terakhir:** Sabtu, 17 Oktober 2026 pukul 03.43.52
+📊 **Peringatan aktif saat ini:** 3
 📜 **Riwayat peringatan terakhir:** 20
 
 ---
@@ -12,13 +12,9 @@
 
 | Severity | Urgency | Headline & Wilayah | Durasi (WIB) |
 | --- | --- | --- | --- |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kep. Bangka Belitung**<br>📍 Kep. Bangka Belitung<br>Hujan lebat disertai petir akan terjadi pada 17 October 2026, 01:05 WIB di sebagian wilayah Kep. Bangka Belitung, khususnya di RIAU SILIP. Kondisi ini...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CBB/2026/10/17/infografis.jpg) | Sab, 17 Okt, 01.05 – Sab, 17 Okt, 03.05 |
 | 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Jambi**<br>📍 Jambi<br>Hujan lebat disertai petir akan terjadi pada 17 October 2026, 01:07 WIB di sebagian wilayah Jambi, khususnya di SADU. Kondisi ini berpotensi menimbulk...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CJI/2026/10/17/infografis.jpg) | Sab, 17 Okt, 01.07 – Sab, 17 Okt, 04.00 |
 | 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Aceh**<br>📍 Aceh<br>Hujan lebat disertai petir akan terjadi pada 17 October 2026, 00:05 WIB di sebagian wilayah Aceh, khususnya di PULAU BANYAK, PULAU BANYAK BARAT, SINGK...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CAH/2026/10/17/infografis.jpg) | Sab, 17 Okt, 00.05 – Sab, 17 Okt, 03.50 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kalimantan Tengah**<br>📍 Kalimantan Tengah<br>Hujan lebat disertai petir akan terjadi pada 17 October 2026, 00:07 WIB di sebagian wilayah Kalimantan Tengah, khususnya di DUSUN SELATAN. Kondisi ini...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CKG/2026/10/17/infografis.jpg) | Sab, 17 Okt, 00.07 – Sab, 17 Okt, 02.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Riau**<br>📍 Riau<br>Hujan lebat disertai petir akan terjadi pada 17 October 2026, 00:10 WIB di sebagian wilayah Riau, khususnya di BUKIT BATU, BUKIT BATU, BUKIT KAPUR, DU...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CRU/2026/10/17/infografis.jpg) | Sab, 17 Okt, 00.10 – Sab, 17 Okt, 03.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Papua Pegunungan**<br>📍 Papua Pegunungan<br>Hujan lebat disertai petir akan terjadi pada 17 October 2026, 01:40 WIT di sebagian wilayah Papua Pegunungan, khususnya di BATANI, BENAWA, HEREAPINI, ...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CPP/2026/10/17/infografis.jpg) | Jum, 16 Okt, 23.40 – Sab, 17 Okt, 02.30 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sulawesi Tengah**<br>📍 Sulawesi Tengah<br>Hujan lebat disertai petir akan terjadi pada 17 October 2026, 00:15 WITA di sebagian wilayah Sulawesi Tengah, khususnya di BANAWA, BANAWA SELATAN, BAN...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CSG/2026/10/17/infografis.jpg) | Jum, 16 Okt, 23.15 – Sab, 17 Okt, 03.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kalimantan Barat**<br>📍 Kalimantan Barat<br>Hujan lebat disertai petir akan terjadi pada 16 October 2026, 22:20 WIB di sebagian wilayah Kalimantan Barat, khususnya di BATU AMPAR, KUBU, PULAU MAY...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CKB/2026/10/16/infografis.jpg) | Jum, 16 Okt, 22.20 – Sab, 17 Okt, 01.20 |
 
 ---
 
@@ -26,6 +22,7 @@
 
 | Severity | Headline | Provinsi | Periode Berlaku | Terdeteksi |
 | --- | --- | --- | --- | --- |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Kep. Bangka Belitung | Kep. Bangka Belitung | Sab, 17 Okt, 01.05 – Sab, 17 Okt, 03.05 | Sab, 17 Okt, 03.43 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Barat | Kalimantan Barat | Jum, 16 Okt, 22.20 – Sab, 17 Okt, 01.20 | Jum, 16 Okt, 20.50 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Sulawesi Tengah | Sulawesi Tengah | Jum, 16 Okt, 23.15 – Sab, 17 Okt, 03.00 | Sab, 17 Okt, 00.53 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Riau | Riau | Sab, 17 Okt, 00.10 – Sab, 17 Okt, 03.00 | Sab, 17 Okt, 00.53 |
@@ -45,7 +42,6 @@
 | 🟡 Moderate | Hujan Lebat disertai Petir di Kep. Riau | Kep. Riau | Jum, 16 Okt, 14.30 – Jum, 16 Okt, 16.30 | Jum, 16 Okt, 15.53 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Sulawesi Utara | Sulawesi Utara | Jum, 16 Okt, 13.30 – Jum, 16 Okt, 15.30 | Jum, 16 Okt, 15.53 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Utara | Kalimantan Utara | Jum, 16 Okt, 13.57 – Jum, 16 Okt, 16.00 | Jum, 16 Okt, 15.53 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Riau | Riau | Jum, 16 Okt, 14.00 – Jum, 16 Okt, 16.00 | Jum, 16 Okt, 15.53 |
 
 ---
 
