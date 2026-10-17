@@ -1,11 +1,8 @@
 {
   "schemaVersion": 3,
   "active": {
-    "kalimantan barat|hujan lebat dan petir": "51cadee76089c1de03038556fc1567482e0f78bd",
-    "kalimantan utara|hujan lebat dan petir": "a0f180058665866baa95d27e4a38825b031dbdec",
-    "kep. riau|hujan lebat dan petir": "29f42ed2a8bb872f0fed96f9ff925b74c9107c9b",
-    "sumatera barat|hujan lebat dan petir": "f81bc7265add9c77b075d701b1ca053af107514b",
-    "sumatera utara|hujan lebat dan petir": "ccf65828d3b8bd07fc24050d2a051bd44166a2fb"
+    "kep. riau|hujan lebat dan petir": "b2b1262fee8c4c85cfc52cb76f71f8268bc3a6f0",
+    "riau|hujan lebat dan petir": "e439ed3bda5d792f9366bde9f123e47e16c3e683"
   },
-  "count": 5
+  "count": 2
 }
