@@ -1,21 +1,14 @@
 {
   "schemaVersion": 3,
   "active": {
-    "aceh|hujan lebat dan petir": "559dd562793fc2ba78719b8af73954c8ab298fd5",
-    "banten|hujan lebat dan petir": "02a651bcb87164efcb3b1339137c2058e45b4616",
-    "bengkulu|hujan lebat dan petir": "d2019c780640ae8e28c0d1d99e7b6a8d48b1f6be",
-    "jakarta|hujan lebat dan petir": "9a7416f0e60d68603dc1ac3f34be8c57835efce4",
-    "jambi|hujan lebat dan petir": "a5e55983d6c7c56d5fa35fb3782d5fc6f8abdb7e",
-    "kalimantan barat|hujan lebat dan petir": "6852515c2877fea002e1ba11c503e261a86bd0dd",
-    "kalimantan selatan|hujan lebat dan petir": "0b31753a1846c25bdbe701cd2b8ac8ebaee7a303",
-    "kalimantan tengah|hujan lebat dan petir": "1f1ccfb42f21de9c0ab6b0d14b4f0b10dd6bfcdc",
-    "kalimantan utara|hujan lebat dan petir": "5c73385e1b1b60c373ccf1f8c95f044175987079",
-    "papua|hujan lebat dan petir": "611dbde53a6dcbd3e63e8c05225b77fc84d373a0",
-    "riau|hujan lebat dan petir": "61838c840e832edc5bffa8138b290e350ec092f4",
-    "sulawesi tengah|hujan lebat dan petir": "396f96066d2037c4af767fa427af0f533271f555",
-    "sulawesi utara|hujan lebat dan petir": "e22482aa30254b262835eb675475ffdf363512b0",
-    "sumatera barat|hujan lebat dan petir": "96c248fb2166d33c31e23cd2b6326c245b8e38c7",
-    "sumatera utara|hujan lebat dan petir": "b5caf1fd8372b74f767c3879f9ced513309699ff"
+    "aceh|hujan lebat dan petir": "21c83bd40ebefcbb9ee75facd83c3d6e2aae2231",
+    "kalimantan barat|hujan lebat dan petir": "5199d5efe473c10fe2b38a4aaec8489e5fc2f7aa",
+    "kalimantan tengah|hujan lebat dan petir": "0d4373c04b81fd8e9f79b1f7212cb71b086f4d23",
+    "kalimantan timur|hujan lebat dan petir": "caed35df021060d2e0946ce5b2fa282b93cf3757",
+    "papua|hujan lebat dan petir": "3e31052701bc7a8138bda017c3ec2f9b40cd7403",
+    "riau|hujan lebat dan petir": "e5347e9e3fd7f549f68a4724cd2845c3f790c1d5",
+    "sumatera barat|hujan lebat dan petir": "8d762e440c90283ae7655a0ef5ef6e25bc831ecb",
+    "sumatera utara|hujan lebat dan petir": "9069dde0bbe359423174321ff81bd5c9039f8a06"
   },
-  "count": 15
+  "count": 8
 }
