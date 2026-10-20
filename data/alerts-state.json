@@ -1,9 +1,13 @@
 {
   "schemaVersion": 3,
   "active": {
-    "aceh|hujan lebat dan petir": "2a6b0b4b95b70ff74635d9f1f70eeb253734fb92",
-    "riau|hujan lebat dan petir": "14ebfe137aa72124f9a1beae3bb2767e6d78b51e",
-    "sumatera barat|hujan lebat dan petir": "8ba5129a23b25ba4d206152708987b2f7474d2e0"
+    "aceh|hujan lebat dan petir": "8106502e9e255c580116055f671d52cc614df02d",
+    "jambi|hujan lebat dan petir": "6e608bee7081fb723794fe3b9599680f12859235",
+    "kalimantan barat|hujan lebat dan petir": "ee7a868be5d0c96a18121730af24c44d8bf7ddee",
+    "kalimantan utara|hujan lebat dan petir": "a2f4c0dab4383920ae3f455fd56916f51eda13cf",
+    "riau|hujan lebat dan petir": "10ab011c3ab6c5d8e088faaa5ed6e72cd7e750a6",
+    "sumatera barat|hujan lebat dan petir": "5aa81e97c2ddd8fc2452ac982179aea54e3b8296",
+    "sumatera utara|hujan lebat dan petir": "ec3f863655dc0ce4225f6856e61526d7407af094"
   },
-  "count": 3
+  "count": 7
 }
