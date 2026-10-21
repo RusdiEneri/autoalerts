@@ -2,8 +2,8 @@
 
 > Monitor real-time peringatan dini cuaca ekstrem dari **BMKG** (nowcast, 0–6 jam ke depan). Data diambil otomatis setiap 10 menit dari API publik BMKG, ditampilkan langsung di README ini, dan dikirim ke Discord webhook jika ada peringatan baru.
 
-🕒 **Update terakhir:** Rabu, 21 Oktober 2026 pukul 23.04.41
-📊 **Peringatan aktif saat ini:** 7
+🕒 **Update terakhir:** Kamis, 22 Oktober 2026 pukul 03.06.51
+📊 **Peringatan aktif saat ini:** 3
 📜 **Riwayat peringatan terakhir:** 20
 
 ---
@@ -12,13 +12,9 @@
 
 | Severity | Urgency | Headline & Wilayah | Durasi (WIB) |
 | --- | --- | --- | --- |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kep. Riau**<br>📍 Kep. Riau<br>Hujan lebat disertai petir akan terjadi pada 21 October 2026, 22:58 WIB di sebagian wilayah Kep. Riau, khususnya di BINTAN PESISIR, BINTAN TIMUR, GUNU...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CKR/2026/10/21/infografis.jpg) | Rab, 21 Okt, 22.58 – Kam, 22 Okt, 01.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sulawesi Tengah**<br>📍 Sulawesi Tengah<br>Hujan lebat disertai petir akan terjadi pada 21 October 2026, 23:32 WITA di sebagian wilayah Sulawesi Tengah, khususnya di PARIGI SELATAN. Kondisi ini...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CSG/2026/10/21/infografis.jpg) | Rab, 21 Okt, 22.32 – Kam, 22 Okt, 01.30 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Riau**<br>📍 Riau<br>Hujan lebat disertai petir akan terjadi pada 21 October 2026, 22:25 WIB di sebagian wilayah Riau, khususnya di BANTAN, KEPENUHAN, KEPENUHAN HULU, KUAL...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CRU/2026/10/21/infografis.jpg) | Rab, 21 Okt, 22.25 – Kam, 22 Okt, 01.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kalimantan Tengah**<br>📍 Kalimantan Tengah<br>Hujan lebat disertai petir akan terjadi pada 21 October 2026, 22:10 WIB di sebagian wilayah Kalimantan Tengah, khususnya di PEMATANG KARAU. Kondisi in...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CKG/2026/10/21/infografis.jpg) | Rab, 21 Okt, 22.10 – Kam, 22 Okt, 00.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sumatera Utara**<br>📍 Sumatera Utara<br>Hujan lebat disertai petir akan terjadi pada 21 October 2026, 21:35 WIB di sebagian wilayah Sumatera Utara, khususnya di BAHOROK, BATANG LUBU SUTAM, D...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CSU/2026/10/21/infografis.jpg) | Rab, 21 Okt, 21.35 – Kam, 22 Okt, 00.35 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sumatera Barat**<br>📍 Sumatera Barat<br>Hujan lebat disertai petir akan terjadi pada 21 October 2026, 21:30 WIB di sebagian wilayah Sumatera Barat, khususnya di 2 X 11 ENAM LINGKUANG, 2 X 11...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CSB/2026/10/21/infografis.jpg) | Rab, 21 Okt, 21.30 – Rab, 21 Okt, 23.30 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Aceh**<br>📍 Aceh<br>Hujan lebat disertai petir akan terjadi pada 21 October 2026, 21:05 WIB di sebagian wilayah Aceh, khususnya di BANDA BARO, GANDAPURA, GEUMPANG, GEURED...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CAH/2026/10/21/infografis.jpg) | Rab, 21 Okt, 21.05 – Kam, 22 Okt, 01.05 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kalimantan Tengah**<br>📍 Kalimantan Tengah<br>Hujan lebat disertai petir akan terjadi pada 22 October 2026, 02:20 WIB di sebagian wilayah Kalimantan Tengah, khususnya di TEWEH SELATAN. Kondisi ini...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CKG/2026/10/22/infografis.jpg) | Kam, 22 Okt, 02.20 – Kam, 22 Okt, 04.30 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Papua Barat Daya**<br>📍 Papua Barat Daya<br>Hujan lebat disertai petir akan terjadi pada 22 October 2026, 03:40 WIT di sebagian wilayah Papua Barat Daya, khususnya di MAKBON. Kondisi ini berpote...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CPD/2026/10/22/infografis.jpg) | Kam, 22 Okt, 01.40 – Kam, 22 Okt, 04.40 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sumatera Utara**<br>📍 Sumatera Utara<br>Hujan lebat disertai petir akan terjadi pada 22 October 2026, 00:20 WIB di sebagian wilayah Sumatera Utara, khususnya di AEK NATAS, BATANG ONANG, BATA...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CSU/2026/10/22/infografis.jpg) | Kam, 22 Okt, 00.20 – Kam, 22 Okt, 03.20 |
 
 ---
 
@@ -26,9 +22,11 @@
 
 | Severity | Headline | Provinsi | Periode Berlaku | Terdeteksi |
 | --- | --- | --- | --- | --- |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Utara | Sumatera Utara | Kam, 22 Okt, 00.20 – Kam, 22 Okt, 03.20 | Rab, 21 Okt, 18.27 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Tengah | Kalimantan Tengah | Kam, 22 Okt, 02.20 – Kam, 22 Okt, 04.30 | Kam, 22 Okt, 03.06 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Papua Barat Daya | Papua Barat Daya | Kam, 22 Okt, 01.40 – Kam, 22 Okt, 04.40 | Kam, 22 Okt, 03.06 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Aceh | Aceh | Rab, 21 Okt, 21.05 – Kam, 22 Okt, 01.05 | Sel, 20 Okt, 17.19 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Barat | Sumatera Barat | Rab, 21 Okt, 21.30 – Rab, 21 Okt, 23.30 | Rab, 21 Okt, 18.27 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Utara | Sumatera Utara | Rab, 21 Okt, 21.35 – Kam, 22 Okt, 00.35 | Rab, 21 Okt, 18.27 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Tengah | Kalimantan Tengah | Rab, 21 Okt, 22.10 – Kam, 22 Okt, 00.00 | Rab, 21 Okt, 23.04 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Riau | Riau | Rab, 21 Okt, 22.25 – Kam, 22 Okt, 01.00 | Rab, 21 Okt, 23.04 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Sulawesi Tengah | Sulawesi Tengah | Rab, 21 Okt, 22.32 – Kam, 22 Okt, 01.30 | Rab, 21 Okt, 23.04 |
@@ -44,8 +42,6 @@
 | 🟡 Moderate | Hujan Lebat disertai Petir di Papua Barat Daya | Papua Barat Daya | Rab, 21 Okt, 18.10 – Rab, 21 Okt, 21.10 | Rab, 21 Okt, 18.27 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Utara | Kalimantan Utara | Rab, 21 Okt, 10.00 – Rab, 21 Okt, 12.30 | Rab, 21 Okt, 05.32 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Riau | Riau | Rab, 21 Okt, 11.15 – Rab, 21 Okt, 14.00 | Sel, 20 Okt, 22.13 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Kep. Riau | Kep. Riau | Rab, 21 Okt, 11.33 – Rab, 21 Okt, 13.40 | Rab, 21 Okt, 12.50 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Barat | Sumatera Barat | Rab, 21 Okt, 12.30 – Rab, 21 Okt, 14.30 | Rab, 21 Okt, 12.50 |
 
 ---
 
