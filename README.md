@@ -2,8 +2,8 @@
 
 > Monitor real-time peringatan dini cuaca ekstrem dari **BMKG** (nowcast, 0–6 jam ke depan). Data diambil otomatis setiap 10 menit dari API publik BMKG, ditampilkan langsung di README ini, dan dikirim ke Discord webhook jika ada peringatan baru.
 
-🕒 **Update terakhir:** Kamis, 22 Oktober 2026 pukul 06.17.08
-📊 **Peringatan aktif saat ini:** 6
+🕒 **Update terakhir:** Kamis, 22 Oktober 2026 pukul 08.37.49
+📊 **Peringatan aktif saat ini:** 2
 📜 **Riwayat peringatan terakhir:** 20
 
 ---
@@ -13,11 +13,7 @@
 | Severity | Urgency | Headline & Wilayah | Durasi (WIB) |
 | --- | --- | --- | --- |
 | 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sumatera Utara**<br>📍 Sumatera Utara<br>Hujan lebat disertai petir akan terjadi pada 22 October 2026, 06:35 WIB di sebagian wilayah Sumatera Utara, khususnya di AEK KUASAN, AEK LEDONG, AEK S...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CSU/2026/10/22/infografis.jpg) | Kam, 22 Okt, 06.35 – Kam, 22 Okt, 09.35 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sulawesi Tengah**<br>📍 Sulawesi Tengah<br>Hujan lebat disertai petir akan terjadi pada 22 October 2026, 07:09 WITA di sebagian wilayah Sulawesi Tengah, khususnya di AMPIBABO. Kondisi ini berpo...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CSG/2026/10/22/infografis.jpg) | Kam, 22 Okt, 06.09 – Kam, 22 Okt, 08.00 |
 | 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Aceh**<br>📍 Aceh<br>Hujan lebat disertai petir akan terjadi pada 22 October 2026, 06:00 WIB di sebagian wilayah Aceh, khususnya di BABUL MAKMUR, BABUL RAHMAH, BAMBEL, BAN...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CAH/2026/10/22/infografis.jpg) | Kam, 22 Okt, 06.00 – Kam, 22 Okt, 08.30 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sumatera Barat**<br>📍 Sumatera Barat<br>Hujan lebat disertai petir akan terjadi pada 22 October 2026, 05:00 WIB di sebagian wilayah Sumatera Barat, khususnya di KOTO BESAR, PANGKALAN KOTO BA...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CSB/2026/10/22/infografis.jpg) | Kam, 22 Okt, 05.00 – Kam, 22 Okt, 07.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kalimantan Utara**<br>📍 Kalimantan Utara<br>Hujan lebat disertai petir akan terjadi pada 22 October 2026, 05:25 WITA di sebagian wilayah Kalimantan Utara, khususnya di PESO HILIR, SEBUKU, SEMBAK...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CKU/2026/10/22/infografis.jpg) | Kam, 22 Okt, 04.25 – Kam, 22 Okt, 07.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Papua Barat Daya**<br>📍 Papua Barat Daya<br>Hujan lebat disertai petir akan terjadi pada 22 October 2026, 05:50 WIT di sebagian wilayah Papua Barat Daya, khususnya di BOTAIN, KAIS DARAT, KONDA, ...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CPD/2026/10/22/infografis.jpg) | Kam, 22 Okt, 03.50 – Kam, 22 Okt, 06.50 |
 
 ---
 
