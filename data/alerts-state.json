@@ -1,9 +1,8 @@
 {
   "schemaVersion": 3,
   "active": {
-    "aceh|hujan lebat dan petir": "c80be9c1fc679dea67867cdee8cd4d0a3e3e6877",
-    "riau|hujan lebat dan petir": "227368489088a9fad3b9a881d9fa1bb1880daa9c",
-    "sumatera utara|hujan lebat dan petir": "0d16357df6bf7ca1a94b6d73e33cc77e54c43b31"
+    "aceh|hujan lebat dan petir": "fe404a6f74e3767824223ffda54c61c416036f16",
+    "riau|hujan lebat dan petir": "259fdeb440be8403ea98bd188b443c0c70ddaf42"
   },
-  "count": 3
+  "count": 2
 }
