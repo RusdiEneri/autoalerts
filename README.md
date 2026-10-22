@@ -2,7 +2,7 @@
 
 > Monitor real-time peringatan dini cuaca ekstrem dari **BMKG** (nowcast, 0–6 jam ke depan). Data diambil otomatis setiap 10 menit dari API publik BMKG, ditampilkan langsung di README ini, dan dikirim ke Discord webhook jika ada peringatan baru.
 
-🕒 **Update terakhir:** Kamis, 22 Oktober 2026 pukul 08.37.49
+🕒 **Update terakhir:** Kamis, 22 Oktober 2026 pukul 13.35.09
 📊 **Peringatan aktif saat ini:** 2
 📜 **Riwayat peringatan terakhir:** 20
 
@@ -12,8 +12,8 @@
 
 | Severity | Urgency | Headline & Wilayah | Durasi (WIB) |
 | --- | --- | --- | --- |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sumatera Utara**<br>📍 Sumatera Utara<br>Hujan lebat disertai petir akan terjadi pada 22 October 2026, 06:35 WIB di sebagian wilayah Sumatera Utara, khususnya di AEK KUASAN, AEK LEDONG, AEK S...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CSU/2026/10/22/infografis.jpg) | Kam, 22 Okt, 06.35 – Kam, 22 Okt, 09.35 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Aceh**<br>📍 Aceh<br>Hujan lebat disertai petir akan terjadi pada 22 October 2026, 06:00 WIB di sebagian wilayah Aceh, khususnya di BABUL MAKMUR, BABUL RAHMAH, BAMBEL, BAN...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CAH/2026/10/22/infografis.jpg) | Kam, 22 Okt, 06.00 – Kam, 22 Okt, 08.30 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Jambi**<br>📍 Jambi<br>Hujan lebat disertai petir akan terjadi pada 22 October 2026, 12:42 WIB di sebagian wilayah Jambi, khususnya di BERBAK, DENDANG, KUMPEH, MUARA SABAK B...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CJI/2026/10/22/infografis.jpg) | Kam, 22 Okt, 12.42 – Kam, 22 Okt, 15.00 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Maluku Utara**<br>📍 Maluku Utara<br>Hujan lebat disertai petir akan terjadi pada 22 October 2026, 14:30 WIT di sebagian wilayah Maluku Utara, khususnya di MOROTAI TIMUR, WEDA UTARA. Kond...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CMU/2026/10/22/infografis.jpg) | Kam, 22 Okt, 12.30 – Kam, 22 Okt, 14.30 |
 
 ---
 
@@ -21,6 +21,8 @@
 
 | Severity | Headline | Provinsi | Periode Berlaku | Terdeteksi |
 | --- | --- | --- | --- | --- |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Maluku Utara | Maluku Utara | Kam, 22 Okt, 12.30 – Kam, 22 Okt, 14.30 | Kam, 22 Okt, 13.35 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Jambi | Jambi | Kam, 22 Okt, 12.42 – Kam, 22 Okt, 15.00 | Kam, 22 Okt, 13.35 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Papua Barat Daya | Papua Barat Daya | Kam, 22 Okt, 03.50 – Kam, 22 Okt, 06.50 | Kam, 22 Okt, 03.06 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Utara | Sumatera Utara | Kam, 22 Okt, 06.35 – Kam, 22 Okt, 09.35 | Kam, 22 Okt, 06.17 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Utara | Kalimantan Utara | Kam, 22 Okt, 04.25 – Kam, 22 Okt, 07.00 | Kam, 22 Okt, 06.17 |
@@ -39,8 +41,6 @@
 | 🟡 Moderate | Hujan Lebat disertai Petir di Riau | Riau | Rab, 21 Okt, 18.10 – Rab, 21 Okt, 20.00 | Rab, 21 Okt, 18.27 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Jawa Timur | Jawa Timur | Rab, 21 Okt, 16.00 – Rab, 21 Okt, 19.00 | Rab, 21 Okt, 18.27 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Jambi | Jambi | Rab, 21 Okt, 16.30 – Rab, 21 Okt, 18.30 | Rab, 21 Okt, 18.27 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Tengah | Kalimantan Tengah | Rab, 21 Okt, 16.40 – Rab, 21 Okt, 19.00 | Rab, 21 Okt, 18.27 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Selatan | Sumatera Selatan | Rab, 21 Okt, 17.20 – Rab, 21 Okt, 18.50 | Rab, 21 Okt, 18.27 |
 
 ---
 
