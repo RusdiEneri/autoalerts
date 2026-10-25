@@ -2,8 +2,8 @@
 
 > Monitor real-time peringatan dini cuaca ekstrem dari **BMKG** (nowcast, 0–6 jam ke depan). Data diambil otomatis setiap 10 menit dari API publik BMKG, ditampilkan langsung di README ini, dan dikirim ke Discord webhook jika ada peringatan baru.
 
-🕒 **Update terakhir:** Minggu, 25 Oktober 2026 pukul 08.28.20
-📊 **Peringatan aktif saat ini:** 6
+🕒 **Update terakhir:** Minggu, 25 Oktober 2026 pukul 13.43.22
+📊 **Peringatan aktif saat ini:** 18
 📜 **Riwayat peringatan terakhir:** 20
 
 ---
@@ -12,12 +12,24 @@
 
 | Severity | Urgency | Headline & Wilayah | Durasi (WIB) |
 | --- | --- | --- | --- |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kep. Riau**<br>📍 Kep. Riau<br>Hujan lebat disertai petir akan terjadi pada 25 October 2026, 08:03 WIB di sebagian wilayah Kep. Riau, khususnya di BURU, MANTANG, MORO, SENAYANG, SIN...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CKR/2026/10/25/infografis.jpg) | Min, 25 Okt, 08.03 – Min, 25 Okt, 10.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sumatera Barat**<br>📍 Sumatera Barat<br>Hujan lebat disertai petir akan terjadi pada 25 October 2026, 08:00 WIB di sebagian wilayah Sumatera Barat, khususnya di GUNUNGTULEH, KOTO BALINGKA, L...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CSB/2026/10/25/infografis.jpg) | Min, 25 Okt, 08.00 – Min, 25 Okt, 10.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sumatera Selatan**<br>📍 Sumatera Selatan<br>Hujan lebat disertai petir akan terjadi pada 25 October 2026, 08:15 WIB di sebagian wilayah Sumatera Selatan, khususnya di BANYUASIN II, BAYUNG LENCIR...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CSS/2026/10/25/infografis.jpg) | Min, 25 Okt, 08.15 – Min, 25 Okt, 10.15 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kep. Bangka Belitung**<br>📍 Kep. Bangka Belitung<br>Hujan lebat disertai petir akan terjadi pada 25 October 2026, 06:50 WIB di sebagian wilayah Kep. Bangka Belitung, khususnya di TOBOALI. Kondisi ini be...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CBB/2026/10/25/infografis.jpg) | Min, 25 Okt, 06.50 – Min, 25 Okt, 08.50 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Jambi**<br>📍 Jambi<br>Hujan lebat disertai petir akan terjadi pada 25 October 2026, 06:34 WIB di sebagian wilayah Jambi, khususnya di AIR HITAM, BAHAR SELATAN, BAJUBANG, BA...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CJI/2026/10/25/infografis.jpg) | Min, 25 Okt, 06.34 – Min, 25 Okt, 08.34 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Aceh**<br>📍 Aceh<br>Hujan lebat disertai petir akan terjadi pada 25 October 2026, 05:19 WIB di sebagian wilayah Aceh, khususnya di ARONGAN LAMBALEK, BAKONGAN, BAKONGAN TI...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CAH/2026/10/25/infografis.jpg) | Min, 25 Okt, 05.19 – Min, 25 Okt, 08.40 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Jawa Tengah**<br>📍 Jawa Tengah<br>Hujan lebat disertai petir akan terjadi pada 25 October 2026, 13:30 WIB di sebagian wilayah Jawa Tengah, khususnya di BANDAR, BANTARBOLANG, BATUR, BAW...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CJH/2026/10/25/infografis.jpg) | Min, 25 Okt, 13.30 – Min, 25 Okt, 15.00 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Jawa Timur**<br>📍 Jawa Timur<br>Hujan lebat disertai petir akan terjadi pada 25 October 2026, 13:30 WIB di sebagian wilayah Jawa Timur, khususnya di BLEGA, JABUNG, KONANG, OMBEN, PUJ...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CJT/2026/10/25/infografis.jpg) | Min, 25 Okt, 13.30 – Min, 25 Okt, 15.30 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kalimantan Tengah**<br>📍 Kalimantan Tengah<br>Hujan lebat disertai petir akan terjadi pada 25 October 2026, 13:25 WIB di sebagian wilayah Kalimantan Tengah, khususnya di SERUYAN HILIR. Kondisi ini...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CKG/2026/10/25/infografis.jpg) | Min, 25 Okt, 13.25 – Min, 25 Okt, 15.00 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sulawesi Tengah**<br>📍 Sulawesi Tengah<br>Hujan lebat disertai petir akan terjadi pada 25 October 2026, 14:30 WITA di sebagian wilayah Sulawesi Tengah, khususnya di BAOLAN, GALANG, MORI UTARA,...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CSG/2026/10/25/infografis.jpg) | Min, 25 Okt, 13.30 – Min, 25 Okt, 16.30 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Banten**<br>📍 Banten<br>Hujan lebat disertai petir akan terjadi pada 25 October 2026, 13:15 WIB di sebagian wilayah Banten, khususnya di CIPOCOK JAYA, CURUG, WALANTAKA. Kondi...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CBT/2026/10/25/infografis.jpg) | Min, 25 Okt, 13.15 – Min, 25 Okt, 15.00 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kep. Riau**<br>📍 Kep. Riau<br>Hujan lebat disertai petir akan terjadi pada 25 October 2026, 13:02 WIB di sebagian wilayah Kep. Riau, khususnya di BINTAN PESISIR, BINTAN UTARA, BUNG...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CKR/2026/10/25/infografis.jpg) | Min, 25 Okt, 13.02 – Min, 25 Okt, 15.00 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Lampung**<br>📍 Lampung<br>Hujan lebat disertai petir akan terjadi pada 25 October 2026, 13:30 WIB di sebagian wilayah Lampung, khususnya di BANDAR MATARAM, BANJIT, BATU KETULIS...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CLG/2026/10/25/infografis.jpg) | Min, 25 Okt, 13.30 – Min, 25 Okt, 16.00 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Papua Tengah**<br>📍 Papua Tengah<br>Hujan lebat disertai petir akan terjadi pada 25 October 2026, 15:10 WIT di sebagian wilayah Papua Tengah, khususnya di ALAMA, HOYA, KUALA KENCANA, TEM...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CPT/2026/10/25/infografis.jpg) | Min, 25 Okt, 13.10 – Min, 25 Okt, 15.30 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Gorontalo**<br>📍 Gorontalo<br>Hujan lebat disertai petir akan terjadi pada 25 October 2026, 13:55 WITA di sebagian wilayah Gorontalo, khususnya di BONGOMEME, DUNGALIYO, LIMBOTO, LI...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CGT/2026/10/25/infografis.jpg) | Min, 25 Okt, 12.55 – Min, 25 Okt, 14.55 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Jawa Barat**<br>📍 Jawa Barat<br>Hujan lebat disertai petir akan terjadi pada 25 October 2026, 13:04 WIB di sebagian wilayah Jawa Barat, khususnya di CIATER, CIHAMPELAS, CILILIN, CIME...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CJB/2026/10/25/infografis.jpg) | Min, 25 Okt, 13.04 – Min, 25 Okt, 14.54 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kep. Bangka Belitung**<br>📍 Kep. Bangka Belitung<br>Hujan lebat disertai petir akan terjadi pada 25 October 2026, 13:00 WIB di sebagian wilayah Kep. Bangka Belitung, khususnya di MERAWANG, PEMALI, SIMPA...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CBB/2026/10/25/infografis.jpg) | Min, 25 Okt, 13.00 – Min, 25 Okt, 15.00 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sumatera Barat**<br>📍 Sumatera Barat<br>Hujan lebat disertai petir akan terjadi pada 25 October 2026, 13:00 WIB di sebagian wilayah Sumatera Barat, khususnya di AMPEK NAGARI, GUNUNG TALANG, ...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CSB/2026/10/25/infografis.jpg) | Min, 25 Okt, 13.00 – Min, 25 Okt, 15.00 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Jakarta**<br>📍 Jakarta<br>Hujan lebat disertai petir akan terjadi pada 25 October 2026, 12:55 WIB di sebagian wilayah Jakarta, khususnya di JONGGOL, KELAPA DUA. Kondisi ini ber...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CJK/2026/10/25/infografis.jpg) | Min, 25 Okt, 12.55 – Min, 25 Okt, 14.25 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kalimantan Timur**<br>📍 Kalimantan Timur<br>Hujan lebat disertai petir akan terjadi pada 25 October 2026, 13:50 WITA di sebagian wilayah Kalimantan Timur, khususnya di BONGAN, KARANGAN, KAUBUN, ...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CKT/2026/10/25/infografis.jpg) | Min, 25 Okt, 12.50 – Min, 25 Okt, 14.30 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Riau**<br>📍 Riau<br>Hujan lebat disertai petir akan terjadi pada 25 October 2026, 12:20 WIB di sebagian wilayah Riau, khususnya di BAGAN SINEMBAH, BANGKO, BATANG CENAKU, ...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CRU/2026/10/25/infografis.jpg) | Min, 25 Okt, 12.20 – Min, 25 Okt, 15.00 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sumatera Utara**<br>📍 Sumatera Utara<br>Hujan lebat disertai petir akan terjadi pada 25 October 2026, 12:10 WIB di sebagian wilayah Sumatera Utara, khususnya di ADIAN KOTING, AFULU, ALASA, A...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CSU/2026/10/25/infografis.jpg) | Min, 25 Okt, 12.10 – Min, 25 Okt, 15.11 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kalimantan Utara**<br>📍 Kalimantan Utara<br>Hujan lebat disertai petir akan terjadi pada 25 October 2026, 12:40 WITA di sebagian wilayah Kalimantan Utara, khususnya di KAYAN HILIR, LUMBIS OGONG,...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CKU/2026/10/25/infografis.jpg) | Min, 25 Okt, 11.40 – Min, 25 Okt, 14.30 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Aceh**<br>📍 Aceh<br>Hujan lebat disertai petir akan terjadi pada 25 October 2026, 09:42 WIB di sebagian wilayah Aceh, khususnya di ALAPAN, BABUL RAHMAH, BAKONGAN, BAKONGA...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CAH/2026/10/25/infografis.jpg) | Min, 25 Okt, 09.42 – Min, 25 Okt, 13.03 |
 
 ---
 
@@ -25,26 +37,26 @@
 
 | Severity | Headline | Provinsi | Periode Berlaku | Terdeteksi |
 | --- | --- | --- | --- | --- |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Aceh | Aceh | Min, 25 Okt, 09.42 – Min, 25 Okt, 13.03 | Min, 25 Okt, 13.43 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Barat | Sumatera Barat | Min, 25 Okt, 13.00 – Min, 25 Okt, 15.00 | Min, 25 Okt, 13.43 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Kep. Bangka Belitung | Kep. Bangka Belitung | Min, 25 Okt, 13.00 – Min, 25 Okt, 15.00 | Min, 25 Okt, 13.43 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Kep. Riau | Kep. Riau | Min, 25 Okt, 13.02 – Min, 25 Okt, 15.00 | Min, 25 Okt, 13.43 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Utara | Kalimantan Utara | Min, 25 Okt, 11.40 – Min, 25 Okt, 14.30 | Min, 25 Okt, 13.43 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Utara | Sumatera Utara | Min, 25 Okt, 12.10 – Min, 25 Okt, 15.11 | Min, 25 Okt, 13.43 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Riau | Riau | Min, 25 Okt, 12.20 – Min, 25 Okt, 15.00 | Min, 25 Okt, 13.43 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Timur | Kalimantan Timur | Min, 25 Okt, 12.50 – Min, 25 Okt, 14.30 | Min, 25 Okt, 13.43 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Jakarta | Jakarta | Min, 25 Okt, 12.55 – Min, 25 Okt, 14.25 | Min, 25 Okt, 13.43 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Jawa Barat | Jawa Barat | Min, 25 Okt, 13.04 – Min, 25 Okt, 14.54 | Min, 25 Okt, 13.43 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Gorontalo | Gorontalo | Min, 25 Okt, 12.55 – Min, 25 Okt, 14.55 | Min, 25 Okt, 13.43 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Papua Tengah | Papua Tengah | Min, 25 Okt, 13.10 – Min, 25 Okt, 15.30 | Min, 25 Okt, 13.43 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Lampung | Lampung | Min, 25 Okt, 13.30 – Min, 25 Okt, 16.00 | Min, 25 Okt, 13.43 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Banten | Banten | Min, 25 Okt, 13.15 – Min, 25 Okt, 15.00 | Min, 25 Okt, 13.43 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Sulawesi Tengah | Sulawesi Tengah | Min, 25 Okt, 13.30 – Min, 25 Okt, 16.30 | Min, 25 Okt, 13.43 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Tengah | Kalimantan Tengah | Min, 25 Okt, 13.25 – Min, 25 Okt, 15.00 | Min, 25 Okt, 13.43 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Jawa Timur | Jawa Timur | Min, 25 Okt, 13.30 – Min, 25 Okt, 15.30 | Min, 25 Okt, 13.43 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Jawa Tengah | Jawa Tengah | Min, 25 Okt, 13.30 – Min, 25 Okt, 15.00 | Min, 25 Okt, 13.43 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Jambi | Jambi | Min, 25 Okt, 06.34 – Min, 25 Okt, 08.34 | Sab, 24 Okt, 19.01 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Kep. Bangka Belitung | Kep. Bangka Belitung | Min, 25 Okt, 06.50 – Min, 25 Okt, 08.50 | Min, 25 Okt, 06.22 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Selatan | Sumatera Selatan | Min, 25 Okt, 08.15 – Min, 25 Okt, 10.15 | Sab, 24 Okt, 19.01 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Barat | Sumatera Barat | Min, 25 Okt, 08.00 – Min, 25 Okt, 10.00 | Sab, 24 Okt, 22.52 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Kep. Riau | Kep. Riau | Min, 25 Okt, 08.03 – Min, 25 Okt, 10.00 | Min, 25 Okt, 01.39 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Lampung | Lampung | Min, 25 Okt, 06.00 – Min, 25 Okt, 08.00 | Sab, 24 Okt, 22.52 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Selatan | Kalimantan Selatan | Min, 25 Okt, 04.50 – Min, 25 Okt, 06.50 | Min, 25 Okt, 06.23 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Utara | Sumatera Utara | Min, 25 Okt, 04.55 – Min, 25 Okt, 07.55 | Min, 25 Okt, 06.23 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Aceh | Aceh | Min, 25 Okt, 05.19 – Min, 25 Okt, 08.40 | Min, 25 Okt, 06.22 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Timur | Kalimantan Timur | Min, 25 Okt, 05.20 – Min, 25 Okt, 06.30 | Min, 25 Okt, 06.22 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Sulawesi Tengah | Sulawesi Tengah | Min, 25 Okt, 03.12 – Min, 25 Okt, 05.00 | Min, 25 Okt, 04.12 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Utara | Sumatera Utara | Sab, 24 Okt, 23.40 – Min, 25 Okt, 02.40 | Sab, 24 Okt, 14.09 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Riau | Riau | Sab, 24 Okt, 23.55 – Min, 25 Okt, 01.30 | Sab, 24 Okt, 19.01 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Sulawesi Barat | Sulawesi Barat | Min, 25 Okt, 00.30 – Min, 25 Okt, 01.30 | Sab, 24 Okt, 22.52 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Tengah | Kalimantan Tengah | Sab, 24 Okt, 20.10 – Sab, 24 Okt, 22.15 | Sab, 24 Okt, 19.01 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Aceh | Aceh | Sab, 24 Okt, 21.58 – Min, 25 Okt, 02.19 | Sab, 24 Okt, 19.01 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Timur | Kalimantan Timur | Sab, 24 Okt, 20.55 – Sab, 24 Okt, 22.50 | Sab, 24 Okt, 22.52 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Sulawesi Tengah | Sulawesi Tengah | Sab, 24 Okt, 21.06 – Sab, 24 Okt, 23.00 | Sab, 24 Okt, 22.52 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Jakarta | Jakarta | Sab, 24 Okt, 21.23 – Min, 25 Okt, 00.44 | Sab, 24 Okt, 22.52 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Jawa Barat | Jawa Barat | Sab, 24 Okt, 21.31 – Sab, 24 Okt, 23.30 | Sab, 24 Okt, 22.52 |
 
 ---
 
