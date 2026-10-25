@@ -1,14 +1,12 @@
 {
   "schemaVersion": 3,
   "active": {
-    "jawa barat|hujan lebat dan petir": "38e5cf7def34f01eeca2c6970e6b32bc52277444",
-    "kalimantan barat|hujan lebat dan petir": "f96ec4ea1d0af73b4301d5db893f10de6301159d",
-    "kalimantan tengah|hujan lebat dan petir": "4bbb48270f69185223bee1f7e110b769e0708ff8",
-    "kep. riau|hujan lebat dan petir": "090aa760d3cfc50252a94fe7172068861365a157",
-    "papua|hujan lebat dan petir": "b92fbbfb1fa9c8dc4270cc82933d21cd2e18b12f",
-    "sulawesi selatan|hujan lebat dan petir": "c709da9b4f1c3df0468aa7783f104629091aa6a2",
-    "sumatera barat|hujan lebat dan petir": "8efd5768cd04be4c55d0a1871cd700ad07f254ad",
-    "sumatera selatan|hujan lebat dan petir": "2cc9b19052304efb71d1f2278f1cfdce38fb45f0"
+    "jawa barat|hujan lebat dan petir": "8d306d023f18e15d4eff60b6c52978e06612b0e1",
+    "kalimantan tengah|hujan lebat dan petir": "ec266bd41aa9b9b486c9ff213b7ee51d4d2fcd9c",
+    "kep. bangka belitung|hujan lebat dan petir": "40e1f8ba93a7464e6b9b4efa201bf03464f94c85",
+    "kep. riau|hujan lebat dan petir": "5ecce03cd1e67e06b6975533e1f890fb506ef0a3",
+    "papua|hujan lebat dan petir": "90989e1314c6cda754642fd50d656d639a09d274",
+    "sumatera selatan|hujan lebat dan petir": "c527dc75cfed6faf187a0b0395290f605ce18baa"
   },
-  "count": 8
+  "count": 6
 }
