@@ -1,19 +1,16 @@
 {
   "schemaVersion": 3,
   "active": {
-    "banten|hujan lebat dan petir": "4d28455ea4a35316fddbb9b4748fb48749865197",
-    "bengkulu|hujan lebat dan petir": "11790b2b9624dd7cfc2339329a72c44ede9ec3f7",
-    "jambi|hujan lebat dan petir": "42c6da83fcaf230d1cf98a3d340b460074250cfb",
-    "jawa barat|hujan lebat dan petir": "538d5690f2132ec2a5feb9dd3bec81754f515740",
-    "jawa tengah|hujan lebat dan petir": "fecbbc6a2e3180694b87eec2d08e484b721de119",
-    "jawa timur|hujan lebat dan petir": "37fbbdfd9384f3e3bca6e32b5acac1a1ae6db4d9",
-    "kep. bangka belitung|hujan lebat dan petir": "04f6c76006aaa9660abfde2b52ca1b3ed1c0e301",
-    "kep. riau|hujan lebat dan petir": "4b25d7eff4fedfa2d6daa17690c1753b095d7a5b",
-    "lampung|hujan lebat dan petir": "f9b8130c0cb390f77bbd4674183a14e52d98b08b",
-    "maluku utara|hujan lebat dan petir": "38f2edd6fbf7e1dfec47c4854bc8356cdbc4bf59",
-    "papua barat daya|hujan lebat dan petir": "08b0a6b41ecd93efdaa320d6c2c09db26e73290d",
-    "riau|hujan lebat dan petir": "ab9b73662eeb7cef8b8fa2ae14fd4f31dada0497",
-    "sumatera utara|hujan lebat dan petir": "783e168eda5520f9c2104f6c68b49479a0720fd0"
+    "bengkulu|hujan lebat dan petir": "70d02bdb79dff35f2c00f3faed576d087382202a",
+    "jambi|hujan lebat dan petir": "02c4e8038dd5ff9e3dca393fc0e44be4ec8380f3",
+    "jawa barat|hujan lebat dan petir": "4019246c1b60b4a5683543843cc1d7a0abe7273f",
+    "jawa tengah|hujan lebat dan petir": "e3c01b1368d7f374ef74fe0e272d82d4c9845669",
+    "kalimantan tengah|hujan lebat dan petir": "f041057d427a8ddb9dcdfb196c023b093bacc8a8",
+    "kep. bangka belitung|hujan lebat dan petir": "f63fb45a1c8873145ab168a711780ee5349762e3",
+    "lampung|hujan lebat dan petir": "4cfcabca8069dc154d13ad791bfff05e83505b13",
+    "riau|hujan lebat dan petir": "6686aec5f116082011a192458a1daafe4c95417b",
+    "sumatera barat|hujan lebat dan petir": "591e501d5b32ee07ade90f8011740fe4ce652dc7",
+    "sumatera utara|hujan lebat dan petir": "a5ad83407d547db7b0b5addb9e0f0d20498719d7"
   },
-  "count": 13
+  "count": 10
 }
