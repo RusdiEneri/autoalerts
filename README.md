@@ -2,8 +2,8 @@
 
 > Monitor real-time peringatan dini cuaca ekstrem dari **BMKG** (nowcast, 0–6 jam ke depan). Data diambil otomatis setiap 10 menit dari API publik BMKG, ditampilkan langsung di README ini, dan dikirim ke Discord webhook jika ada peringatan baru.
 
-🕒 **Update terakhir:** Jumat, 30 Oktober 2026 pukul 06.18.17
-📊 **Peringatan aktif saat ini:** 9
+🕒 **Update terakhir:** Jumat, 30 Oktober 2026 pukul 09.42.38
+📊 **Peringatan aktif saat ini:** 4
 📜 **Riwayat peringatan terakhir:** 20
 
 ---
@@ -12,15 +12,10 @@
 
 | Severity | Urgency | Headline & Wilayah | Durasi (WIB) |
 | --- | --- | --- | --- |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kalimantan Timur**<br>📍 Kalimantan Timur<br>Hujan lebat disertai petir akan terjadi pada 30 October 2026, 07:25 WITA di sebagian wilayah Kalimantan Timur, khususnya di ANGGANA. Kondisi ini berpo...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CKT/2026/10/30/infografis.jpg) | Jum, 30 Okt, 06.25 – Jum, 30 Okt, 07.30 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Jawa Barat**<br>📍 Jawa Barat<br>Hujan lebat disertai petir akan terjadi pada 30 October 2026, 06:10 WIB di sebagian wilayah Jawa Barat, khususnya di BANJAR, BANJARSARI, BANJARWANGI, ...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CJB/2026/10/30/infografis.jpg) | Jum, 30 Okt, 06.10 – Jum, 30 Okt, 08.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Jawa Tengah**<br>📍 Jawa Tengah<br>Hujan lebat disertai petir akan terjadi pada 30 October 2026, 06:10 WIB di sebagian wilayah Jawa Tengah, khususnya di BANTARSARI, CILACAP TENGAH, CILA...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CJH/2026/10/30/infografis.jpg) | Jum, 30 Okt, 06.10 – Jum, 30 Okt, 08.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Papua Pegunungan**<br>📍 Papua Pegunungan<br>Hujan lebat disertai petir akan terjadi pada 30 October 2026, 08:05 WIT di sebagian wilayah Papua Pegunungan, khususnya di AWINBON, BOMELA, DEKAI, DUR...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CPP/2026/10/30/infografis.jpg) | Jum, 30 Okt, 06.05 – Jum, 30 Okt, 07.30 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di DI Yogyakarta**<br>📍 DI Yogyakarta<br>Hujan lebat disertai petir akan terjadi pada 30 October 2026, 06:09 WIB di sebagian wilayah DI Yogyakarta, khususnya di GALUR, IMOGIRI, KRETEK, PANGGA...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CYG/2026/10/30/infografis.jpg) | Jum, 30 Okt, 06.09 – Jum, 30 Okt, 08.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Bali**<br>📍 Bali<br>Hujan lebat disertai petir akan terjadi pada 30 October 2026, 07:00 WITA di sebagian wilayah Bali, khususnya di NUSA PENIDA. Kondisi ini berpotensi me...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CBL/2026/10/30/infografis.jpg) | Jum, 30 Okt, 06.00 – Jum, 30 Okt, 08.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sulawesi Tengah**<br>📍 Sulawesi Tengah<br>Hujan lebat disertai petir akan terjadi pada 30 October 2026, 06:40 WITA di sebagian wilayah Sulawesi Tengah, khususnya di BALINGGI. Kondisi ini berpo...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CSG/2026/10/30/infografis.jpg) | Jum, 30 Okt, 05.40 – Jum, 30 Okt, 08.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sumatera Barat**<br>📍 Sumatera Barat<br>Hujan lebat disertai petir akan terjadi pada 30 October 2026, 05:00 WIB di sebagian wilayah Sumatera Barat, khususnya di PAGAI SELATAN, PAGAI UTARA, S...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CSB/2026/10/30/infografis.jpg) | Jum, 30 Okt, 05.00 – Jum, 30 Okt, 07.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Jawa Timur**<br>📍 Jawa Timur<br>Hujan lebat disertai petir akan terjadi pada 30 October 2026, 04:20 WIB di sebagian wilayah Jawa Timur, khususnya di MUNJUNGAN. Kondisi ini berpotensi...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CJT/2026/10/30/infografis.jpg) | Jum, 30 Okt, 04.20 – Jum, 30 Okt, 07.20 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Jawa Barat**<br>📍 Jawa Barat<br>Hujan lebat disertai petir akan terjadi pada 30 October 2026, 09:30 WIB di sebagian wilayah Jawa Barat, khususnya di BANJARSARI, BOJONGGAMBIR, CIGUGUR...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CJB/2026/10/30/infografis.jpg) | Jum, 30 Okt, 09.30 – Jum, 30 Okt, 11.30 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Maluku Utara**<br>📍 Maluku Utara<br>Hujan lebat disertai petir akan terjadi pada 30 October 2026, 10:20 WIT di sebagian wilayah Maluku Utara, khususnya di OBI TIMUR, PULAU TERNATE. Kondi...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CMU/2026/10/30/infografis.jpg) | Jum, 30 Okt, 08.20 – Jum, 30 Okt, 09.20 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Jawa Tengah**<br>📍 Jawa Tengah<br>Hujan lebat disertai petir akan terjadi pada 30 October 2026, 07:30 WIB di sebagian wilayah Jawa Tengah, khususnya di AMBAL, BANTARSARI, BANYUMAS, BIN...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CJH/2026/10/30/infografis.jpg) | Jum, 30 Okt, 07.30 – Jum, 30 Okt, 09.30 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Jawa Timur**<br>📍 Jawa Timur<br>Hujan lebat disertai petir akan terjadi pada 30 October 2026, 07:00 WIB di sebagian wilayah Jawa Timur, khususnya di BESUKI, DONGKO, GANDING, MUNJUNGA...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CJT/2026/10/30/infografis.jpg) | Jum, 30 Okt, 07.00 – Jum, 30 Okt, 09.30 |
 
 ---
 
@@ -28,14 +23,15 @@
 
 | Severity | Headline | Provinsi | Periode Berlaku | Terdeteksi |
 | --- | --- | --- | --- | --- |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Jawa Timur | Jawa Timur | Jum, 30 Okt, 04.20 – Jum, 30 Okt, 07.20 | Jum, 30 Okt, 02.08 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Jawa Timur | Jawa Timur | Jum, 30 Okt, 07.00 – Jum, 30 Okt, 09.30 | Jum, 30 Okt, 02.08 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Jawa Tengah | Jawa Tengah | Jum, 30 Okt, 07.30 – Jum, 30 Okt, 09.30 | Jum, 30 Okt, 06.18 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Jawa Barat | Jawa Barat | Jum, 30 Okt, 09.30 – Jum, 30 Okt, 11.30 | Jum, 30 Okt, 06.18 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Maluku Utara | Maluku Utara | Jum, 30 Okt, 08.20 – Jum, 30 Okt, 09.20 | Jum, 30 Okt, 09.42 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Barat | Sumatera Barat | Jum, 30 Okt, 05.00 – Jum, 30 Okt, 07.00 | Jum, 30 Okt, 02.08 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di DI Yogyakarta | DI Yogyakarta | Jum, 30 Okt, 06.09 – Jum, 30 Okt, 08.00 | Jum, 30 Okt, 06.18 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Jawa Barat | Jawa Barat | Jum, 30 Okt, 06.10 – Jum, 30 Okt, 08.00 | Jum, 30 Okt, 06.18 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Sulawesi Tengah | Sulawesi Tengah | Jum, 30 Okt, 05.40 – Jum, 30 Okt, 08.00 | Jum, 30 Okt, 06.18 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Bali | Bali | Jum, 30 Okt, 06.00 – Jum, 30 Okt, 08.00 | Jum, 30 Okt, 06.18 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Papua Pegunungan | Papua Pegunungan | Jum, 30 Okt, 06.05 – Jum, 30 Okt, 07.30 | Jum, 30 Okt, 06.18 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Jawa Tengah | Jawa Tengah | Jum, 30 Okt, 06.10 – Jum, 30 Okt, 08.00 | Jum, 30 Okt, 06.18 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Timur | Kalimantan Timur | Jum, 30 Okt, 06.25 – Jum, 30 Okt, 07.30 | Jum, 30 Okt, 06.18 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Bengkulu | Bengkulu | Kam, 29 Okt, 22.13 – Jum, 30 Okt, 03.00 | Kam, 29 Okt, 20.25 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Jawa Barat | Jawa Barat | Kam, 29 Okt, 23.55 – Jum, 30 Okt, 03.00 | Kam, 29 Okt, 20.25 |
@@ -47,7 +43,6 @@
 | 🟡 Moderate | Hujan Lebat disertai Petir di Jakarta | Jakarta | Jum, 30 Okt, 01.27 – Jum, 30 Okt, 03.30 | Jum, 30 Okt, 02.08 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Utara | Sumatera Utara | Kam, 29 Okt, 18.10 – Kam, 29 Okt, 21.10 | Kam, 29 Okt, 20.25 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Kep. Bangka Belitung | Kep. Bangka Belitung | Kam, 29 Okt, 19.50 – Kam, 29 Okt, 21.50 | Kam, 29 Okt, 20.25 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Jawa Tengah | Jawa Tengah | Kam, 29 Okt, 19.50 – Kam, 29 Okt, 21.50 | Kam, 29 Okt, 20.25 |
 
 ---
 
