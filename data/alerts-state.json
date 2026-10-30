@@ -1,23 +1,12 @@
 {
   "schemaVersion": 3,
   "active": {
-    "aceh|hujan lebat dan petir": "8b75372c3f9c96ccf1ac7961e95bc93cdcb82512",
-    "bali|hujan lebat dan petir": "8e107fcd1a7c345309a1dc096d53cc899b7932ce",
-    "jakarta|hujan lebat dan petir": "51a95e4c157c82d959a79bae87d492ba9a068c0f",
-    "jawa barat|hujan lebat dan petir": "a8f93ba946b764c033cf70d2969b0f6c7b2f8fb6",
-    "jawa tengah|hujan lebat dan petir": "568e6d8332111661532255b40478ce2de790c905",
-    "jawa timur|hujan lebat dan petir": "7f8dd83fad71eda2196b33952ada8d20249f9024",
-    "kalimantan barat|hujan lebat dan petir": "869c5e990a7ac6bfa93cda37417e801730579c9e",
-    "kalimantan tengah|hujan lebat dan petir": "88be9c49bf6a9f311a49d1fd7837c7dfe79c52c9",
-    "kalimantan timur|hujan lebat dan petir": "ba222b1b1bec7689370249c8ac412876cb28c77f",
-    "lampung|hujan lebat dan petir": "95975359dd43d075c34ef0dcb8a0665a71fe6e5a",
-    "nusa tenggara barat|hujan lebat dan petir": "8dce6ad71621a868309c3bc8918dc28b8e25f55e",
-    "nusa tenggara timur|hujan lebat dan petir": "36d1b33682a461e276100763da280f56177c1ae0",
-    "papua tengah|hujan lebat dan petir": "d31d175d8c5f7040eec7f1c2722b2693ce7ab593",
-    "sulawesi selatan|hujan lebat dan petir": "845116f8a09977d884ec5c0f761a660e4d9b49ab",
-    "sulawesi utara|hujan lebat dan petir": "f171730eff70791118f34d5e1d00f7c7025c7fcb",
-    "sumatera barat|hujan lebat dan petir": "37c963b4bd1156dc1f9a4b46520348498cf145ba",
-    "sumatera utara|hujan lebat dan petir": "da5c92d4e613869254e794f92f4b9c3481e1d25e"
+    "jawa barat|hujan lebat dan petir": "cbab5a9536e2e709b3365d79f2ea47ccf03fae83",
+    "jawa tengah|hujan lebat dan petir": "afe8dc5e05914c3138f9093be24c9ad9ecf25bba",
+    "kalimantan tengah|hujan lebat dan petir": "7dd5c5c4e48f8c394e0cb68fabfa1584c88b0c5a",
+    "lampung|hujan lebat dan petir": "142fefead655c63f79d7554af8d0adabda924f7e",
+    "riau|hujan lebat dan petir": "484ff1d206be93fbc04a9c6e5d90149c50a64a35",
+    "sumatera barat|hujan lebat dan petir": "f58eef875373318733e9e9376f1c41755cb2dc26"
   },
-  "count": 17
+  "count": 6
 }
