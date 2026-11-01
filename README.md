@@ -2,7 +2,7 @@
 
 > Monitor real-time peringatan dini cuaca ekstrem dari **BMKG** (nowcast, 0–6 jam ke depan). Data diambil otomatis setiap 10 menit dari API publik BMKG, ditampilkan langsung di README ini, dan dikirim ke Discord webhook jika ada peringatan baru.
 
-🕒 **Update terakhir:** Senin, 02 November 2026 pukul 03.43.39
+🕒 **Update terakhir:** Senin, 02 November 2026 pukul 06.57.46
 📊 **Peringatan aktif saat ini:** 8
 📜 **Riwayat peringatan terakhir:** 20
 
@@ -12,14 +12,14 @@
 
 | Severity | Urgency | Headline & Wilayah | Durasi (WIB) |
 | --- | --- | --- | --- |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kalimantan Utara**<br>📍 Kalimantan Utara<br>Hujan lebat disertai petir akan terjadi pada 02 November 2026, 03:10 WITA di sebagian wilayah Kalimantan Utara, khususnya di LUMBIS, PESO, SUNGAI TUBU...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CKU/2026/11/02/infografis.jpg) | Sen, 2 Nov, 02.10 – Sen, 2 Nov, 04.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Nusa Tenggara Barat**<br>📍 Nusa Tenggara Barat<br>Hujan lebat disertai petir akan terjadi pada 02 November 2026, 03:00 WITA di sebagian wilayah Nusa Tenggara Barat, khususnya di PUJUT, SEKOTONG. Kondi...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CNB/2026/11/02/infografis.jpg) | Sen, 2 Nov, 02.00 – Sen, 2 Nov, 05.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Bengkulu**<br>📍 Bengkulu<br>Hujan lebat disertai petir akan terjadi pada 02 November 2026, 01:00 WIB di sebagian wilayah Bengkulu, khususnya di PINO RAYA, PULAU ENGGANO. Kondisi ...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CBK/2026/11/02/infografis.jpg) | Sen, 2 Nov, 01.00 – Sen, 2 Nov, 04.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Bali**<br>📍 Bali<br>Hujan lebat disertai petir akan terjadi pada 02 November 2026, 02:00 WITA di sebagian wilayah Bali, khususnya di BEBANDEM, KINTAMANI, KUBU, MENDOYO, P...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CBL/2026/11/02/infografis.jpg) | Sen, 2 Nov, 01.00 – Sen, 2 Nov, 04.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sulawesi Tengah**<br>📍 Sulawesi Tengah<br>Hujan lebat disertai petir akan terjadi pada 02 November 2026, 01:45 WITA di sebagian wilayah Sulawesi Tengah, khususnya di BALAESANG, DAMPELAS, KASIM...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CSG/2026/11/02/infografis.jpg) | Sen, 2 Nov, 00.45 – Sen, 2 Nov, 04.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Jawa Timur**<br>📍 Jawa Timur<br>Hujan lebat disertai petir akan terjadi pada 02 November 2026, 01:00 WIB di sebagian wilayah Jawa Timur, khususnya di AMPELGADING, CANDIPURO, DAMPIT, ...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CJT/2026/11/02/infografis.jpg) | Sen, 2 Nov, 01.00 – Sen, 2 Nov, 04.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kalimantan Tengah**<br>📍 Kalimantan Tengah<br>Hujan lebat disertai petir akan terjadi pada 02 November 2026, 00:25 WIB di sebagian wilayah Kalimantan Tengah, khususnya di DELANG. Kondisi ini berpo...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CKG/2026/11/02/infografis.jpg) | Sen, 2 Nov, 00.25 – Sen, 2 Nov, 03.30 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Aceh**<br>📍 Aceh<br>Hujan lebat disertai petir akan terjadi pada 02 November 2026, 00:21 WIB di sebagian wilayah Aceh, khususnya di BAKONGAN, BAKONGAN TIMUR, DANAU PARIS,...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CAH/2026/11/02/infografis.jpg) | Sen, 2 Nov, 00.21 – Sen, 2 Nov, 03.42 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kalimantan Barat**<br>📍 Kalimantan Barat<br>Hujan lebat disertai petir akan terjadi pada 02 November 2026, 06:30 WIB di sebagian wilayah Kalimantan Barat, khususnya di KUBU, MELIAU, PARINDU, SAN...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CKB/2026/11/02/infografis.jpg) | Sen, 2 Nov, 06.30 – Sen, 2 Nov, 08.30 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sumatera Selatan**<br>📍 Sumatera Selatan<br>Hujan lebat disertai petir akan terjadi pada 02 November 2026, 06:45 WIB di sebagian wilayah Sumatera Selatan, khususnya di SUNGAI MENANG. Kondisi ini...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CSS/2026/11/02/infografis.jpg) | Sen, 2 Nov, 06.45 – Sen, 2 Nov, 08.30 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Jawa Timur**<br>📍 Jawa Timur<br>Hujan lebat disertai petir akan terjadi pada 02 November 2026, 06:30 WIB di sebagian wilayah Jawa Timur, khususnya di BEJI, DONGKO, GEMPOL, KEDUNGKAND...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CJT/2026/11/02/infografis.jpg) | Sen, 2 Nov, 06.30 – Sen, 2 Nov, 09.30 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Lampung**<br>📍 Lampung<br>Hujan lebat disertai petir akan terjadi pada 02 November 2026, 06:00 WIB di sebagian wilayah Lampung, khususnya di BANDAR MATARAM, BANJAR MARGO, BENGK...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CLG/2026/11/02/infografis.jpg) | Sen, 2 Nov, 06.00 – Sen, 2 Nov, 08.30 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kalimantan Timur**<br>📍 Kalimantan Timur<br>Hujan lebat disertai petir akan terjadi pada 02 November 2026, 07:00 WITA di sebagian wilayah Kalimantan Timur, khususnya di BONTANG SELATAN, MARANG K...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CKT/2026/11/02/infografis.jpg) | Sen, 2 Nov, 06.00 – Sen, 2 Nov, 07.30 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kalimantan Utara**<br>📍 Kalimantan Utara<br>Hujan lebat disertai petir akan terjadi pada 02 November 2026, 05:40 WITA di sebagian wilayah Kalimantan Utara, khususnya di BUNYU, PESO, SESAYAP HILI...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CKU/2026/11/02/infografis.jpg) | Sen, 2 Nov, 04.40 – Sen, 2 Nov, 07.00 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kalimantan Selatan**<br>📍 Kalimantan Selatan<br>Hujan lebat disertai petir akan terjadi pada 02 November 2026, 05:30 WITA di sebagian wilayah Kalimantan Selatan, khususnya di ARANIO, KINTAP, SATUI. ...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CKS/2026/11/02/infografis.jpg) | Sen, 2 Nov, 04.30 – Sen, 2 Nov, 07.00 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Aceh**<br>📍 Aceh<br>Hujan lebat disertai petir akan terjadi pada 02 November 2026, 03:58 WIB di sebagian wilayah Aceh, khususnya di BANDAR BARU, BATEE, DELIMA, GEULUMPANG...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CAH/2026/11/02/infografis.jpg) | Sen, 2 Nov, 03.58 – Sen, 2 Nov, 07.19 |
 
 ---
 
@@ -27,13 +27,19 @@
 
 | Severity | Headline | Provinsi | Periode Berlaku | Terdeteksi |
 | --- | --- | --- | --- | --- |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Aceh | Aceh | Sen, 2 Nov, 00.21 – Sen, 2 Nov, 03.42 | Min, 1 Nov, 23.24 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Aceh | Aceh | Sen, 2 Nov, 03.58 – Sen, 2 Nov, 07.19 | Min, 1 Nov, 23.24 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Utara | Kalimantan Utara | Sen, 2 Nov, 04.40 – Sen, 2 Nov, 07.00 | Min, 1 Nov, 23.24 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Jawa Timur | Jawa Timur | Sen, 2 Nov, 06.30 – Sen, 2 Nov, 09.30 | Sen, 2 Nov, 06.57 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Selatan | Kalimantan Selatan | Sen, 2 Nov, 04.30 – Sen, 2 Nov, 07.00 | Sen, 2 Nov, 06.57 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Timur | Kalimantan Timur | Sen, 2 Nov, 06.00 – Sen, 2 Nov, 07.30 | Sen, 2 Nov, 06.57 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Lampung | Lampung | Sen, 2 Nov, 06.00 – Sen, 2 Nov, 08.30 | Sen, 2 Nov, 06.57 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Selatan | Sumatera Selatan | Sen, 2 Nov, 06.45 – Sen, 2 Nov, 08.30 | Sen, 2 Nov, 06.57 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Barat | Kalimantan Barat | Sen, 2 Nov, 06.30 – Sen, 2 Nov, 08.30 | Sen, 2 Nov, 06.57 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Tengah | Kalimantan Tengah | Sen, 2 Nov, 00.25 – Sen, 2 Nov, 03.30 | Min, 1 Nov, 23.24 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Jawa Timur | Jawa Timur | Sen, 2 Nov, 01.00 – Sen, 2 Nov, 04.00 | Min, 1 Nov, 23.24 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Bali | Bali | Sen, 2 Nov, 01.00 – Sen, 2 Nov, 04.00 | Min, 1 Nov, 23.24 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Bengkulu | Bengkulu | Sen, 2 Nov, 01.00 – Sen, 2 Nov, 04.00 | Min, 1 Nov, 23.24 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Nusa Tenggara Barat | Nusa Tenggara Barat | Sen, 2 Nov, 02.00 – Sen, 2 Nov, 05.00 | Min, 1 Nov, 23.24 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Utara | Kalimantan Utara | Sen, 2 Nov, 02.10 – Sen, 2 Nov, 04.00 | Min, 1 Nov, 23.24 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Sulawesi Tengah | Sulawesi Tengah | Sen, 2 Nov, 00.45 – Sen, 2 Nov, 04.00 | Sen, 2 Nov, 03.43 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Banten | Banten | Min, 1 Nov, 20.55 – Min, 1 Nov, 23.30 | Min, 1 Nov, 23.24 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Barat | Sumatera Barat | Min, 1 Nov, 21.50 – Min, 1 Nov, 23.50 | Min, 1 Nov, 23.24 |
@@ -41,12 +47,6 @@
 | 🟡 Moderate | Hujan Lebat disertai Petir di Jawa Tengah | Jawa Tengah | Min, 1 Nov, 21.55 – Sen, 2 Nov, 01.00 | Min, 1 Nov, 23.24 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Selatan | Kalimantan Selatan | Min, 1 Nov, 22.55 – Sen, 2 Nov, 02.00 | Min, 1 Nov, 23.24 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Riau | Riau | Min, 1 Nov, 23.00 – Sen, 2 Nov, 02.00 | Min, 1 Nov, 23.24 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Papua Barat Daya | Papua Barat Daya | Min, 1 Nov, 22.10 – Sen, 2 Nov, 00.30 | Min, 1 Nov, 23.24 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Jambi | Jambi | Min, 1 Nov, 15.18 – Min, 1 Nov, 18.19 | Min, 1 Nov, 16.38 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Barat | Sumatera Barat | Min, 1 Nov, 15.00 – Min, 1 Nov, 17.00 | Min, 1 Nov, 16.38 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Selatan | Kalimantan Selatan | Min, 1 Nov, 15.00 – Min, 1 Nov, 17.00 | Min, 1 Nov, 16.38 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Utara | Sumatera Utara | Min, 1 Nov, 15.15 – Min, 1 Nov, 18.15 | Min, 1 Nov, 16.38 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Lampung | Lampung | Min, 1 Nov, 16.10 – Min, 1 Nov, 19.00 | Min, 1 Nov, 16.38 |
 
 ---
 
