@@ -2,8 +2,8 @@
 
 > Monitor real-time peringatan dini cuaca ekstrem dari **BMKG** (nowcast, 0–6 jam ke depan). Data diambil otomatis setiap 10 menit dari API publik BMKG, ditampilkan langsung di README ini, dan dikirim ke Discord webhook jika ada peringatan baru.
 
-🕒 **Update terakhir:** Minggu, 01 November 2026 pukul 06.21.39
-📊 **Peringatan aktif saat ini:** 10
+🕒 **Update terakhir:** Minggu, 01 November 2026 pukul 09.29.24
+📊 **Peringatan aktif saat ini:** 6
 📜 **Riwayat peringatan terakhir:** 20
 
 ---
@@ -12,16 +12,12 @@
 
 | Severity | Urgency | Headline & Wilayah | Durasi (WIB) |
 | --- | --- | --- | --- |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Bengkulu**<br>📍 Bengkulu<br>Hujan lebat disertai petir akan terjadi pada 01 November 2026, 05:35 WIB di sebagian wilayah Bengkulu, khususnya di KARANG TINGGI, LUBUK SANDI, SELEBA...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CBK/2026/11/01/infografis.jpg) | Min, 1 Nov, 05.35 – Min, 1 Nov, 07.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kalimantan Timur**<br>📍 Kalimantan Timur<br>Hujan lebat disertai petir akan terjadi pada 01 November 2026, 06:32 WITA di sebagian wilayah Kalimantan Timur, khususnya di ANGGANA, BABULU, BATU PUT...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CKT/2026/11/01/infografis.jpg) | Min, 1 Nov, 05.32 – Min, 1 Nov, 07.30 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Lampung**<br>📍 Lampung<br>Hujan lebat disertai petir akan terjadi pada 01 November 2026, 05:30 WIB di sebagian wilayah Lampung, khususnya di BAKAUHENI, LABUHAN MARINGGAI, RAJA ...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CLG/2026/11/01/infografis.jpg) | Min, 1 Nov, 05.30 – Min, 1 Nov, 08.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sumatera Utara**<br>📍 Sumatera Utara<br>Hujan lebat disertai petir akan terjadi pada 01 November 2026, 05:30 WIB di sebagian wilayah Sumatera Utara, khususnya di BABALAN, BAJENIS, BANDAR KHA...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CSU/2026/11/01/infografis.jpg) | Min, 1 Nov, 05.30 – Min, 1 Nov, 08.30 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Jawa Barat**<br>📍 Jawa Barat<br>Hujan lebat disertai petir akan terjadi pada 01 November 2026, 05:00 WIB di sebagian wilayah Jawa Barat, khususnya di CIBALONG, CIJULANG, CIMERAK, CIP...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CJB/2026/11/01/infografis.jpg) | Min, 1 Nov, 05.00 – Min, 1 Nov, 07.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Jambi**<br>📍 Jambi<br>Hujan lebat disertai petir akan terjadi pada 01 November 2026, 05:00 WIB di sebagian wilayah Jambi, khususnya di BATANG ASAI, BATHIN III ULU, BERBAK, ...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CJI/2026/11/01/infografis.jpg) | Min, 1 Nov, 05.00 – Min, 1 Nov, 07.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sumatera Selatan**<br>📍 Sumatera Selatan<br>Hujan lebat disertai petir akan terjadi pada 01 November 2026, 05:00 WIB di sebagian wilayah Sumatera Selatan, khususnya di BAYUNG LENCIR, MUARA KELIN...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CSS/2026/11/01/infografis.jpg) | Min, 1 Nov, 05.00 – Min, 1 Nov, 07.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sulawesi Tengah**<br>📍 Sulawesi Tengah<br>Hujan lebat disertai petir akan terjadi pada 01 November 2026, 04:40 WITA di sebagian wilayah Sulawesi Tengah, khususnya di AMPIBABO, LABUAN, PARIGI U...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CSG/2026/11/01/infografis.jpg) | Min, 1 Nov, 03.40 – Min, 1 Nov, 06.40 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kalimantan Selatan**<br>📍 Kalimantan Selatan<br>Hujan lebat disertai petir akan terjadi pada 01 November 2026, 04:33 WITA di sebagian wilayah Kalimantan Selatan, khususnya di KELUMPANG BARAT, KELUMP...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CKS/2026/11/01/infografis.jpg) | Min, 1 Nov, 03.33 – Min, 1 Nov, 06.04 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Papua Pegunungan**<br>📍 Papua Pegunungan<br>Hujan lebat disertai petir akan terjadi pada 01 November 2026, 05:10 WIT di sebagian wilayah Papua Pegunungan, khususnya di ABOY, ALAMA, AMUMA, ANAWI,...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CPP/2026/11/01/infografis.jpg) | Min, 1 Nov, 03.10 – Min, 1 Nov, 07.30 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Lampung**<br>📍 Lampung<br>Hujan lebat disertai petir akan terjadi pada 01 November 2026, 09:10 WIB di sebagian wilayah Lampung, khususnya di BANDAR MATARAM, BRAJA SELEBAH, GEDU...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CLG/2026/11/01/infografis.jpg) | Min, 1 Nov, 09.10 – Min, 1 Nov, 11.30 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Jambi**<br>📍 Jambi<br>Hujan lebat disertai petir akan terjadi pada 01 November 2026, 08:53 WIB di sebagian wilayah Jambi, khususnya di AIR HITAM, BATANG ASAI, BATHIN VIII, ...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CJI/2026/11/01/infografis.jpg) | Min, 1 Nov, 08.53 – Min, 1 Nov, 11.00 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sumatera Barat**<br>📍 Sumatera Barat<br>Hujan lebat disertai petir akan terjadi pada 01 November 2026, 08:30 WIB di sebagian wilayah Sumatera Barat, khususnya di SANGIR, SANGIR JUJUAN. Kondi...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CSB/2026/11/01/infografis.jpg) | Min, 1 Nov, 08.30 – Min, 1 Nov, 10.30 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sumatera Utara**<br>📍 Sumatera Utara<br>Hujan lebat disertai petir akan terjadi pada 01 November 2026, 08:25 WIB di sebagian wilayah Sumatera Utara, khususnya di AEK KUASAN, AEK KUO, AEK LED...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CSU/2026/11/01/infografis.jpg) | Min, 1 Nov, 08.25 – Min, 1 Nov, 11.25 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kalimantan Timur**<br>📍 Kalimantan Timur<br>Hujan lebat disertai petir akan terjadi pada 01 November 2026, 08:30 WITA di sebagian wilayah Kalimantan Timur, khususnya di BENTIAN BESAR, JEMPANG, M...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CKT/2026/11/01/infografis.jpg) | Min, 1 Nov, 07.30 – Min, 1 Nov, 09.40 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kalimantan Selatan**<br>📍 Kalimantan Selatan<br>Hujan lebat disertai petir akan terjadi pada 01 November 2026, 07:12 WITA di sebagian wilayah Kalimantan Selatan, khususnya di KELUMPANG BARAT, KELUMP...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CKS/2026/11/01/infografis.jpg) | Min, 1 Nov, 06.12 – Min, 1 Nov, 09.01 |
 
 ---
 
@@ -29,16 +25,17 @@
 
 | Severity | Headline | Provinsi | Periode Berlaku | Terdeteksi |
 | --- | --- | --- | --- | --- |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Selatan | Kalimantan Selatan | Min, 1 Nov, 03.33 – Min, 1 Nov, 06.04 | Min, 1 Nov, 06.21 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Utara | Sumatera Utara | Min, 1 Nov, 05.30 – Min, 1 Nov, 08.30 | Sab, 31 Okt, 23.10 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Selatan | Kalimantan Selatan | Min, 1 Nov, 06.12 – Min, 1 Nov, 09.01 | Min, 1 Nov, 06.21 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Timur | Kalimantan Timur | Min, 1 Nov, 07.30 – Min, 1 Nov, 09.40 | Min, 1 Nov, 06.21 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Utara | Sumatera Utara | Min, 1 Nov, 08.25 – Min, 1 Nov, 11.25 | Sab, 31 Okt, 23.10 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Jambi | Jambi | Min, 1 Nov, 08.53 – Min, 1 Nov, 11.00 | Min, 1 Nov, 06.21 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Lampung | Lampung | Min, 1 Nov, 09.10 – Min, 1 Nov, 11.30 | Min, 1 Nov, 06.21 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Barat | Sumatera Barat | Min, 1 Nov, 08.30 – Min, 1 Nov, 10.30 | Min, 1 Nov, 09.29 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Bengkulu | Bengkulu | Min, 1 Nov, 05.35 – Min, 1 Nov, 07.00 | Min, 1 Nov, 03.05 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Papua Pegunungan | Papua Pegunungan | Min, 1 Nov, 03.10 – Min, 1 Nov, 07.30 | Min, 1 Nov, 06.21 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Sulawesi Tengah | Sulawesi Tengah | Min, 1 Nov, 03.40 – Min, 1 Nov, 06.40 | Min, 1 Nov, 06.21 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Selatan | Sumatera Selatan | Min, 1 Nov, 05.00 – Min, 1 Nov, 07.00 | Min, 1 Nov, 06.21 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Jambi | Jambi | Min, 1 Nov, 05.00 – Min, 1 Nov, 07.00 | Min, 1 Nov, 06.21 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Jawa Barat | Jawa Barat | Min, 1 Nov, 05.00 – Min, 1 Nov, 07.00 | Min, 1 Nov, 06.21 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Lampung | Lampung | Min, 1 Nov, 05.30 – Min, 1 Nov, 08.00 | Min, 1 Nov, 06.21 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Timur | Kalimantan Timur | Min, 1 Nov, 05.32 – Min, 1 Nov, 07.30 | Min, 1 Nov, 06.21 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Sulawesi Selatan | Sulawesi Selatan | Min, 1 Nov, 03.00 – Min, 1 Nov, 05.00 | Min, 1 Nov, 03.05 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Utara | Kalimantan Utara | Sab, 31 Okt, 21.00 – Min, 1 Nov, 00.00 | Sab, 31 Okt, 18.13 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Nusa Tenggara Barat | Nusa Tenggara Barat | Sab, 31 Okt, 21.30 – Sab, 31 Okt, 23.30 | Sab, 31 Okt, 23.10 |
@@ -48,7 +45,6 @@
 | 🟡 Moderate | Hujan Lebat disertai Petir di Sulawesi Barat | Sulawesi Barat | Sab, 31 Okt, 22.40 – Min, 1 Nov, 01.40 | Sab, 31 Okt, 23.10 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Aceh | Aceh | Sab, 31 Okt, 22.55 – Min, 1 Nov, 03.17 | Sab, 31 Okt, 23.10 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Barat | Kalimantan Barat | Sab, 31 Okt, 21.00 – Min, 1 Nov, 00.00 | Sab, 31 Okt, 23.10 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Sulawesi Selatan | Sulawesi Selatan | Sab, 31 Okt, 21.30 – Min, 1 Nov, 00.30 | Sab, 31 Okt, 23.10 |
 
 ---
 
