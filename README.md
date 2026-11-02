@@ -2,8 +2,8 @@
 
 > Monitor real-time peringatan dini cuaca ekstrem dari **BMKG** (nowcast, 0–6 jam ke depan). Data diambil otomatis setiap 10 menit dari API publik BMKG, ditampilkan langsung di README ini, dan dikirim ke Discord webhook jika ada peringatan baru.
 
-🕒 **Update terakhir:** Senin, 02 November 2026 pukul 12.48.25
-📊 **Peringatan aktif saat ini:** 19
+🕒 **Update terakhir:** Senin, 02 November 2026 pukul 20.53.59
+📊 **Peringatan aktif saat ini:** 12
 📜 **Riwayat peringatan terakhir:** 20
 
 ---
@@ -12,25 +12,18 @@
 
 | Severity | Urgency | Headline & Wilayah | Durasi (WIB) |
 | --- | --- | --- | --- |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sulawesi Tengah**<br>📍 Sulawesi Tengah<br>Hujan lebat disertai petir akan terjadi pada 02 November 2026, 13:55 WITA di sebagian wilayah Sulawesi Tengah, khususnya di BANAWA SELATAN, BOLANO, BO...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CSG/2026/11/02/infografis.jpg) | Sen, 2 Nov, 12.55 – Sen, 2 Nov, 15.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kep. Bangka Belitung**<br>📍 Kep. Bangka Belitung<br>Hujan lebat disertai petir akan terjadi pada 02 November 2026, 12:52 WIB di sebagian wilayah Kep. Bangka Belitung, khususnya di JEBUS, KELAPA, SIMPANG...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CBB/2026/11/02/infografis.jpg) | Sen, 2 Nov, 12.52 – Sen, 2 Nov, 16.12 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Banten**<br>📍 Banten<br>Hujan lebat disertai petir akan terjadi pada 02 November 2026, 12:45 WIB di sebagian wilayah Banten, khususnya di BANDUNG, CIBEBER, CIGEMLONG, CIKEUSA...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CBT/2026/11/02/infografis.jpg) | Sen, 2 Nov, 12.45 – Sen, 2 Nov, 15.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Lampung**<br>📍 Lampung<br>Hujan lebat disertai petir akan terjadi pada 02 November 2026, 12:45 WIB di sebagian wilayah Lampung, khususnya di CUKUH BALAK, GADING REJO, GUNUNG AG...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CLG/2026/11/02/infografis.jpg) | Sen, 2 Nov, 12.45 – Sen, 2 Nov, 14.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Gorontalo**<br>📍 Gorontalo<br>Hujan lebat disertai petir akan terjadi pada 02 November 2026, 13:25 WITA di sebagian wilayah Gorontalo, khususnya di BATUDAA, BILATO, DANAU LIMBOTO, ...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CGT/2026/11/02/infografis.jpg) | Sen, 2 Nov, 12.25 – Sen, 2 Nov, 15.25 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sumatera Selatan**<br>📍 Sumatera Selatan<br>Hujan lebat disertai petir akan terjadi pada 02 November 2026, 12:50 WIB di sebagian wilayah Sumatera Selatan, khususnya di AIR SALEK, BANYUASIN II, B...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CSS/2026/11/02/infografis.jpg) | Sen, 2 Nov, 12.50 – Sen, 2 Nov, 14.50 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Nusa Tenggara Barat**<br>📍 Nusa Tenggara Barat<br>Hujan lebat disertai petir akan terjadi pada 02 November 2026, 13:10 WITA di sebagian wilayah Nusa Tenggara Barat, khususnya di ALAS BARAT, GANGGA, GU...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CNB/2026/11/02/infografis.jpg) | Sen, 2 Nov, 12.10 – Sen, 2 Nov, 14.10 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Jawa Tengah**<br>📍 Jawa Tengah<br>Hujan lebat disertai petir akan terjadi pada 02 November 2026, 12:00 WIB di sebagian wilayah Jawa Tengah, khususnya di BANJARMANGU, KALIBENING, KARANG...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CJH/2026/11/02/infografis.jpg) | Sen, 2 Nov, 12.00 – Sen, 2 Nov, 14.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kalimantan Timur**<br>📍 Kalimantan Timur<br>Hujan lebat disertai petir akan terjadi pada 02 November 2026, 12:50 WITA di sebagian wilayah Kalimantan Timur, khususnya di BALIKPAPAN BARAT, BALIKPA...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CKT/2026/11/02/infografis.jpg) | Sen, 2 Nov, 11.50 – Sen, 2 Nov, 13.30 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Jawa Timur**<br>📍 Jawa Timur<br>Hujan lebat disertai petir akan terjadi pada 02 November 2026, 12:00 WIB di sebagian wilayah Jawa Timur, khususnya di BANGKALAN, BANYUATES, BATUMARMAR...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CJT/2026/11/02/infografis.jpg) | Sen, 2 Nov, 12.00 – Sen, 2 Nov, 14.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kalimantan Tengah**<br>📍 Kalimantan Tengah<br>Hujan lebat disertai petir akan terjadi pada 02 November 2026, 11:40 WIB di sebagian wilayah Kalimantan Tengah, khususnya di PULAU HANAUT, SERUYAN HIL...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CKG/2026/11/02/infografis.jpg) | Sen, 2 Nov, 11.40 – Sen, 2 Nov, 13.30 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sulawesi Utara**<br>📍 Sulawesi Utara<br>Hujan lebat disertai petir akan terjadi pada 02 November 2026, 12:35 WITA di sebagian wilayah Sulawesi Utara, khususnya di AMURANG TIMUR, BINTAUNA, KA...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CSR/2026/11/02/infografis.jpg) | Sen, 2 Nov, 11.35 – Sen, 2 Nov, 14.15 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Papua**<br>📍 Papua<br>Hujan lebat disertai petir akan terjadi pada 02 November 2026, 13:30 WIT di sebagian wilayah Papua, khususnya di YAPEN UTARA. Kondisi ini berpotensi m...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CPU/2026/11/02/infografis.jpg) | Sen, 2 Nov, 11.30 – Sen, 2 Nov, 13.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sumatera Utara**<br>📍 Sumatera Utara<br>Hujan lebat disertai petir akan terjadi pada 02 November 2026, 11:20 WIB di sebagian wilayah Sumatera Utara, khususnya di AIR PUTIH, GUNUNGSITOLI ALO'...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CSU/2026/11/02/infografis.jpg) | Sen, 2 Nov, 11.20 – Sen, 2 Nov, 14.20 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kep. Riau**<br>📍 Kep. Riau<br>Hujan lebat disertai petir akan terjadi pada 02 November 2026, 11:15 WIB di sebagian wilayah Kep. Riau, khususnya di BATU AJI, BELAKANG PADANG, BINTAN...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CKR/2026/11/02/infografis.jpg) | Sen, 2 Nov, 11.15 – Sen, 2 Nov, 13.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Papua Tengah**<br>📍 Papua Tengah<br>Hujan lebat disertai petir akan terjadi pada 02 November 2026, 13:10 WIT di sebagian wilayah Papua Tengah, khususnya di HOYA, KUALA KENCANA, TEMBAGAPU...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CPT/2026/11/02/infografis.jpg) | Sen, 2 Nov, 11.10 – Sen, 2 Nov, 13.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kalimantan Barat**<br>📍 Kalimantan Barat<br>Hujan lebat disertai petir akan terjadi pada 02 November 2026, 11:00 WIB di sebagian wilayah Kalimantan Barat, khususnya di MEMPAWAH HILIR, PEMANGKAT,...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CKB/2026/11/02/infografis.jpg) | Sen, 2 Nov, 11.00 – Sen, 2 Nov, 13.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Maluku Utara**<br>📍 Maluku Utara<br>Hujan lebat disertai petir akan terjadi pada 02 November 2026, 13:15 WIT di sebagian wilayah Maluku Utara, khususnya di GALELA UTARA, IBU, LOLODA UTAR...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CMU/2026/11/02/infografis.jpg) | Sen, 2 Nov, 11.15 – Sen, 2 Nov, 13.30 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Papua Barat Daya**<br>📍 Papua Barat Daya<br>Hujan lebat disertai petir akan terjadi pada 02 November 2026, 11:00 WIT di sebagian wilayah Papua Barat Daya, khususnya di AIMAS, KLAMONO, KLAURUNG, ...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CPD/2026/11/02/infografis.jpg) | Sen, 2 Nov, 09.00 – Sen, 2 Nov, 13.00 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sumatera Utara**<br>📍 Sumatera Utara<br>Hujan lebat disertai petir akan terjadi pada 02 November 2026, 20:00 WIB di sebagian wilayah Sumatera Utara, khususnya di BADIRI, BAWOLATO, IDANOGAWO,...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CSU/2026/11/02/infografis.jpg) | Sen, 2 Nov, 20.00 – Sen, 2 Nov, 23.00 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Bengkulu**<br>📍 Bengkulu<br>Hujan lebat disertai petir akan terjadi pada 02 November 2026, 19:45 WIB di sebagian wilayah Bengkulu, khususnya di AIR MAJUNTO, KOTA MUKOMUKO, XIV KO...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CBK/2026/11/02/infografis.jpg) | Sen, 2 Nov, 19.45 – Sen, 2 Nov, 21.00 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kalimantan Tengah**<br>📍 Kalimantan Tengah<br>Hujan lebat disertai petir akan terjadi pada 02 November 2026, 19:40 WIB di sebagian wilayah Kalimantan Tengah, khususnya di BUKIT BATU, KAMIPANG, KAT...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CKG/2026/11/02/infografis.jpg) | Sen, 2 Nov, 19.40 – Sen, 2 Nov, 21.30 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Maluku Utara**<br>📍 Maluku Utara<br>Hujan lebat disertai petir akan terjadi pada 02 November 2026, 22:00 WIT di sebagian wilayah Maluku Utara, khususnya di KAO TELUK, KOTA MABA. Kondisi ...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CMU/2026/11/02/infografis.jpg) | Sen, 2 Nov, 20.00 – Sen, 2 Nov, 22.00 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sulawesi Selatan**<br>📍 Sulawesi Selatan<br>Hujan lebat disertai petir akan terjadi pada 02 November 2026, 21:00 WITA di sebagian wilayah Sulawesi Selatan, khususnya di MAPPEDECENG, MASAMBA, SUK...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CSL/2026/11/02/infografis.jpg) | Sen, 2 Nov, 20.00 – Sen, 2 Nov, 22.00 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sumatera Selatan**<br>📍 Sumatera Selatan<br>Hujan lebat disertai petir akan terjadi pada 02 November 2026, 20:00 WIB di sebagian wilayah Sumatera Selatan, khususnya di BTS. ULU, GUNUNG MEGANG, J...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CSS/2026/11/02/infografis.jpg) | Sen, 2 Nov, 20.00 – Sen, 2 Nov, 21.30 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Aceh**<br>📍 Aceh<br>Hujan lebat disertai petir akan terjadi pada 02 November 2026, 19:25 WIB di sebagian wilayah Aceh, khususnya di BABUL RAHMAH, BAKONGAN, BAKONGAN TIMUR...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CAH/2026/11/02/infografis.jpg) | Sen, 2 Nov, 19.25 – Sen, 2 Nov, 21.14 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sumatera Barat**<br>📍 Sumatera Barat<br>Hujan lebat disertai petir akan terjadi pada 02 November 2026, 19:00 WIB di sebagian wilayah Sumatera Barat, khususnya di AMPEK ANGKEK, AMPEK NAGARI, ...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CSB/2026/11/02/infografis.jpg) | Sen, 2 Nov, 19.00 – Sen, 2 Nov, 21.00 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Jakarta**<br>📍 Jakarta<br>Hujan lebat disertai petir akan terjadi pada 02 November 2026, 19:00 WIB di sebagian wilayah Jakarta, khususnya di CIBUNGBULANG, PAMIJAHAN, TENJOLAYA....<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CJK/2026/11/02/infografis.jpg) | Sen, 2 Nov, 19.00 – Sen, 2 Nov, 21.00 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kalimantan Utara**<br>📍 Kalimantan Utara<br>Hujan lebat disertai petir akan terjadi pada 02 November 2026, 19:41 WITA di sebagian wilayah Kalimantan Utara, khususnya di KRAYAN TIMUR, LUMBIS, MEN...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CKU/2026/11/02/infografis.jpg) | Sen, 2 Nov, 18.41 – Sen, 2 Nov, 21.30 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Papua Pegunungan**<br>📍 Papua Pegunungan<br>Hujan lebat disertai petir akan terjadi pada 02 November 2026, 20:00 WIT di sebagian wilayah Papua Pegunungan, khususnya di DURAM, GESELMA, KENYAM, KO...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CPP/2026/11/02/infografis.jpg) | Sen, 2 Nov, 18.00 – Sen, 2 Nov, 21.00 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Papua Barat Daya**<br>📍 Papua Barat Daya<br>Hujan lebat disertai petir akan terjadi pada 02 November 2026, 19:50 WIT di sebagian wilayah Papua Barat Daya, khususnya di AIFAT, AIFAT TIMUR, AIFAT ...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CPD/2026/11/02/infografis.jpg) | Sen, 2 Nov, 17.50 – Sen, 2 Nov, 20.50 |
 
 ---
 
@@ -38,6 +31,18 @@
 
 | Severity | Headline | Provinsi | Periode Berlaku | Terdeteksi |
 | --- | --- | --- | --- | --- |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Papua Barat Daya | Papua Barat Daya | Sen, 2 Nov, 17.50 – Sen, 2 Nov, 20.50 | Sen, 2 Nov, 20.53 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Selatan | Sumatera Selatan | Sen, 2 Nov, 20.00 – Sen, 2 Nov, 21.30 | Sen, 2 Nov, 20.53 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Maluku Utara | Maluku Utara | Sen, 2 Nov, 20.00 – Sen, 2 Nov, 22.00 | Sen, 2 Nov, 20.53 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Tengah | Kalimantan Tengah | Sen, 2 Nov, 19.40 – Sen, 2 Nov, 21.30 | Sen, 2 Nov, 20.53 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Utara | Sumatera Utara | Sen, 2 Nov, 20.00 – Sen, 2 Nov, 23.00 | Sen, 2 Nov, 20.53 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Papua Pegunungan | Papua Pegunungan | Sen, 2 Nov, 18.00 – Sen, 2 Nov, 21.00 | Sen, 2 Nov, 20.53 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Utara | Kalimantan Utara | Sen, 2 Nov, 18.41 – Sen, 2 Nov, 21.30 | Sen, 2 Nov, 20.53 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Jakarta | Jakarta | Sen, 2 Nov, 19.00 – Sen, 2 Nov, 21.00 | Sen, 2 Nov, 20.53 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Barat | Sumatera Barat | Sen, 2 Nov, 19.00 – Sen, 2 Nov, 21.00 | Sen, 2 Nov, 20.53 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Aceh | Aceh | Sen, 2 Nov, 19.25 – Sen, 2 Nov, 21.14 | Sen, 2 Nov, 20.53 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Sulawesi Selatan | Sulawesi Selatan | Sen, 2 Nov, 20.00 – Sen, 2 Nov, 22.00 | Sen, 2 Nov, 20.53 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Bengkulu | Bengkulu | Sen, 2 Nov, 19.45 – Sen, 2 Nov, 21.00 | Sen, 2 Nov, 20.53 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Barat | Kalimantan Barat | Sen, 2 Nov, 11.00 – Sen, 2 Nov, 13.00 | Sen, 2 Nov, 12.48 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Jawa Timur | Jawa Timur | Sen, 2 Nov, 12.00 – Sen, 2 Nov, 14.00 | Sen, 2 Nov, 12.48 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Timur | Kalimantan Timur | Sen, 2 Nov, 11.50 – Sen, 2 Nov, 13.30 | Sen, 2 Nov, 12.48 |
@@ -46,18 +51,6 @@
 | 🟡 Moderate | Hujan Lebat disertai Petir di Papua Barat Daya | Papua Barat Daya | Sen, 2 Nov, 09.00 – Sen, 2 Nov, 13.00 | Sen, 2 Nov, 12.48 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Maluku Utara | Maluku Utara | Sen, 2 Nov, 11.15 – Sen, 2 Nov, 13.30 | Sen, 2 Nov, 12.48 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Papua Tengah | Papua Tengah | Sen, 2 Nov, 11.10 – Sen, 2 Nov, 13.00 | Sen, 2 Nov, 12.48 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Kep. Riau | Kep. Riau | Sen, 2 Nov, 11.15 – Sen, 2 Nov, 13.00 | Sen, 2 Nov, 12.48 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Utara | Sumatera Utara | Sen, 2 Nov, 11.20 – Sen, 2 Nov, 14.20 | Sen, 2 Nov, 12.48 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Papua | Papua | Sen, 2 Nov, 11.30 – Sen, 2 Nov, 13.00 | Sen, 2 Nov, 12.48 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Sulawesi Utara | Sulawesi Utara | Sen, 2 Nov, 11.35 – Sen, 2 Nov, 14.15 | Sen, 2 Nov, 12.48 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Tengah | Kalimantan Tengah | Sen, 2 Nov, 11.40 – Sen, 2 Nov, 13.30 | Sen, 2 Nov, 12.48 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Jawa Tengah | Jawa Tengah | Sen, 2 Nov, 12.00 – Sen, 2 Nov, 14.00 | Sen, 2 Nov, 12.48 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Nusa Tenggara Barat | Nusa Tenggara Barat | Sen, 2 Nov, 12.10 – Sen, 2 Nov, 14.10 | Sen, 2 Nov, 12.48 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Gorontalo | Gorontalo | Sen, 2 Nov, 12.25 – Sen, 2 Nov, 15.25 | Sen, 2 Nov, 12.48 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Banten | Banten | Sen, 2 Nov, 12.45 – Sen, 2 Nov, 15.00 | Sen, 2 Nov, 12.48 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Kep. Bangka Belitung | Kep. Bangka Belitung | Sen, 2 Nov, 12.52 – Sen, 2 Nov, 16.12 | Sen, 2 Nov, 12.48 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Sulawesi Tengah | Sulawesi Tengah | Sen, 2 Nov, 12.55 – Sen, 2 Nov, 15.00 | Sen, 2 Nov, 12.48 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Aceh | Aceh | Sen, 2 Nov, 03.58 – Sen, 2 Nov, 07.19 | Min, 1 Nov, 23.24 |
 
 ---
 
