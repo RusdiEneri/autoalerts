@@ -2,7 +2,7 @@
 
 > Monitor real-time peringatan dini cuaca ekstrem dari **BMKG** (nowcast, 0–6 jam ke depan). Data diambil otomatis setiap 10 menit dari API publik BMKG, ditampilkan langsung di README ini, dan dikirim ke Discord webhook jika ada peringatan baru.
 
-🕒 **Update terakhir:** Rabu, 04 November 2026 pukul 01.36.53
+🕒 **Update terakhir:** Rabu, 04 November 2026 pukul 06.41.01
 📊 **Peringatan aktif saat ini:** 5
 📜 **Riwayat peringatan terakhir:** 20
 
@@ -12,11 +12,11 @@
 
 | Severity | Urgency | Headline & Wilayah | Durasi (WIB) |
 | --- | --- | --- | --- |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sumatera Selatan**<br>📍 Sumatera Selatan<br>Hujan lebat disertai petir akan terjadi pada 04 November 2026, 01:30 WIB di sebagian wilayah Sumatera Selatan, khususnya di AIR SUGIHAN, KARANG JAYA, ...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CSS/2026/11/04/infografis.jpg) | Rab, 4 Nov, 01.30 – Rab, 4 Nov, 03.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Jambi**<br>📍 Jambi<br>Hujan lebat disertai petir akan terjadi pada 04 November 2026, 00:30 WIB di sebagian wilayah Jambi, khususnya di AIR HITAM, BAJUBANG, BATANG ASAM, BAT...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CJI/2026/11/04/infografis.jpg) | Rab, 4 Nov, 00.30 – Rab, 4 Nov, 02.30 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Bali**<br>📍 Bali<br>Hujan lebat disertai petir akan terjadi pada 04 November 2026, 01:00 WITA di sebagian wilayah Bali, khususnya di SALEMADEG BARAT, SELEMADEG. Kondisi i...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CBL/2026/11/04/infografis.jpg) | Rab, 4 Nov, 00.00 – Rab, 4 Nov, 03.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Aceh**<br>📍 Aceh<br>Hujan lebat disertai petir akan terjadi pada 03 November 2026, 23:25 WIB di sebagian wilayah Aceh, khususnya di BABUL MAKMUR, BABUL RAHMAH, BABUSSALAM...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CAH/2026/11/03/infografis.jpg) | Sel, 3 Nov, 23.25 – Rab, 4 Nov, 04.52 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sumatera Utara**<br>📍 Sumatera Utara<br>Hujan lebat disertai petir akan terjadi pada 03 November 2026, 23:15 WIB di sebagian wilayah Sumatera Utara, khususnya di AEK NABARA BARUMUN, ANGKOLA ...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CSU/2026/11/03/infografis.jpg) | Sel, 3 Nov, 23.15 – Rab, 4 Nov, 02.15 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kalimantan Tengah**<br>📍 Kalimantan Tengah<br>Hujan lebat disertai petir akan terjadi pada 04 November 2026, 05:52 WIB di sebagian wilayah Kalimantan Tengah, khususnya di TELAGA ANTANG. Kondisi in...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CKG/2026/11/04/infografis.jpg) | Rab, 4 Nov, 05.52 – Rab, 4 Nov, 07.40 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kep. Bangka Belitung**<br>📍 Kep. Bangka Belitung<br>Hujan lebat disertai petir akan terjadi pada 04 November 2026, 05:20 WIB di sebagian wilayah Kep. Bangka Belitung, khususnya di BADAU, DAMAR, MANGGAR,...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CBB/2026/11/04/infografis.jpg) | Rab, 4 Nov, 05.20 – Rab, 4 Nov, 07.20 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kalimantan Timur**<br>📍 Kalimantan Timur<br>Hujan lebat disertai petir akan terjadi pada 04 November 2026, 06:20 WITA di sebagian wilayah Kalimantan Timur, khususnya di MARANG KAYU. Kondisi ini ...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CKT/2026/11/04/infografis.jpg) | Rab, 4 Nov, 05.20 – Rab, 4 Nov, 06.20 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Jambi**<br>📍 Jambi<br>Hujan lebat disertai petir akan terjadi pada 04 November 2026, 05:11 WIB di sebagian wilayah Jambi, khususnya di AIR HANGAT, BATANG ASAI, BUKITKERMAN,...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CJI/2026/11/04/infografis.jpg) | Rab, 4 Nov, 05.11 – Rab, 4 Nov, 07.11 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Aceh**<br>📍 Aceh<br>Hujan lebat disertai petir akan terjadi pada 04 November 2026, 04:52 WIB di sebagian wilayah Aceh, khususnya di BABUL MAKMUR, BADAR, KAWAY XVI, PANTE ...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CAH/2026/11/04/infografis.jpg) | Rab, 4 Nov, 04.52 – Rab, 4 Nov, 07.27 |
 
 ---
 
@@ -24,8 +24,12 @@
 
 | Severity | Headline | Provinsi | Periode Berlaku | Terdeteksi |
 | --- | --- | --- | --- | --- |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Aceh | Aceh | Rab, 4 Nov, 04.52 – Rab, 4 Nov, 07.27 | Rab, 4 Nov, 01.36 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Jambi | Jambi | Rab, 4 Nov, 05.11 – Rab, 4 Nov, 07.11 | Rab, 4 Nov, 06.41 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Timur | Kalimantan Timur | Rab, 4 Nov, 05.20 – Rab, 4 Nov, 06.20 | Rab, 4 Nov, 06.41 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Kep. Bangka Belitung | Kep. Bangka Belitung | Rab, 4 Nov, 05.20 – Rab, 4 Nov, 07.20 | Rab, 4 Nov, 06.41 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Tengah | Kalimantan Tengah | Rab, 4 Nov, 05.52 – Rab, 4 Nov, 07.40 | Rab, 4 Nov, 06.40 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Utara | Sumatera Utara | Sel, 3 Nov, 23.15 – Rab, 4 Nov, 02.15 | Rab, 4 Nov, 01.36 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Aceh | Aceh | Sel, 3 Nov, 23.25 – Rab, 4 Nov, 04.52 | Rab, 4 Nov, 01.36 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Selatan | Sumatera Selatan | Rab, 4 Nov, 01.30 – Rab, 4 Nov, 03.00 | Rab, 4 Nov, 01.36 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Bali | Bali | Rab, 4 Nov, 00.00 – Rab, 4 Nov, 03.00 | Rab, 4 Nov, 01.36 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Jambi | Jambi | Rab, 4 Nov, 00.30 – Rab, 4 Nov, 02.30 | Rab, 4 Nov, 01.36 |
@@ -40,10 +44,6 @@
 | 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Barat | Sumatera Barat | Sel, 3 Nov, 16.30 – Sel, 3 Nov, 18.30 | Sel, 3 Nov, 18.25 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Sulawesi Tengah | Sulawesi Tengah | Sel, 3 Nov, 16.45 – Sel, 3 Nov, 19.00 | Sel, 3 Nov, 18.25 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Tengah | Kalimantan Tengah | Sel, 3 Nov, 17.00 – Sel, 3 Nov, 19.00 | Sel, 3 Nov, 18.25 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Maluku Utara | Maluku Utara | Sel, 3 Nov, 17.35 – Sel, 3 Nov, 19.35 | Sel, 3 Nov, 18.25 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Jawa Timur | Jawa Timur | Sel, 3 Nov, 17.40 – Sel, 3 Nov, 20.40 | Sel, 3 Nov, 18.25 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Kep. Bangka Belitung | Kep. Bangka Belitung | Sel, 3 Nov, 17.30 – Sel, 3 Nov, 19.30 | Sel, 3 Nov, 18.25 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Jakarta | Jakarta | Sel, 3 Nov, 17.50 – Sel, 3 Nov, 21.00 | Sel, 3 Nov, 18.25 |
 
 ---
 
