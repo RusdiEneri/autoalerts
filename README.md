@@ -2,8 +2,8 @@
 
 > Monitor real-time peringatan dini cuaca ekstrem dari **BMKG** (nowcast, 0–6 jam ke depan). Data diambil otomatis setiap 10 menit dari API publik BMKG, ditampilkan langsung di README ini, dan dikirim ke Discord webhook jika ada peringatan baru.
 
-🕒 **Update terakhir:** Senin, 09 November 2026 pukul 06.12.44
-📊 **Peringatan aktif saat ini:** 4
+🕒 **Update terakhir:** Senin, 09 November 2026 pukul 09.44.56
+📊 **Peringatan aktif saat ini:** 2
 📜 **Riwayat peringatan terakhir:** 20
 
 ---
@@ -12,10 +12,8 @@
 
 | Severity | Urgency | Headline & Wilayah | Durasi (WIB) |
 | --- | --- | --- | --- |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kep. Bangka Belitung**<br>📍 Kep. Bangka Belitung<br>Hujan lebat disertai petir akan terjadi pada 09 November 2026, 05:20 WIB di sebagian wilayah Kep. Bangka Belitung, khususnya di BUKITINTAN, PEMALI. Ko...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CBB/2026/11/09/infografis.jpg) | Sen, 9 Nov, 05.20 – Sen, 9 Nov, 07.30 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kalimantan Utara**<br>📍 Kalimantan Utara<br>Hujan lebat disertai petir akan terjadi pada 09 November 2026, 06:01 WITA di sebagian wilayah Kalimantan Utara, khususnya di TANJUNG PALAS TENGAH. Kon...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CKU/2026/11/09/infografis.jpg) | Sen, 9 Nov, 05.01 – Sen, 9 Nov, 08.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kalimantan Tengah**<br>📍 Kalimantan Tengah<br>Hujan lebat disertai petir akan terjadi pada 09 November 2026, 04:15 WIB di sebagian wilayah Kalimantan Tengah, khususnya di BAAMANG, BUKIT RAYA, KAPU...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CKG/2026/11/09/infografis.jpg) | Sen, 9 Nov, 04.15 – Sen, 9 Nov, 06.30 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Jawa Barat**<br>📍 Jawa Barat<br>Hujan lebat disertai petir akan terjadi pada 09 November 2026, 04:17 WIB di sebagian wilayah Jawa Barat, khususnya di CIBUAYA, PAKISJAYA. Kondisi ini ...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CJB/2026/11/09/infografis.jpg) | Sen, 9 Nov, 04.17 – Sen, 9 Nov, 06.07 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kalimantan Tengah**<br>📍 Kalimantan Tengah<br>Hujan lebat disertai petir akan terjadi pada 09 November 2026, 08:30 WIB di sebagian wilayah Kalimantan Tengah, khususnya di CEMPAGA HULU, KATINGAN HI...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CKG/2026/11/09/infografis.jpg) | Sen, 9 Nov, 08.30 – Sen, 9 Nov, 10.30 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kep. Riau**<br>📍 Kep. Riau<br>Hujan lebat disertai petir akan terjadi pada 09 November 2026, 08:10 WIB di sebagian wilayah Kep. Riau, khususnya di BELAT, BINTAN PESISIR, BUNGURAN T...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CKR/2026/11/09/infografis.jpg) | Sen, 9 Nov, 08.10 – Sen, 9 Nov, 10.30 |
 
 ---
 
@@ -23,7 +21,8 @@
 
 | Severity | Headline | Provinsi | Periode Berlaku | Terdeteksi |
 | --- | --- | --- | --- | --- |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Tengah | Kalimantan Tengah | Sen, 9 Nov, 04.15 – Sen, 9 Nov, 06.30 | Min, 8 Nov, 22.14 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Tengah | Kalimantan Tengah | Sen, 9 Nov, 08.30 – Sen, 9 Nov, 10.30 | Min, 8 Nov, 22.14 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Kep. Riau | Kep. Riau | Sen, 9 Nov, 08.10 – Sen, 9 Nov, 10.30 | Sen, 9 Nov, 09.44 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Jawa Barat | Jawa Barat | Sen, 9 Nov, 04.17 – Sen, 9 Nov, 06.07 | Sen, 9 Nov, 06.12 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Utara | Kalimantan Utara | Sen, 9 Nov, 05.01 – Sen, 9 Nov, 08.00 | Sen, 9 Nov, 06.12 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Kep. Bangka Belitung | Kep. Bangka Belitung | Sen, 9 Nov, 05.20 – Sen, 9 Nov, 07.30 | Sen, 9 Nov, 06.12 |
@@ -42,7 +41,6 @@
 | 🟡 Moderate | Hujan Lebat disertai Petir di Sulawesi Barat | Sulawesi Barat | Min, 8 Nov, 20.35 – Min, 8 Nov, 22.30 | Min, 8 Nov, 22.14 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Bengkulu | Bengkulu | Min, 8 Nov, 21.00 – Min, 8 Nov, 23.00 | Min, 8 Nov, 22.14 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Barat | Kalimantan Barat | Min, 8 Nov, 21.10 – Min, 8 Nov, 23.10 | Min, 8 Nov, 22.14 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Gorontalo | Gorontalo | Min, 8 Nov, 13.40 – Min, 8 Nov, 15.40 | Min, 8 Nov, 15.10 |
 
 ---
 
