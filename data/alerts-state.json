@@ -1,22 +1,13 @@
 {
   "schemaVersion": 3,
   "active": {
-    "aceh|hujan lebat dan petir": "bd9fac456c5080a738347ff8a7a21b8cf46f7159",
-    "bengkulu|hujan lebat dan petir": "960a4a11579c98c23a26d1cc5f4be4f03d089f80",
-    "di yogyakarta|hujan lebat dan petir": "a58dcbaf39efa8d4a50234950550fd3137f3b184",
-    "jambi|hujan lebat dan petir": "78f959d9800fd7ea99ae1fbdf37ab6c11dede0c8",
-    "jawa barat|hujan lebat dan petir": "86d0eb98ac419421bcadf95ecd1a7a2c927ee622",
-    "jawa tengah|hujan lebat dan petir": "bdde037a28dec54f454c959bdce34a75dff84a35",
-    "kalimantan tengah|hujan lebat dan petir": "c6a6dfa9783e1a1e6d9a4f6ab1d3c7e5c48b6e00",
-    "lampung|hujan lebat dan petir": "cfba7a6ad41a5934fc4da340a109d2029d7a19a5",
-    "maluku utara|hujan lebat dan petir": "0145395b8511666a8307cc152238d0ce6ba1a10b",
-    "papua barat daya|hujan lebat dan petir": "6898085e1fd52e90e3aa7c860e6f1589f9f2cede",
-    "papua|hujan lebat dan petir": "8ce1582950a7f48feb306a331251f420a879e978",
-    "riau|hujan lebat dan petir": "2ef2f31a2521e46cd0979efaa2f2186437ad6434",
-    "sulawesi tengah|hujan lebat dan petir": "585d40f1f044713553efc943b07ead0f1024a192",
-    "sumatera barat|hujan lebat dan petir": "c145076bae6ef7662921e6017d796da96b70ae59",
-    "sumatera selatan|hujan lebat dan petir": "f720e05e697caf6751013243d2752a552e4ec5fd",
-    "sumatera utara|hujan lebat dan petir": "9aa2e0e275e22e6fdd45653cb9543a34ab57aa4d"
+    "kalimantan tengah|hujan lebat dan petir": "e6a0d8abecc934e614adb22ba968feaad087b00e",
+    "papua selatan|hujan lebat dan petir": "7fe7f43d1e2b102512b060aae8c3d9264107c43a",
+    "sulawesi selatan|hujan lebat dan petir": "35ff51b424c2dddfbaa0c40ad489ca1f2639cefa",
+    "sulawesi tengah|hujan lebat dan petir": "4fe0c783eafd9af4a2000e4166f6909c78f7face",
+    "sumatera barat|hujan lebat dan petir": "d649bcda95f7bbc2b4553639cfa7341d9867c617",
+    "sumatera selatan|hujan lebat dan petir": "433fc008c18bdc2767d041b3fa5c474d9dbdd943",
+    "sumatera utara|hujan lebat dan petir": "07479fd7f66456e5b0eb5b4ed42e573c7377ec49"
   },
-  "count": 16
+  "count": 7
 }
