@@ -1,13 +1,28 @@
 {
   "schemaVersion": 3,
   "active": {
-    "aceh|hujan lebat dan petir": "b030da14fcc0e50fd5210468f3ecc9e63f1e9876",
-    "jambi|hujan lebat dan petir": "8e99aacc8027a1b85b94114bbe352e85ae146fb6",
-    "kalimantan tengah|hujan lebat dan petir": "80cb9db35def20040f4e9d64ced188ea1735274f",
-    "kep. riau|hujan lebat dan petir": "bb6408e1f64b31e5ec9c55b5a8f76a6dedca0080",
-    "lampung|hujan lebat dan petir": "16b2bbdebeb93a1b5540343ce4502400b2940222",
-    "sulawesi selatan|hujan lebat dan petir": "97f83cb3fa9c19153e84c8bdd485b7d3dbf518cb",
-    "sumatera utara|hujan lebat dan petir": "f6e42617c4649859aecbbdce47aafa869dfcbd76"
+    "aceh|hujan lebat dan petir": "59f5d74cf6e11e4153e7d24386fb7a45bad71f9a",
+    "banten|hujan lebat dan petir": "016e53df608070297bafc7340670b90783454887",
+    "bengkulu|hujan lebat dan petir": "99305f62979e4d7b2f51777b1694421f45a6d1ba",
+    "gorontalo|hujan lebat dan petir": "2234483810dd06b2ba288380d6e00f348c3cc439",
+    "jakarta|hujan lebat dan petir": "4951dc3cef9853ba9e5aa779f3937c126ce346a1",
+    "jambi|hujan lebat dan petir": "5d4e3c072cb15e74459d90d61d3b0ced6c6ad6a6",
+    "jawa barat|hujan lebat dan petir": "b56ad5d9ce6442e3dac1ca866191f6a7b263878f",
+    "jawa tengah|hujan lebat dan petir": "0d47a64f72fc743e4f3a2c908576f9efa2b8ec27",
+    "jawa timur|hujan lebat dan petir": "8f9f6ddd588eb23a9b8eba0c72296daccb01f899",
+    "kalimantan selatan|hujan lebat dan petir": "e453a95a8b2e4c66800831e1417ecaf0a692d07a",
+    "kep. bangka belitung|hujan lebat dan petir": "fa3d48270b3e9ff284617f3f7cc6142829def819",
+    "lampung|hujan lebat dan petir": "1fbb16cb4bee7d07e3247f63567eeba4228cec04",
+    "maluku utara|hujan lebat dan petir": "a82b086c45ade55141326218f73b94fa560ace7b",
+    "maluku|hujan lebat dan petir": "2d191c966f4569d0323ef6f9aea05c301825953e",
+    "riau|hujan lebat dan petir": "c9a25b1ba2e50adbc5936bf92e812ae37803bb96",
+    "sulawesi barat|hujan lebat dan petir": "2d6ba3adae01ec432ece4499e92f0e9be8154f82",
+    "sulawesi tengah|hujan lebat dan petir": "b294b809eb29ed3dba060280f065b41e43e3288a",
+    "sulawesi tenggara|hujan lebat dan petir": "c653f9e08eeab2160d5dd3a23617327fc8a53094",
+    "sulawesi utara|hujan lebat dan petir": "2f92d79230f016ac93ad250af271f5a58cdb7ceb",
+    "sumatera barat|hujan lebat dan petir": "f52c7b564a93685f69e2047ae6d128f99d513347",
+    "sumatera selatan|hujan lebat dan petir": "b23d30bb2c9c04bd8f8c5036023770df1cbc5a52",
+    "sumatera utara|hujan lebat dan petir": "dc8436eb4c8868f97990f085042461a7bc534512"
   },
-  "count": 7
+  "count": 22
 }

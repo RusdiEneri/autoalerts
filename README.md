@@ -2,8 +2,8 @@
 
 > Monitor real-time peringatan dini cuaca ekstrem dari **BMKG** (nowcast, 0–6 jam ke depan). Data diambil otomatis setiap 10 menit dari API publik BMKG, ditampilkan langsung di README ini, dan dikirim ke Discord webhook jika ada peringatan baru.
 
-🕒 **Update terakhir:** Jumat, 13 November 2026 pukul 10.36.30
-📊 **Peringatan aktif saat ini:** 7
+🕒 **Update terakhir:** Jumat, 13 November 2026 pukul 18.33.59
+📊 **Peringatan aktif saat ini:** 22
 📜 **Riwayat peringatan terakhir:** 20
 
 ---
@@ -12,13 +12,28 @@
 
 | Severity | Urgency | Headline & Wilayah | Durasi (WIB) |
 | --- | --- | --- | --- |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Aceh**<br>📍 Aceh<br>Hujan lebat disertai petir akan terjadi pada 13 November 2026, 10:32 WIB di sebagian wilayah Aceh, khususnya di DARUL AMAN, DARUL HIKMAH, DARUL IHSAN,...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CAH/2026/11/13/infografis.jpg) | Jum, 13 Nov, 10.32 – Jum, 13 Nov, 13.52 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sumatera Utara**<br>📍 Sumatera Utara<br>Hujan lebat disertai petir akan terjadi pada 13 November 2026, 10:15 WIB di sebagian wilayah Sumatera Utara, khususnya di BANDAR, BARUSJAHE, BERASTAGI...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CSU/2026/11/13/infografis.jpg) | Jum, 13 Nov, 10.15 – Jum, 13 Nov, 13.15 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kep. Riau**<br>📍 Kep. Riau<br>Hujan lebat disertai petir akan terjadi pada 13 November 2026, 10:00 WIB di sebagian wilayah Kep. Riau, khususnya di GUNUNG KIJANG, LINGGA TIMUR, LING...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CKR/2026/11/13/infografis.jpg) | Jum, 13 Nov, 10.00 – Jum, 13 Nov, 12.20 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kalimantan Tengah**<br>📍 Kalimantan Tengah<br>Hujan lebat disertai petir akan terjadi pada 13 November 2026, 09:45 WIB di sebagian wilayah Kalimantan Tengah, khususnya di JABIREN. Kondisi ini berp...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CKG/2026/11/13/infografis.jpg) | Jum, 13 Nov, 09.45 – Jum, 13 Nov, 11.30 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Lampung**<br>📍 Lampung<br>Hujan lebat disertai petir akan terjadi pada 13 November 2026, 09:20 WIB di sebagian wilayah Lampung, khususnya di BANDAR MATARAM, BENGKUNAT BELIMBING...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CLG/2026/11/13/infografis.jpg) | Jum, 13 Nov, 09.20 – Jum, 13 Nov, 12.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Jambi**<br>📍 Jambi<br>Hujan lebat disertai petir akan terjadi pada 13 November 2026, 08:32 WIB di sebagian wilayah Jambi, khususnya di BATANG MERANGIN, DANAU KERINCI, LEMBA...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CJI/2026/11/13/infografis.jpg) | Jum, 13 Nov, 08.32 – Jum, 13 Nov, 11.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sulawesi Selatan**<br>📍 Sulawesi Selatan<br>Hujan lebat disertai petir akan terjadi pada 13 November 2026, 09:30 WITA di sebagian wilayah Sulawesi Selatan, khususnya di BULUKUMPA, RILAUALE, SINJ...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CSL/2026/11/13/infografis.jpg) | Jum, 13 Nov, 08.30 – Jum, 13 Nov, 10.30 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Jambi**<br>📍 Jambi<br>Hujan lebat disertai petir akan terjadi pada 13 November 2026, 18:30 WIB di sebagian wilayah Jambi, khususnya di AIR HITAM, BAHAR SELATAN, BAJUBANG, M...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CJI/2026/11/13/infografis.jpg) | Jum, 13 Nov, 18.30 – Jum, 13 Nov, 20.30 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Banten**<br>📍 Banten<br>Hujan lebat disertai petir akan terjadi pada 13 November 2026, 18:10 WIB di sebagian wilayah Banten, khususnya di CARITA, CIBADAK, CIMARGA, CIOMAS, CI...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CBT/2026/11/13/infografis.jpg) | Jum, 13 Nov, 18.10 – Jum, 13 Nov, 21.00 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Jawa Barat**<br>📍 Jawa Barat<br>Hujan lebat disertai petir akan terjadi pada 13 November 2026, 18:00 WIB di sebagian wilayah Jawa Barat, khususnya di ARJASARI, BOJONGPICUNG, CIATER, ...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CJB/2026/11/13/infografis.jpg) | Jum, 13 Nov, 18.00 – Jum, 13 Nov, 21.16 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Jawa Timur**<br>📍 Jawa Timur<br>Hujan lebat disertai petir akan terjadi pada 13 November 2026, 18:00 WIB di sebagian wilayah Jawa Timur, khususnya di BAURENO, BLULUK, GRABAGAN, KABUH...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CJT/2026/11/13/infografis.jpg) | Jum, 13 Nov, 18.00 – Jum, 13 Nov, 21.00 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kep. Bangka Belitung**<br>📍 Kep. Bangka Belitung<br>Hujan lebat disertai petir akan terjadi pada 13 November 2026, 17:40 WIB di sebagian wilayah Kep. Bangka Belitung, khususnya di SIMPANG KATIS. Kondisi...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CBB/2026/11/13/infografis.jpg) | Jum, 13 Nov, 17.40 – Jum, 13 Nov, 19.30 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Jawa Tengah**<br>📍 Jawa Tengah<br>Hujan lebat disertai petir akan terjadi pada 13 November 2026, 17:30 WIB di sebagian wilayah Jawa Tengah, khususnya di BANJAREJO, BAWANG, GABUS, JATI,...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CJH/2026/11/13/infografis.jpg) | Jum, 13 Nov, 17.30 – Jum, 13 Nov, 19.00 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Maluku Utara**<br>📍 Maluku Utara<br>Hujan lebat disertai petir akan terjadi pada 13 November 2026, 19:30 WIT di sebagian wilayah Maluku Utara, khususnya di IBU SELATAN, KAO BARAT, KAO TE...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CMU/2026/11/13/infografis.jpg) | Jum, 13 Nov, 17.30 – Jum, 13 Nov, 20.30 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sumatera Barat**<br>📍 Sumatera Barat<br>Hujan lebat disertai petir akan terjadi pada 13 November 2026, 17:25 WIB di sebagian wilayah Sumatera Barat, khususnya di AMPEK ANGKEK, AMPEK NAGARI, ...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CSB/2026/11/13/infografis.jpg) | Jum, 13 Nov, 17.25 – Jum, 13 Nov, 19.25 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Aceh**<br>📍 Aceh<br>Hujan lebat disertai petir akan terjadi pada 13 November 2026, 17:18 WIB di sebagian wilayah Aceh, khususnya di BANDAR BARU, BANDAR DUA, BEBESEN, BIES...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CAH/2026/11/13/infografis.jpg) | Jum, 13 Nov, 17.18 – Jum, 13 Nov, 20.39 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Lampung**<br>📍 Lampung<br>Hujan lebat disertai petir akan terjadi pada 13 November 2026, 17:10 WIB di sebagian wilayah Lampung, khususnya di ABUNG BARAT, ABUNG PEKURUN, ABUNG T...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CLG/2026/11/13/infografis.jpg) | Jum, 13 Nov, 17.10 – Jum, 13 Nov, 19.30 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sulawesi Barat**<br>📍 Sulawesi Barat<br>Hujan lebat disertai petir akan terjadi pada 13 November 2026, 18:30 WITA di sebagian wilayah Sulawesi Barat, khususnya di KALUKKU, KAROSSA, PEDONGGA,...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CSK/2026/11/13/infografis.jpg) | Jum, 13 Nov, 17.30 – Jum, 13 Nov, 19.00 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sumatera Selatan**<br>📍 Sumatera Selatan<br>Hujan lebat disertai petir akan terjadi pada 13 November 2026, 17:30 WIB di sebagian wilayah Sumatera Selatan, khususnya di BATANG HARI LEKO, BAYUNG L...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CSS/2026/11/13/infografis.jpg) | Jum, 13 Nov, 17.30 – Jum, 13 Nov, 19.30 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Jakarta**<br>📍 Jakarta<br>Hujan lebat disertai petir akan terjadi pada 13 November 2026, 17:05 WIB di sebagian wilayah Jakarta, khususnya di CIAMPEA, CIBUNGBULANG, CIGUDEG, CIO...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CJK/2026/11/13/infografis.jpg) | Jum, 13 Nov, 17.05 – Jum, 13 Nov, 19.00 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Gorontalo**<br>📍 Gorontalo<br>Hujan lebat disertai petir akan terjadi pada 13 November 2026, 18:00 WITA di sebagian wilayah Gorontalo, khususnya di BULANGO ULU, POPAYATO TIMUR, TAL...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CGT/2026/11/13/infografis.jpg) | Jum, 13 Nov, 17.00 – Jum, 13 Nov, 20.00 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sumatera Utara**<br>📍 Sumatera Utara<br>Hujan lebat disertai petir akan terjadi pada 13 November 2026, 17:00 WIB di sebagian wilayah Sumatera Utara, khususnya di ANDAM DEWI, BALIGE, BARUS, B...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CSU/2026/11/13/infografis.jpg) | Jum, 13 Nov, 17.00 – Jum, 13 Nov, 20.00 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sulawesi Tengah**<br>📍 Sulawesi Tengah<br>Hujan lebat disertai petir akan terjadi pada 13 November 2026, 17:30 WITA di sebagian wilayah Sulawesi Tengah, khususnya di BATUDAKA, DAKO PEMEAN, GAL...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CSG/2026/11/13/infografis.jpg) | Jum, 13 Nov, 16.30 – Jum, 13 Nov, 19.30 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Maluku**<br>📍 Maluku<br>Hujan lebat disertai petir akan terjadi pada 13 November 2026, 18:35 WIT di sebagian wilayah Maluku, khususnya di AMAHAI, ELPAPUTIH, KEI BESAR, KEI BE...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CML/2026/11/13/infografis.jpg) | Jum, 13 Nov, 16.35 – Jum, 13 Nov, 19.35 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sulawesi Utara**<br>📍 Sulawesi Utara<br>Hujan lebat disertai petir akan terjadi pada 13 November 2026, 17:25 WITA di sebagian wilayah Sulawesi Utara, khususnya di BOLAANG, TOMBARIRI. Kondisi...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CSR/2026/11/13/infografis.jpg) | Jum, 13 Nov, 16.25 – Jum, 13 Nov, 18.30 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Bengkulu**<br>📍 Bengkulu<br>Hujan lebat disertai petir akan terjadi pada 13 November 2026, 16:00 WIB di sebagian wilayah Bengkulu, khususnya di AIR NAPAL, AIR NIPIS, AIR RAMI, BA...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CBK/2026/11/13/infografis.jpg) | Jum, 13 Nov, 16.00 – Jum, 13 Nov, 18.30 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kalimantan Selatan**<br>📍 Kalimantan Selatan<br>Hujan lebat disertai petir akan terjadi pada 13 November 2026, 16:52 WITA di sebagian wilayah Kalimantan Selatan, khususnya di ANGKINANG, ASTAMBUL, AW...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CKS/2026/11/13/infografis.jpg) | Jum, 13 Nov, 15.52 – Jum, 13 Nov, 19.00 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sulawesi Tenggara**<br>📍 Sulawesi Tenggara<br>Hujan lebat disertai petir akan terjadi pada 13 November 2026, 17:10 WITA di sebagian wilayah Sulawesi Tenggara, khususnya di ANGGABERI, ANGGOTOA, BAI...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CST/2026/11/13/infografis.jpg) | Jum, 13 Nov, 16.10 – Jum, 13 Nov, 18.10 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Riau**<br>📍 Riau<br>Hujan lebat disertai petir akan terjadi pada 13 November 2026, 15:30 WIB di sebagian wilayah Riau, khususnya di BATANG GANGSAL, BATANG TUAKA, CONCONG,...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CRU/2026/11/13/infografis.jpg) | Jum, 13 Nov, 15.30 – Jum, 13 Nov, 19.00 |
 
 ---
 
@@ -26,26 +41,26 @@
 
 | Severity | Headline | Provinsi | Periode Berlaku | Terdeteksi |
 | --- | --- | --- | --- | --- |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Lampung | Lampung | Jum, 13 Nov, 09.20 – Jum, 13 Nov, 12.00 | Jum, 13 Nov, 10.36 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Tengah | Kalimantan Tengah | Jum, 13 Nov, 09.45 – Jum, 13 Nov, 11.30 | Jum, 13 Nov, 10.36 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Utara | Sumatera Utara | Jum, 13 Nov, 10.15 – Jum, 13 Nov, 13.15 | Jum, 13 Nov, 01.08 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Aceh | Aceh | Jum, 13 Nov, 10.32 – Jum, 13 Nov, 13.52 | Jum, 13 Nov, 10.36 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Sulawesi Selatan | Sulawesi Selatan | Jum, 13 Nov, 08.30 – Jum, 13 Nov, 10.30 | Jum, 13 Nov, 10.36 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Jambi | Jambi | Jum, 13 Nov, 08.32 – Jum, 13 Nov, 11.00 | Jum, 13 Nov, 10.36 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Kep. Riau | Kep. Riau | Jum, 13 Nov, 10.00 – Jum, 13 Nov, 12.20 | Jum, 13 Nov, 10.36 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Papua Pegunungan | Papua Pegunungan | Jum, 13 Nov, 03.05 – Jum, 13 Nov, 07.00 | Jum, 13 Nov, 01.08 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Papua Selatan | Papua Selatan | Jum, 13 Nov, 04.20 – Jum, 13 Nov, 07.15 | Jum, 13 Nov, 01.08 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Riau | Riau | Jum, 13 Nov, 04.40 – Jum, 13 Nov, 07.00 | Jum, 13 Nov, 01.08 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Aceh | Aceh | Jum, 13 Nov, 04.45 – Jum, 13 Nov, 07.30 | Jum, 13 Nov, 01.08 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Barat | Sumatera Barat | Jum, 13 Nov, 05.30 – Jum, 13 Nov, 07.30 | Jum, 13 Nov, 01.08 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Tengah | Kalimantan Tengah | Jum, 13 Nov, 05.35 – Jum, 13 Nov, 07.30 | Jum, 13 Nov, 06.38 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Lampung | Lampung | Jum, 13 Nov, 04.15 – Jum, 13 Nov, 07.00 | Jum, 13 Nov, 06.38 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Jawa Timur | Jawa Timur | Jum, 13 Nov, 04.50 – Jum, 13 Nov, 07.50 | Jum, 13 Nov, 06.38 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Selatan | Kalimantan Selatan | Jum, 13 Nov, 04.50 – Jum, 13 Nov, 06.30 | Jum, 13 Nov, 06.38 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Timur | Kalimantan Timur | Jum, 13 Nov, 05.25 – Jum, 13 Nov, 08.00 | Jum, 13 Nov, 06.38 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Maluku | Maluku | Jum, 13 Nov, 05.45 – Jum, 13 Nov, 08.45 | Jum, 13 Nov, 06.38 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Sulawesi Tengah | Sulawesi Tengah | Kam, 12 Nov, 22.45 – Jum, 13 Nov, 02.30 | Jum, 13 Nov, 01.08 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Sulawesi Selatan | Sulawesi Selatan | Kam, 12 Nov, 23.20 – Jum, 13 Nov, 02.20 | Jum, 13 Nov, 01.08 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Utara | Sumatera Utara | Jum, 13 Nov, 17.00 – Jum, 13 Nov, 20.00 | Jum, 13 Nov, 18.33 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Lampung | Lampung | Jum, 13 Nov, 17.10 – Jum, 13 Nov, 19.30 | Jum, 13 Nov, 18.33 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Aceh | Aceh | Jum, 13 Nov, 17.18 – Jum, 13 Nov, 20.39 | Jum, 13 Nov, 18.33 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Jambi | Jambi | Jum, 13 Nov, 18.30 – Jum, 13 Nov, 20.30 | Jum, 13 Nov, 18.33 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Riau | Riau | Jum, 13 Nov, 15.30 – Jum, 13 Nov, 19.00 | Jum, 13 Nov, 18.33 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Sulawesi Tenggara | Sulawesi Tenggara | Jum, 13 Nov, 16.10 – Jum, 13 Nov, 18.10 | Jum, 13 Nov, 18.33 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Selatan | Kalimantan Selatan | Jum, 13 Nov, 15.52 – Jum, 13 Nov, 19.00 | Jum, 13 Nov, 18.33 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Bengkulu | Bengkulu | Jum, 13 Nov, 16.00 – Jum, 13 Nov, 18.30 | Jum, 13 Nov, 18.33 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Sulawesi Utara | Sulawesi Utara | Jum, 13 Nov, 16.25 – Jum, 13 Nov, 18.30 | Jum, 13 Nov, 18.33 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Maluku | Maluku | Jum, 13 Nov, 16.35 – Jum, 13 Nov, 19.35 | Jum, 13 Nov, 18.33 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Sulawesi Tengah | Sulawesi Tengah | Jum, 13 Nov, 16.30 – Jum, 13 Nov, 19.30 | Jum, 13 Nov, 18.33 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Gorontalo | Gorontalo | Jum, 13 Nov, 17.00 – Jum, 13 Nov, 20.00 | Jum, 13 Nov, 18.33 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Jakarta | Jakarta | Jum, 13 Nov, 17.05 – Jum, 13 Nov, 19.00 | Jum, 13 Nov, 18.33 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Selatan | Sumatera Selatan | Jum, 13 Nov, 17.30 – Jum, 13 Nov, 19.30 | Jum, 13 Nov, 18.33 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Sulawesi Barat | Sulawesi Barat | Jum, 13 Nov, 17.30 – Jum, 13 Nov, 19.00 | Jum, 13 Nov, 18.33 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Barat | Sumatera Barat | Jum, 13 Nov, 17.25 – Jum, 13 Nov, 19.25 | Jum, 13 Nov, 18.33 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Maluku Utara | Maluku Utara | Jum, 13 Nov, 17.30 – Jum, 13 Nov, 20.30 | Jum, 13 Nov, 18.33 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Jawa Tengah | Jawa Tengah | Jum, 13 Nov, 17.30 – Jum, 13 Nov, 19.00 | Jum, 13 Nov, 18.33 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Kep. Bangka Belitung | Kep. Bangka Belitung | Jum, 13 Nov, 17.40 – Jum, 13 Nov, 19.30 | Jum, 13 Nov, 18.33 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Jawa Timur | Jawa Timur | Jum, 13 Nov, 18.00 – Jum, 13 Nov, 21.00 | Jum, 13 Nov, 18.33 |
 
 ---
 
