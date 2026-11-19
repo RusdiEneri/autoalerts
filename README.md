@@ -2,8 +2,8 @@
 
 > Monitor real-time peringatan dini cuaca ekstrem dari **BMKG** (nowcast, 0–6 jam ke depan). Data diambil otomatis setiap 10 menit dari API publik BMKG, ditampilkan langsung di README ini, dan dikirim ke Discord webhook jika ada peringatan baru.
 
-🕒 **Update terakhir:** Kamis, 19 November 2026 pukul 01.14.27
-📊 **Peringatan aktif saat ini:** 16
+🕒 **Update terakhir:** Kamis, 19 November 2026 pukul 07.31.18
+📊 **Peringatan aktif saat ini:** 10
 📜 **Riwayat peringatan terakhir:** 20
 
 ---
@@ -12,22 +12,16 @@
 
 | Severity | Urgency | Headline & Wilayah | Durasi (WIB) |
 | --- | --- | --- | --- |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Lampung**<br>📍 Lampung<br>Hujan lebat disertai petir akan terjadi pada 19 November 2026, 01:00 WIB di sebagian wilayah Lampung, khususnya di BANJAR AGUNG, BANJAR MARGO, BATU PU...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CLG/2026/11/19/infografis.jpg) | Kam, 19 Nov, 01.00 – Kam, 19 Nov, 04.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sumatera Barat**<br>📍 Sumatera Barat<br>Hujan lebat disertai petir akan terjadi pada 19 November 2026, 00:57 WIB di sebagian wilayah Sumatera Barat, khususnya di 2 X 11 ENAM LINGKUANG, 2 X 1...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CSB/2026/11/19/infografis.jpg) | Kam, 19 Nov, 00.57 – Kam, 19 Nov, 03.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Riau**<br>📍 Riau<br>Hujan lebat disertai petir akan terjadi pada 19 November 2026, 00:30 WIB di sebagian wilayah Riau, khususnya di BAGAN SINEMBAH, BANDAR SEI KIJANG, BAN...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CRU/2026/11/19/infografis.jpg) | Kam, 19 Nov, 00.30 – Kam, 19 Nov, 03.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kalimantan Tengah**<br>📍 Kalimantan Tengah<br>Hujan lebat disertai petir akan terjadi pada 19 November 2026, 00:20 WIB di sebagian wilayah Kalimantan Tengah, khususnya di DUSUN SELATAN, DUSUN UTAR...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CKG/2026/11/19/infografis.jpg) | Kam, 19 Nov, 00.20 – Kam, 19 Nov, 03.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sulawesi Utara**<br>📍 Sulawesi Utara<br>Hujan lebat disertai petir akan terjadi pada 19 November 2026, 01:12 WITA di sebagian wilayah Sulawesi Utara, khususnya di KEPULAUAN MARORE. Kondisi i...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CSR/2026/11/19/infografis.jpg) | Kam, 19 Nov, 00.12 – Kam, 19 Nov, 03.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kalimantan Timur**<br>📍 Kalimantan Timur<br>Hujan lebat disertai petir akan terjadi pada 19 November 2026, 01:15 WITA di sebagian wilayah Kalimantan Timur, khususnya di BATU ENGAU, BATU SOPANG, ...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CKT/2026/11/19/infografis.jpg) | Kam, 19 Nov, 00.15 – Kam, 19 Nov, 02.20 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Jawa Tengah**<br>📍 Jawa Tengah<br>Hujan lebat disertai petir akan terjadi pada 19 November 2026, 00:10 WIB di sebagian wilayah Jawa Tengah, khususnya di BANJAREJO, BLORA, DONOROJO, JEP...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CJH/2026/11/19/infografis.jpg) | Kam, 19 Nov, 00.10 – Kam, 19 Nov, 03.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kalimantan Selatan**<br>📍 Kalimantan Selatan<br>Hujan lebat disertai petir akan terjadi pada 19 November 2026, 01:10 WITA di sebagian wilayah Kalimantan Selatan, khususnya di HALONG, JARO, MUARA UYA...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CKS/2026/11/19/infografis.jpg) | Kam, 19 Nov, 00.10 – Kam, 19 Nov, 03.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sumatera Selatan**<br>📍 Sumatera Selatan<br>Hujan lebat disertai petir akan terjadi pada 19 November 2026, 00:30 WIB di sebagian wilayah Sumatera Selatan, khususnya di BANYUASIN II, BATANG HARI ...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CSS/2026/11/19/infografis.jpg) | Kam, 19 Nov, 00.30 – Kam, 19 Nov, 03.30 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Jambi**<br>📍 Jambi<br>Hujan lebat disertai petir akan terjadi pada 19 November 2026, 00:30 WIB di sebagian wilayah Jambi, khususnya di BAHAR SELATAN, BAHAR UTARA, BAJUBANG,...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CJI/2026/11/18/infografis.jpg) | Kam, 19 Nov, 00.30 – Kam, 19 Nov, 02.30 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sulawesi Tengah**<br>📍 Sulawesi Tengah<br>Hujan lebat disertai petir akan terjadi pada 19 November 2026, 01:05 WITA di sebagian wilayah Sulawesi Tengah, khususnya di PARIGI SELATAN, PETASIA, P...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CSG/2026/11/19/infografis.jpg) | Kam, 19 Nov, 00.05 – Kam, 19 Nov, 03.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kep. Riau**<br>📍 Kep. Riau<br>Hujan lebat disertai petir akan terjadi pada 19 November 2026, 00:00 WIB di sebagian wilayah Kep. Riau, khususnya di SIANTAN, SIANTAN SELATAN, SIANTAN...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CKR/2026/11/18/infografis.jpg) | Kam, 19 Nov, 00.00 – Kam, 19 Nov, 01.30 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Papua Tengah**<br>📍 Papua Tengah<br>Hujan lebat disertai petir akan terjadi pada 19 November 2026, 01:50 WIT di sebagian wilayah Papua Tengah, khususnya di AGIMUGA, AMAR, KUALA KENCANA, ...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CPT/2026/11/19/infografis.jpg) | Rab, 18 Nov, 23.50 – Kam, 19 Nov, 02.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sumatera Utara**<br>📍 Sumatera Utara<br>Hujan lebat disertai petir akan terjadi pada 18 November 2026, 23:30 WIB di sebagian wilayah Sumatera Utara, khususnya di ADIAN KOTING, AJIBATA, ANDAM...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CSU/2026/11/18/infografis.jpg) | Rab, 18 Nov, 23.30 – Kam, 19 Nov, 02.30 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Bengkulu**<br>📍 Bengkulu<br>Hujan lebat disertai petir akan terjadi pada 18 November 2026, 22:30 WIB di sebagian wilayah Bengkulu, khususnya di GADING CEMPAKA, KAMPUNG MELAYU, KA...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CBK/2026/11/18/infografis.jpg) | Rab, 18 Nov, 22.30 – Kam, 19 Nov, 02.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Aceh**<br>📍 Aceh<br>Hujan lebat disertai petir akan terjadi pada 18 November 2026, 22:14 WIB di sebagian wilayah Aceh, khususnya di BABUL RAHMAH, BAKONGAN, BAKONGAN TIMUR...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CAH/2026/11/18/infografis.jpg) | Rab, 18 Nov, 22.14 – Kam, 19 Nov, 01.34 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Jambi**<br>📍 Jambi<br>Hujan lebat disertai petir akan terjadi pada 19 November 2026, 07:10 WIB di sebagian wilayah Jambi, khususnya di AIR HANGAT, AIR HANGAT TIMUR, BAJUBAN...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CJI/2026/11/19/infografis.jpg) | Kam, 19 Nov, 07.10 – Kam, 19 Nov, 09.10 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kalimantan Timur**<br>📍 Kalimantan Timur<br>Hujan lebat disertai petir akan terjadi pada 19 November 2026, 07:50 WITA di sebagian wilayah Kalimantan Timur, khususnya di ANGGANA, BALIKPAPAN KOTA,...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CKT/2026/11/19/infografis.jpg) | Kam, 19 Nov, 06.50 – Kam, 19 Nov, 07.50 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sulawesi Utara**<br>📍 Sulawesi Utara<br>Hujan lebat disertai petir akan terjadi pada 19 November 2026, 07:40 WITA di sebagian wilayah Sulawesi Utara, khususnya di SIAU BARAT UTARA. Kondisi i...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CSR/2026/11/19/infografis.jpg) | Kam, 19 Nov, 06.40 – Kam, 19 Nov, 08.00 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sumatera Selatan**<br>📍 Sumatera Selatan<br>Hujan lebat disertai petir akan terjadi pada 19 November 2026, 07:00 WIB di sebagian wilayah Sumatera Selatan, khususnya di AIR KUMBANG, AIR SUGIHAN, ...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CSS/2026/11/19/infografis.jpg) | Kam, 19 Nov, 07.00 – Kam, 19 Nov, 08.30 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kalimantan Tengah**<br>📍 Kalimantan Tengah<br>Hujan lebat disertai petir akan terjadi pada 19 November 2026, 06:30 WIB di sebagian wilayah Kalimantan Tengah, khususnya di ANTANG KALANG, BUKIT RAYA...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CKG/2026/11/19/infografis.jpg) | Kam, 19 Nov, 06.30 – Kam, 19 Nov, 08.30 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kep. Bangka Belitung**<br>📍 Kep. Bangka Belitung<br>Hujan lebat disertai petir akan terjadi pada 19 November 2026, 06:30 WIB di sebagian wilayah Kep. Bangka Belitung, khususnya di SIMPANG RIMBA. Kondisi...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CBB/2026/11/19/infografis.jpg) | Kam, 19 Nov, 06.30 – Kam, 19 Nov, 08.30 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Papua**<br>📍 Papua<br>Hujan lebat disertai petir akan terjadi pada 19 November 2026, 08:30 WIT di sebagian wilayah Papua, khususnya di AIMANDO PADAIDO, ANGKAISERA, ANOTAURE...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CPU/2026/11/19/infografis.jpg) | Kam, 19 Nov, 06.30 – Kam, 19 Nov, 08.00 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Aceh**<br>📍 Aceh<br>Hujan lebat disertai petir akan terjadi pada 19 November 2026, 05:15 WIB di sebagian wilayah Aceh, khususnya di BANDA MULIA, BENDAHARA, DANAU PARIS, G...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CAH/2026/11/19/infografis.jpg) | Kam, 19 Nov, 05.15 – Kam, 19 Nov, 08.35 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Riau**<br>📍 Riau<br>Hujan lebat disertai petir akan terjadi pada 19 November 2026, 05:00 WIB di sebagian wilayah Riau, khususnya di BANDAR PETALANGAN, BANDAR SEI KIJANG, ...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CRU/2026/11/19/infografis.jpg) | Kam, 19 Nov, 05.00 – Kam, 19 Nov, 08.00 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sumatera Utara**<br>📍 Sumatera Utara<br>Hujan lebat disertai petir akan terjadi pada 19 November 2026, 05:20 WIB di sebagian wilayah Sumatera Utara, khususnya di ADIAN KOTING, AEK KUO, AEK N...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CSU/2026/11/19/infografis.jpg) | Kam, 19 Nov, 05.20 – Kam, 19 Nov, 08.20 |
 
 ---
 
@@ -35,6 +29,16 @@
 
 | Severity | Headline | Provinsi | Periode Berlaku | Terdeteksi |
 | --- | --- | --- | --- | --- |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Utara | Sumatera Utara | Kam, 19 Nov, 05.20 – Kam, 19 Nov, 08.20 | Kam, 19 Nov, 07.31 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Riau | Riau | Kam, 19 Nov, 05.00 – Kam, 19 Nov, 08.00 | Kam, 19 Nov, 01.14 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Aceh | Aceh | Kam, 19 Nov, 05.15 – Kam, 19 Nov, 08.35 | Kam, 19 Nov, 07.31 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Tengah | Kalimantan Tengah | Kam, 19 Nov, 06.30 – Kam, 19 Nov, 08.30 | Kam, 19 Nov, 07.31 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Selatan | Sumatera Selatan | Kam, 19 Nov, 07.00 – Kam, 19 Nov, 08.30 | Kam, 19 Nov, 07.31 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Sulawesi Utara | Sulawesi Utara | Kam, 19 Nov, 06.40 – Kam, 19 Nov, 08.00 | Kam, 19 Nov, 07.31 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Timur | Kalimantan Timur | Kam, 19 Nov, 06.50 – Kam, 19 Nov, 07.50 | Kam, 19 Nov, 07.31 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Jambi | Jambi | Kam, 19 Nov, 07.10 – Kam, 19 Nov, 09.10 | Kam, 19 Nov, 07.31 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Papua | Papua | Kam, 19 Nov, 06.30 – Kam, 19 Nov, 08.00 | Kam, 19 Nov, 07.31 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Kep. Bangka Belitung | Kep. Bangka Belitung | Kam, 19 Nov, 06.30 – Kam, 19 Nov, 08.30 | Kam, 19 Nov, 07.31 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Aceh | Aceh | Rab, 18 Nov, 22.14 – Kam, 19 Nov, 01.34 | Kam, 19 Nov, 01.14 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Bengkulu | Bengkulu | Rab, 18 Nov, 22.30 – Kam, 19 Nov, 02.00 | Kam, 19 Nov, 01.14 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Utara | Sumatera Utara | Rab, 18 Nov, 23.30 – Kam, 19 Nov, 02.30 | Kam, 19 Nov, 01.14 |
@@ -45,16 +49,6 @@
 | 🟡 Moderate | Hujan Lebat disertai Petir di Jawa Tengah | Jawa Tengah | Kam, 19 Nov, 00.10 – Kam, 19 Nov, 03.00 | Kam, 19 Nov, 01.14 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Sulawesi Utara | Sulawesi Utara | Kam, 19 Nov, 00.12 – Kam, 19 Nov, 03.00 | Kam, 19 Nov, 01.14 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Tengah | Kalimantan Tengah | Kam, 19 Nov, 00.20 – Kam, 19 Nov, 03.00 | Kam, 19 Nov, 01.14 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Riau | Riau | Kam, 19 Nov, 00.30 – Kam, 19 Nov, 03.00 | Kam, 19 Nov, 01.14 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Barat | Sumatera Barat | Kam, 19 Nov, 00.57 – Kam, 19 Nov, 03.00 | Kam, 19 Nov, 01.14 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Lampung | Lampung | Kam, 19 Nov, 01.00 – Kam, 19 Nov, 04.00 | Kam, 19 Nov, 01.14 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Papua Tengah | Papua Tengah | Rab, 18 Nov, 23.50 – Kam, 19 Nov, 02.00 | Kam, 19 Nov, 01.14 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Kep. Riau | Kep. Riau | Kam, 19 Nov, 00.00 – Kam, 19 Nov, 01.30 | Kam, 19 Nov, 01.14 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Timur | Kalimantan Timur | Kam, 19 Nov, 00.15 – Kam, 19 Nov, 02.20 | Kam, 19 Nov, 01.14 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Nusa Tenggara Timur | Nusa Tenggara Timur | Rab, 18 Nov, 14.20 – Rab, 18 Nov, 17.30 | Rab, 18 Nov, 16.18 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Selatan | Kalimantan Selatan | Rab, 18 Nov, 14.25 – Rab, 18 Nov, 16.30 | Rab, 18 Nov, 16.18 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Barat | Sumatera Barat | Rab, 18 Nov, 15.00 – Rab, 18 Nov, 17.00 | Rab, 18 Nov, 16.18 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Tengah | Kalimantan Tengah | Rab, 18 Nov, 15.20 – Rab, 18 Nov, 17.30 | Rab, 18 Nov, 16.18 |
 
 ---
 
