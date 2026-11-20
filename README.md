@@ -2,8 +2,8 @@
 
 > Monitor real-time peringatan dini cuaca ekstrem dari **BMKG** (nowcast, 0–6 jam ke depan). Data diambil otomatis setiap 10 menit dari API publik BMKG, ditampilkan langsung di README ini, dan dikirim ke Discord webhook jika ada peringatan baru.
 
-🕒 **Update terakhir:** Jumat, 20 November 2026 pukul 06.38.33
-📊 **Peringatan aktif saat ini:** 9
+🕒 **Update terakhir:** Jumat, 20 November 2026 pukul 11.19.53
+📊 **Peringatan aktif saat ini:** 10
 📜 **Riwayat peringatan terakhir:** 20
 
 ---
@@ -12,15 +12,16 @@
 
 | Severity | Urgency | Headline & Wilayah | Durasi (WIB) |
 | --- | --- | --- | --- |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sulawesi Utara**<br>📍 Sulawesi Utara<br>Hujan lebat disertai petir akan terjadi pada 20 November 2026, 07:25 WITA di sebagian wilayah Sulawesi Utara, khususnya di MIANGAS. Kondisi ini berpot...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CSR/2026/11/20/infografis.jpg) | Jum, 20 Nov, 06.25 – Jum, 20 Nov, 09.15 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kep. Bangka Belitung**<br>📍 Kep. Bangka Belitung<br>Hujan lebat disertai petir akan terjadi pada 20 November 2026, 04:50 WIB di sebagian wilayah Kep. Bangka Belitung, khususnya di TOBOALI. Kondisi ini b...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CBB/2026/11/20/infografis.jpg) | Jum, 20 Nov, 04.50 – Jum, 20 Nov, 06.50 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sumatera Utara**<br>📍 Sumatera Utara<br>Hujan lebat disertai petir akan terjadi pada 20 November 2026, 05:35 WIB di sebagian wilayah Sumatera Utara, khususnya di BAHOROK, MARDINGDING. Kondis...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CSU/2026/11/20/infografis.jpg) | Jum, 20 Nov, 05.35 – Jum, 20 Nov, 08.05 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kep. Riau**<br>📍 Kep. Riau<br>Hujan lebat disertai petir akan terjadi pada 20 November 2026, 04:40 WIB di sebagian wilayah Kep. Riau, khususnya di BUNGURAN BARAT, BUNGURAN BATUBI, ...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CKR/2026/11/20/infografis.jpg) | Jum, 20 Nov, 04.40 – Jum, 20 Nov, 07.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Aceh**<br>📍 Aceh<br>Hujan lebat disertai petir akan terjadi pada 20 November 2026, 04:20 WIB di sebagian wilayah Aceh, khususnya di DARUL HASANAH, KUALA BARU, PINING, PUT...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CAH/2026/11/20/infografis.jpg) | Jum, 20 Nov, 04.20 – Jum, 20 Nov, 07.41 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Nusa Tenggara Barat**<br>📍 Nusa Tenggara Barat<br>Hujan lebat disertai petir akan terjadi pada 20 November 2026, 05:20 WITA di sebagian wilayah Nusa Tenggara Barat, khususnya di BATU LANTEH, JEREWEH, ...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CNB/2026/11/20/infografis.jpg) | Jum, 20 Nov, 04.20 – Jum, 20 Nov, 06.30 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kalimantan Utara**<br>📍 Kalimantan Utara<br>Hujan lebat disertai petir akan terjadi pada 20 November 2026, 05:10 WITA di sebagian wilayah Kalimantan Utara, khususnya di BAHAU HULU, BUNYU, NUNUKA...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CKU/2026/11/20/infografis.jpg) | Jum, 20 Nov, 04.10 – Jum, 20 Nov, 07.00 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kalimantan Barat**<br>📍 Kalimantan Barat<br>Hujan lebat disertai petir akan terjadi pada 20 November 2026, 04:30 WIB di sebagian wilayah Kalimantan Barat, khususnya di AMBALAU, BADAU, BATANG LUP...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CKB/2026/11/20/infografis.jpg) | Jum, 20 Nov, 04.30 – Jum, 20 Nov, 06.30 |
-| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kalimantan Tengah**<br>📍 Kalimantan Tengah<br>Hujan lebat disertai petir akan terjadi pada 20 November 2026, 03:10 WIB di sebagian wilayah Kalimantan Tengah, khususnya di BATU AMPAR, CEMPAGA, MAND...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CKG/2026/11/20/infografis.jpg) | Jum, 20 Nov, 03.10 – Jum, 20 Nov, 06.10 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kep. Riau**<br>📍 Kep. Riau<br>Hujan lebat disertai petir akan terjadi pada 20 November 2026, 11:10 WIB di sebagian wilayah Kep. Riau, khususnya di BUNGURAN BARAT, BUNGURAN BATUBI, ...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CKR/2026/11/20/infografis.jpg) | Jum, 20 Nov, 11.10 – Jum, 20 Nov, 13.10 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Nusa Tenggara Barat**<br>📍 Nusa Tenggara Barat<br>Hujan lebat disertai petir akan terjadi pada 20 November 2026, 11:50 WITA di sebagian wilayah Nusa Tenggara Barat, khususnya di AIKMEL, ALAS BARAT, AM...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CNB/2026/11/20/infografis.jpg) | Jum, 20 Nov, 10.50 – Jum, 20 Nov, 12.50 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kalimantan Tengah**<br>📍 Kalimantan Tengah<br>Hujan lebat disertai petir akan terjadi pada 20 November 2026, 10:50 WIB di sebagian wilayah Kalimantan Tengah, khususnya di MANTANGAI, SEPANG SIMIN. ...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CKG/2026/11/20/infografis.jpg) | Jum, 20 Nov, 10.50 – Jum, 20 Nov, 13.00 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Papua**<br>📍 Papua<br>Hujan lebat disertai petir akan terjadi pada 20 November 2026, 12:38 WIT di sebagian wilayah Papua, khususnya di ARSO, BIAK BARAT, DEMTA, GRESI SELATA...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CPU/2026/11/20/infografis.jpg) | Jum, 20 Nov, 10.38 – Jum, 20 Nov, 11.38 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kalimantan Selatan**<br>📍 Kalimantan Selatan<br>Hujan lebat disertai petir akan terjadi pada 20 November 2026, 11:42 WITA di sebagian wilayah Kalimantan Selatan, khususnya di ALALAK, ARANIO, BAJUIN,...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CKS/2026/11/20/infografis.jpg) | Jum, 20 Nov, 10.42 – Jum, 20 Nov, 12.30 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Jawa Timur**<br>📍 Jawa Timur<br>Hujan lebat disertai petir akan terjadi pada 20 November 2026, 10:50 WIB di sebagian wilayah Jawa Timur, khususnya di BANYUATES, BRONDONG, GONDANGLEGI...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CJT/2026/11/20/infografis.jpg) | Jum, 20 Nov, 10.50 – Jum, 20 Nov, 13.50 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Sulawesi Utara**<br>📍 Sulawesi Utara<br>Hujan lebat disertai petir akan terjadi pada 20 November 2026, 11:05 WITA di sebagian wilayah Sulawesi Utara, khususnya di KOMBI, SIAU TIMUR SELATAN. ...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CSR/2026/11/20/infografis.jpg) | Jum, 20 Nov, 10.05 – Jum, 20 Nov, 12.00 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kalimantan Timur**<br>📍 Kalimantan Timur<br>Hujan lebat disertai petir akan terjadi pada 20 November 2026, 10:30 WITA di sebagian wilayah Kalimantan Timur, khususnya di ANGGANA, BALIKPAPAN TIMUR...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CKT/2026/11/20/infografis.jpg) | Jum, 20 Nov, 09.30 – Jum, 20 Nov, 11.30 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Kep. Bangka Belitung**<br>📍 Kep. Bangka Belitung<br>Hujan lebat disertai petir akan terjadi pada 20 November 2026, 08:58 WIB di sebagian wilayah Kep. Bangka Belitung, khususnya di KELAPA KAMPIT. Kondisi...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CBB/2026/11/20/infografis.jpg) | Jum, 20 Nov, 08.58 – Jum, 20 Nov, 12.00 |
+| 🟡 Moderate | ⚡ Immediate | **Hujan Lebat disertai Petir di Papua Barat Daya**<br>📍 Papua Barat Daya<br>Hujan lebat disertai petir akan terjadi pada 20 November 2026, 10:07 WIT di sebagian wilayah Papua Barat Daya, khususnya di AIMAS, BAGUN, BERAUR, BOTA...<br>🗺️ [Lihat Infografik](https://nowcasting.bmkg.go.id/infografis/CPD/2026/11/20/infografis.jpg) | Jum, 20 Nov, 08.07 – Jum, 20 Nov, 11.44 |
 
 ---
 
@@ -28,6 +29,16 @@
 
 | Severity | Headline | Provinsi | Periode Berlaku | Terdeteksi |
 | --- | --- | --- | --- | --- |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Kep. Bangka Belitung | Kep. Bangka Belitung | Jum, 20 Nov, 08.58 – Jum, 20 Nov, 12.00 | Jum, 20 Nov, 11.19 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Sulawesi Utara | Sulawesi Utara | Jum, 20 Nov, 10.05 – Jum, 20 Nov, 12.00 | Jum, 20 Nov, 06.38 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Tengah | Kalimantan Tengah | Jum, 20 Nov, 10.50 – Jum, 20 Nov, 13.00 | Jum, 20 Nov, 11.19 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Nusa Tenggara Barat | Nusa Tenggara Barat | Jum, 20 Nov, 10.50 – Jum, 20 Nov, 12.50 | Jum, 20 Nov, 11.19 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Kep. Riau | Kep. Riau | Jum, 20 Nov, 11.10 – Jum, 20 Nov, 13.10 | Jum, 20 Nov, 11.19 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Papua Barat Daya | Papua Barat Daya | Jum, 20 Nov, 08.07 – Jum, 20 Nov, 11.44 | Jum, 20 Nov, 11.19 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Timur | Kalimantan Timur | Jum, 20 Nov, 09.30 – Jum, 20 Nov, 11.30 | Jum, 20 Nov, 11.19 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Jawa Timur | Jawa Timur | Jum, 20 Nov, 10.50 – Jum, 20 Nov, 13.50 | Jum, 20 Nov, 11.19 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Selatan | Kalimantan Selatan | Jum, 20 Nov, 10.42 – Jum, 20 Nov, 12.30 | Jum, 20 Nov, 11.19 |
+| 🟡 Moderate | Hujan Lebat disertai Petir di Papua | Papua | Jum, 20 Nov, 10.38 – Jum, 20 Nov, 11.38 | Jum, 20 Nov, 11.19 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Tengah | Kalimantan Tengah | Jum, 20 Nov, 03.10 – Jum, 20 Nov, 06.10 | Jum, 20 Nov, 00.11 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Barat | Kalimantan Barat | Jum, 20 Nov, 04.30 – Jum, 20 Nov, 06.30 | Jum, 20 Nov, 06.38 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Utara | Kalimantan Utara | Jum, 20 Nov, 04.10 – Jum, 20 Nov, 07.00 | Jum, 20 Nov, 06.38 |
@@ -36,18 +47,8 @@
 | 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Utara | Sumatera Utara | Jum, 20 Nov, 05.35 – Jum, 20 Nov, 08.05 | Jum, 20 Nov, 00.11 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Aceh | Aceh | Jum, 20 Nov, 04.20 – Jum, 20 Nov, 07.41 | Jum, 20 Nov, 06.38 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Kep. Bangka Belitung | Kep. Bangka Belitung | Jum, 20 Nov, 04.50 – Jum, 20 Nov, 06.50 | Jum, 20 Nov, 06.38 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Sulawesi Utara | Sulawesi Utara | Jum, 20 Nov, 06.25 – Jum, 20 Nov, 09.15 | Jum, 20 Nov, 06.38 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Jawa Barat | Jawa Barat | Kam, 19 Nov, 21.45 – Jum, 20 Nov, 01.10 | Jum, 20 Nov, 00.11 |
 | 🟡 Moderate | Hujan Lebat disertai Petir di Nusa Tenggara Timur | Nusa Tenggara Timur | Kam, 19 Nov, 22.00 – Jum, 20 Nov, 00.30 | Jum, 20 Nov, 00.11 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Jawa Tengah | Jawa Tengah | Kam, 19 Nov, 22.15 – Jum, 20 Nov, 00.30 | Jum, 20 Nov, 00.11 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Nusa Tenggara Barat | Nusa Tenggara Barat | Kam, 19 Nov, 22.05 – Jum, 20 Nov, 01.00 | Jum, 20 Nov, 00.11 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Kep. Riau | Kep. Riau | Kam, 19 Nov, 22.50 – Jum, 20 Nov, 02.00 | Jum, 20 Nov, 00.11 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Utara | Kalimantan Utara | Kam, 19 Nov, 22.45 – Jum, 20 Nov, 01.40 | Jum, 20 Nov, 00.11 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Maluku Utara | Maluku Utara | Jum, 20 Nov, 00.00 – Jum, 20 Nov, 03.00 | Jum, 20 Nov, 00.11 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Lampung | Lampung | Jum, 20 Nov, 00.00 – Jum, 20 Nov, 03.00 | Jum, 20 Nov, 00.11 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Kalimantan Barat | Kalimantan Barat | Jum, 20 Nov, 00.00 – Jum, 20 Nov, 02.00 | Jum, 20 Nov, 00.11 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Sumatera Utara | Sumatera Utara | Kam, 19 Nov, 12.30 – Kam, 19 Nov, 15.30 | Kam, 19 Nov, 14.55 |
-| 🟡 Moderate | Hujan Lebat disertai Petir di Papua | Papua | Kam, 19 Nov, 12.30 – Kam, 19 Nov, 14.30 | Kam, 19 Nov, 14.55 |
 
 ---
 
