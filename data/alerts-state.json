@@ -1,20 +1,16 @@
 {
   "schemaVersion": 3,
   "active": {
-    "aceh|hujan lebat dan petir": "8c784fd672c200d38d1ff7cb71c97dc6c80f7894",
-    "bali|hujan lebat dan petir": "a4e85062a96204803b8003b9856ac2c4091ca987",
-    "di yogyakarta|hujan lebat dan petir": "2093ad5732d5c0c7a4cd7cd143ae843606db1b72",
-    "jakarta|hujan lebat dan petir": "87adb006416dc162a72020a0dfc8f214c2802bd0",
-    "jambi|hujan lebat dan petir": "66324e0b0acc9a42f9410a9a5e835196bae9f22b",
-    "jawa barat|hujan lebat dan petir": "c2f00a1de5e87e22b6c6b85fd21d5c2e772a87ca",
-    "jawa tengah|hujan lebat dan petir": "76afc38b41f3458e2c5fbc4d094dde35e74612d4",
-    "jawa timur|hujan lebat dan petir": "65db10c117449b7def36edcbfb695317a5e113ae",
-    "kalimantan tengah|hujan lebat dan petir": "a6cb168e4c96a42bb464a116f407d603e67a9f6c",
-    "lampung|hujan lebat dan petir": "7bcb079ef65b3fb4b591ef3c868bb67ab349b05f",
-    "riau|hujan lebat dan petir": "090d89e82fe781df251fd5bcc603827263fbcf27",
-    "sulawesi selatan|hujan lebat dan petir": "7331dd4be493d2bd6aa4f9a1338cc268ba341200",
-    "sulawesi utara|hujan lebat dan petir": "26ff75cc2c1a993f032bd3a110b72337c3f5ca40",
-    "sumatera barat|hujan lebat dan petir": "b4d6559f2a8d7f763534c8b3280d5198bb839726"
+    "bengkulu|hujan lebat dan petir": "2d5e70f91a9de37e02ca487769f86da39aab6747",
+    "jambi|hujan lebat dan petir": "bde1b5f5fa74df51cd33116997619ce48d6d2654",
+    "jawa barat|hujan lebat dan petir": "29aa9a45886faba2656cb3e0b2d2007c8bd6e7d4",
+    "jawa timur|hujan lebat dan petir": "8d82a5a7b6d3684857c677e1d5cc034b7366a770",
+    "kalimantan tengah|hujan lebat dan petir": "0bba9cf8d4cb9119d6cb49c0731ca134fc83bf7a",
+    "lampung|hujan lebat dan petir": "115f81ee94f10f7f7ba488be3de161c99cb9605b",
+    "riau|hujan lebat dan petir": "9e58a3df6a51b9006c9f29b2b294eee3c52b5d2a",
+    "sulawesi selatan|hujan lebat dan petir": "10e57462eddfbe873f72ab8e1efcdf7de5714929",
+    "sulawesi tengah|hujan lebat dan petir": "2b04d2d9ae7086ef13f0aad81edec47c0209176e",
+    "sumatera selatan|hujan lebat dan petir": "cc9538865e8a3c5233004fb876f1e845dd0f0c60"
   },
-  "count": 14
+  "count": 10
 }
